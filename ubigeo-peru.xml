@@ -1,0 +1,2060 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ubigeos>
+  <ubigeo coddpto="01" codprov="00" coddist="00">AMAZONAS</ubigeo>
+  <ubigeo coddpto="01" codprov="01" coddist="00">CHACHAPOYAS</ubigeo>
+  <ubigeo coddpto="01" codprov="01" coddist="01">CHACHAPOYAS</ubigeo>
+  <ubigeo coddpto="01" codprov="01" coddist="02">ASUNCION</ubigeo>
+  <ubigeo coddpto="01" codprov="01" coddist="03">BALSAS</ubigeo>
+  <ubigeo coddpto="01" codprov="01" coddist="04">CHETO</ubigeo>
+  <ubigeo coddpto="01" codprov="01" coddist="05">CHILIQUIN</ubigeo>
+  <ubigeo coddpto="01" codprov="01" coddist="06">CHUQUIBAMBA</ubigeo>
+  <ubigeo coddpto="01" codprov="01" coddist="07">GRANADA</ubigeo>
+  <ubigeo coddpto="01" codprov="01" coddist="08">HUANCAS</ubigeo>
+  <ubigeo coddpto="01" codprov="01" coddist="09">LA JALCA</ubigeo>
+  <ubigeo coddpto="01" codprov="01" coddist="10">LEIMEBAMBA</ubigeo>
+  <ubigeo coddpto="01" codprov="01" coddist="11">LEVANTO</ubigeo>
+  <ubigeo coddpto="01" codprov="01" coddist="12">MAGDALENA</ubigeo>
+  <ubigeo coddpto="01" codprov="01" coddist="13">MARISCAL CASTILLA</ubigeo>
+  <ubigeo coddpto="01" codprov="01" coddist="14">MOLINOPAMPA</ubigeo>
+  <ubigeo coddpto="01" codprov="01" coddist="15">MONTEVIDEO</ubigeo>
+  <ubigeo coddpto="01" codprov="01" coddist="16">OLLEROS</ubigeo>
+  <ubigeo coddpto="01" codprov="01" coddist="17">QUINJALCA</ubigeo>
+  <ubigeo coddpto="01" codprov="01" coddist="18">SAN FRANCISCO DE DAGUAS</ubigeo>
+  <ubigeo coddpto="01" codprov="01" coddist="19">SAN ISIDRO DE MAINO</ubigeo>
+  <ubigeo coddpto="01" codprov="01" coddist="20">SOLOCO</ubigeo>
+  <ubigeo coddpto="01" codprov="01" coddist="21">SONCHE</ubigeo>
+  <ubigeo coddpto="01" codprov="02" coddist="00">BAGUA</ubigeo>
+  <ubigeo coddpto="01" codprov="02" coddist="01">BAGUA</ubigeo>
+  <ubigeo coddpto="01" codprov="02" coddist="02">ARAMANGO</ubigeo>
+  <ubigeo coddpto="01" codprov="02" coddist="03">COPALLIN</ubigeo>
+  <ubigeo coddpto="01" codprov="02" coddist="04">EL PARCO</ubigeo>
+  <ubigeo coddpto="01" codprov="02" coddist="05">IMAZA</ubigeo>
+  <ubigeo coddpto="01" codprov="02" coddist="06">LA PECA</ubigeo>
+  <ubigeo coddpto="01" codprov="03" coddist="00">BONGARA</ubigeo>
+  <ubigeo coddpto="01" codprov="03" coddist="01">JUMBILLA</ubigeo>
+  <ubigeo coddpto="01" codprov="03" coddist="02">CHISQUILLA</ubigeo>
+  <ubigeo coddpto="01" codprov="03" coddist="03">CHURUJA</ubigeo>
+  <ubigeo coddpto="01" codprov="03" coddist="04">COROSHA</ubigeo>
+  <ubigeo coddpto="01" codprov="03" coddist="05">CUISPES</ubigeo>
+  <ubigeo coddpto="01" codprov="03" coddist="06">FLORIDA</ubigeo>
+  <ubigeo coddpto="01" codprov="03" coddist="07">JAZAN</ubigeo>
+  <ubigeo coddpto="01" codprov="03" coddist="08">RECTA</ubigeo>
+  <ubigeo coddpto="01" codprov="03" coddist="09">SAN CARLOS</ubigeo>
+  <ubigeo coddpto="01" codprov="03" coddist="10">SHIPASBAMBA</ubigeo>
+  <ubigeo coddpto="01" codprov="03" coddist="11">VALERA</ubigeo>
+  <ubigeo coddpto="01" codprov="03" coddist="12">YAMBRASBAMBA</ubigeo>
+  <ubigeo coddpto="01" codprov="04" coddist="00">CONDORCANQUI</ubigeo>
+  <ubigeo coddpto="01" codprov="04" coddist="01">NIEVA</ubigeo>
+  <ubigeo coddpto="01" codprov="04" coddist="02">EL CENEPA</ubigeo>
+  <ubigeo coddpto="01" codprov="04" coddist="03">RIO SANTIAGO</ubigeo>
+  <ubigeo coddpto="01" codprov="05" coddist="00">LUYA</ubigeo>
+  <ubigeo coddpto="01" codprov="05" coddist="01">LAMUD</ubigeo>
+  <ubigeo coddpto="01" codprov="05" coddist="02">CAMPORREDONDO</ubigeo>
+  <ubigeo coddpto="01" codprov="05" coddist="03">COCABAMBA</ubigeo>
+  <ubigeo coddpto="01" codprov="05" coddist="04">COLCAMAR</ubigeo>
+  <ubigeo coddpto="01" codprov="05" coddist="05">CONILA</ubigeo>
+  <ubigeo coddpto="01" codprov="05" coddist="06">INGUILPATA</ubigeo>
+  <ubigeo coddpto="01" codprov="05" coddist="07">LONGUITA</ubigeo>
+  <ubigeo coddpto="01" codprov="05" coddist="08">LONYA CHICO</ubigeo>
+  <ubigeo coddpto="01" codprov="05" coddist="09">LUYA</ubigeo>
+  <ubigeo coddpto="01" codprov="05" coddist="10">LUYA VIEJO</ubigeo>
+  <ubigeo coddpto="01" codprov="05" coddist="11">MARIA</ubigeo>
+  <ubigeo coddpto="01" codprov="05" coddist="12">OCALLI</ubigeo>
+  <ubigeo coddpto="01" codprov="05" coddist="13">OCUMAL</ubigeo>
+  <ubigeo coddpto="01" codprov="05" coddist="14">PISUQUIA</ubigeo>
+  <ubigeo coddpto="01" codprov="05" coddist="15">PROVIDENCIA</ubigeo>
+  <ubigeo coddpto="01" codprov="05" coddist="16">SAN CRISTOBAL</ubigeo>
+  <ubigeo coddpto="01" codprov="05" coddist="17">SAN FRANCISCO DEL YESO</ubigeo>
+  <ubigeo coddpto="01" codprov="05" coddist="18">SAN JERONIMO</ubigeo>
+  <ubigeo coddpto="01" codprov="05" coddist="19">SAN JUAN DE LOPECANCHA</ubigeo>
+  <ubigeo coddpto="01" codprov="05" coddist="20">SANTA CATALINA</ubigeo>
+  <ubigeo coddpto="01" codprov="05" coddist="21">SANTO TOMAS</ubigeo>
+  <ubigeo coddpto="01" codprov="05" coddist="22">TINGO</ubigeo>
+  <ubigeo coddpto="01" codprov="05" coddist="23">TRITA</ubigeo>
+  <ubigeo coddpto="01" codprov="06" coddist="00">RODRIGUEZ DE MENDOZA</ubigeo>
+  <ubigeo coddpto="01" codprov="06" coddist="01">SAN NICOLAS</ubigeo>
+  <ubigeo coddpto="01" codprov="06" coddist="02">CHIRIMOTO</ubigeo>
+  <ubigeo coddpto="01" codprov="06" coddist="03">COCHAMAL</ubigeo>
+  <ubigeo coddpto="01" codprov="06" coddist="04">HUAMBO</ubigeo>
+  <ubigeo coddpto="01" codprov="06" coddist="05">LIMABAMBA</ubigeo>
+  <ubigeo coddpto="01" codprov="06" coddist="06">LONGAR</ubigeo>
+  <ubigeo coddpto="01" codprov="06" coddist="07">MARISCAL BENAVIDES</ubigeo>
+  <ubigeo coddpto="01" codprov="06" coddist="08">MILPUC</ubigeo>
+  <ubigeo coddpto="01" codprov="06" coddist="09">OMIA</ubigeo>
+  <ubigeo coddpto="01" codprov="06" coddist="10">SANTA ROSA</ubigeo>
+  <ubigeo coddpto="01" codprov="06" coddist="11">TOTORA</ubigeo>
+  <ubigeo coddpto="01" codprov="06" coddist="12">VISTA ALEGRE</ubigeo>
+  <ubigeo coddpto="01" codprov="07" coddist="00">UTCUBAMBA</ubigeo>
+  <ubigeo coddpto="01" codprov="07" coddist="01">BAGUA GRANDE</ubigeo>
+  <ubigeo coddpto="01" codprov="07" coddist="02">CAJARURO</ubigeo>
+  <ubigeo coddpto="01" codprov="07" coddist="03">CUMBA</ubigeo>
+  <ubigeo coddpto="01" codprov="07" coddist="04">EL MILAGRO</ubigeo>
+  <ubigeo coddpto="01" codprov="07" coddist="05">JAMALCA</ubigeo>
+  <ubigeo coddpto="01" codprov="07" coddist="06">LONYA GRANDE</ubigeo>
+  <ubigeo coddpto="01" codprov="07" coddist="07">YAMON</ubigeo>
+  <ubigeo coddpto="02" codprov="00" coddist="00">ANCASH</ubigeo>
+  <ubigeo coddpto="02" codprov="01" coddist="00">HUARAZ</ubigeo>
+  <ubigeo coddpto="02" codprov="01" coddist="01">HUARAZ</ubigeo>
+  <ubigeo coddpto="02" codprov="01" coddist="02">COCHABAMBA</ubigeo>
+  <ubigeo coddpto="02" codprov="01" coddist="03">COLCABAMBA</ubigeo>
+  <ubigeo coddpto="02" codprov="01" coddist="04">HUANCHAY</ubigeo>
+  <ubigeo coddpto="02" codprov="01" coddist="05">INDEPENDENCIA</ubigeo>
+  <ubigeo coddpto="02" codprov="01" coddist="06">JANGAS</ubigeo>
+  <ubigeo coddpto="02" codprov="01" coddist="07">LA LIBERTAD</ubigeo>
+  <ubigeo coddpto="02" codprov="01" coddist="08">OLLEROS</ubigeo>
+  <ubigeo coddpto="02" codprov="01" coddist="09">PAMPAS</ubigeo>
+  <ubigeo coddpto="02" codprov="01" coddist="10">PARIACOTO</ubigeo>
+  <ubigeo coddpto="02" codprov="01" coddist="11">PIRA</ubigeo>
+  <ubigeo coddpto="02" codprov="01" coddist="12">TARICA</ubigeo>
+  <ubigeo coddpto="02" codprov="02" coddist="00">AIJA</ubigeo>
+  <ubigeo coddpto="02" codprov="02" coddist="01">AIJA</ubigeo>
+  <ubigeo coddpto="02" codprov="02" coddist="02">CORIS</ubigeo>
+  <ubigeo coddpto="02" codprov="02" coddist="03">HUACLLAN</ubigeo>
+  <ubigeo coddpto="02" codprov="02" coddist="04">LA MERCED</ubigeo>
+  <ubigeo coddpto="02" codprov="02" coddist="05">SUCCHA</ubigeo>
+  <ubigeo coddpto="02" codprov="03" coddist="00">ANTONIO RAYMONDI</ubigeo>
+  <ubigeo coddpto="02" codprov="03" coddist="01">LLAMELLIN</ubigeo>
+  <ubigeo coddpto="02" codprov="03" coddist="02">ACZO</ubigeo>
+  <ubigeo coddpto="02" codprov="03" coddist="03">CHACCHO</ubigeo>
+  <ubigeo coddpto="02" codprov="03" coddist="04">CHINGAS</ubigeo>
+  <ubigeo coddpto="02" codprov="03" coddist="05">MIRGAS</ubigeo>
+  <ubigeo coddpto="02" codprov="03" coddist="06">SAN JUAN DE RONTOY</ubigeo>
+  <ubigeo coddpto="02" codprov="04" coddist="00">ASUNCION</ubigeo>
+  <ubigeo coddpto="02" codprov="04" coddist="01">CHACAS</ubigeo>
+  <ubigeo coddpto="02" codprov="04" coddist="02">ACOCHACA</ubigeo>
+  <ubigeo coddpto="02" codprov="05" coddist="00">BOLOGNESI</ubigeo>
+  <ubigeo coddpto="02" codprov="05" coddist="01">CHIQUIAN</ubigeo>
+  <ubigeo coddpto="02" codprov="05" coddist="02">ABELARDO PARDO LEZAMETA</ubigeo>
+  <ubigeo coddpto="02" codprov="05" coddist="03">ANTONIO RAYMONDI</ubigeo>
+  <ubigeo coddpto="02" codprov="05" coddist="04">AQUIA</ubigeo>
+  <ubigeo coddpto="02" codprov="05" coddist="05">CAJACAY</ubigeo>
+  <ubigeo coddpto="02" codprov="05" coddist="06">CANIS</ubigeo>
+  <ubigeo coddpto="02" codprov="05" coddist="07">COLQUIOC</ubigeo>
+  <ubigeo coddpto="02" codprov="05" coddist="08">HUALLANCA</ubigeo>
+  <ubigeo coddpto="02" codprov="05" coddist="09">HUASTA</ubigeo>
+  <ubigeo coddpto="02" codprov="05" coddist="10">HUAYLLACAYAN</ubigeo>
+  <ubigeo coddpto="02" codprov="05" coddist="11">LA PRIMAVERA</ubigeo>
+  <ubigeo coddpto="02" codprov="05" coddist="12">MANGAS</ubigeo>
+  <ubigeo coddpto="02" codprov="05" coddist="13">PACLLON</ubigeo>
+  <ubigeo coddpto="02" codprov="05" coddist="14">SAN MIGUEL DE CORPANQUI</ubigeo>
+  <ubigeo coddpto="02" codprov="05" coddist="15">TICLLOS</ubigeo>
+  <ubigeo coddpto="02" codprov="06" coddist="00">CARHUAZ</ubigeo>
+  <ubigeo coddpto="02" codprov="06" coddist="01">CARHUAZ</ubigeo>
+  <ubigeo coddpto="02" codprov="06" coddist="02">ACOPAMPA</ubigeo>
+  <ubigeo coddpto="02" codprov="06" coddist="03">AMASHCA</ubigeo>
+  <ubigeo coddpto="02" codprov="06" coddist="04">ANTA</ubigeo>
+  <ubigeo coddpto="02" codprov="06" coddist="05">ATAQUERO</ubigeo>
+  <ubigeo coddpto="02" codprov="06" coddist="06">MARCARA</ubigeo>
+  <ubigeo coddpto="02" codprov="06" coddist="07">PARIAHUANCA</ubigeo>
+  <ubigeo coddpto="02" codprov="06" coddist="08">SAN MIGUEL DE ACO</ubigeo>
+  <ubigeo coddpto="02" codprov="06" coddist="09">SHILLA</ubigeo>
+  <ubigeo coddpto="02" codprov="06" coddist="10">TINCO</ubigeo>
+  <ubigeo coddpto="02" codprov="06" coddist="11">YUNGAR</ubigeo>
+  <ubigeo coddpto="02" codprov="07" coddist="00">CARLOS FERMIN FITZCARRALD</ubigeo>
+  <ubigeo coddpto="02" codprov="07" coddist="01">SAN LUIS</ubigeo>
+  <ubigeo coddpto="02" codprov="07" coddist="02">SAN NICOLAS</ubigeo>
+  <ubigeo coddpto="02" codprov="07" coddist="03">YAUYA</ubigeo>
+  <ubigeo coddpto="02" codprov="08" coddist="00">CASMA</ubigeo>
+  <ubigeo coddpto="02" codprov="08" coddist="01">CASMA</ubigeo>
+  <ubigeo coddpto="02" codprov="08" coddist="02">BUENA VISTA ALTA</ubigeo>
+  <ubigeo coddpto="02" codprov="08" coddist="03">COMANDANTE NOEL</ubigeo>
+  <ubigeo coddpto="02" codprov="08" coddist="04">YAUTAN</ubigeo>
+  <ubigeo coddpto="02" codprov="09" coddist="00">CORONGO</ubigeo>
+  <ubigeo coddpto="02" codprov="09" coddist="01">CORONGO</ubigeo>
+  <ubigeo coddpto="02" codprov="09" coddist="02">ACO</ubigeo>
+  <ubigeo coddpto="02" codprov="09" coddist="03">BAMBAS</ubigeo>
+  <ubigeo coddpto="02" codprov="09" coddist="04">CUSCA</ubigeo>
+  <ubigeo coddpto="02" codprov="09" coddist="05">LA PAMPA</ubigeo>
+  <ubigeo coddpto="02" codprov="09" coddist="06">YANAC</ubigeo>
+  <ubigeo coddpto="02" codprov="09" coddist="07">YUPAN</ubigeo>
+  <ubigeo coddpto="02" codprov="10" coddist="00">HUARI</ubigeo>
+  <ubigeo coddpto="02" codprov="10" coddist="01">HUARI</ubigeo>
+  <ubigeo coddpto="02" codprov="10" coddist="02">ANRA</ubigeo>
+  <ubigeo coddpto="02" codprov="10" coddist="03">CAJAY</ubigeo>
+  <ubigeo coddpto="02" codprov="10" coddist="04">CHAVIN DE HUANTAR</ubigeo>
+  <ubigeo coddpto="02" codprov="10" coddist="05">HUACACHI</ubigeo>
+  <ubigeo coddpto="02" codprov="10" coddist="06">HUACCHIS</ubigeo>
+  <ubigeo coddpto="02" codprov="10" coddist="07">HUACHIS</ubigeo>
+  <ubigeo coddpto="02" codprov="10" coddist="08">HUANTAR</ubigeo>
+  <ubigeo coddpto="02" codprov="10" coddist="09">MASIN</ubigeo>
+  <ubigeo coddpto="02" codprov="10" coddist="10">PAUCAS</ubigeo>
+  <ubigeo coddpto="02" codprov="10" coddist="11">PONTO</ubigeo>
+  <ubigeo coddpto="02" codprov="10" coddist="12">RAHUAPAMPA</ubigeo>
+  <ubigeo coddpto="02" codprov="10" coddist="13">RAPAYAN</ubigeo>
+  <ubigeo coddpto="02" codprov="10" coddist="14">SAN MARCOS</ubigeo>
+  <ubigeo coddpto="02" codprov="10" coddist="15">SAN PEDRO DE CHANA</ubigeo>
+  <ubigeo coddpto="02" codprov="10" coddist="16">UCO</ubigeo>
+  <ubigeo coddpto="02" codprov="11" coddist="00">HUARMEY</ubigeo>
+  <ubigeo coddpto="02" codprov="11" coddist="01">HUARMEY</ubigeo>
+  <ubigeo coddpto="02" codprov="11" coddist="02">COCHAPETI</ubigeo>
+  <ubigeo coddpto="02" codprov="11" coddist="03">CULEBRAS</ubigeo>
+  <ubigeo coddpto="02" codprov="11" coddist="04">HUAYAN</ubigeo>
+  <ubigeo coddpto="02" codprov="11" coddist="05">MALVAS</ubigeo>
+  <ubigeo coddpto="02" codprov="12" coddist="00">HUAYLAS</ubigeo>
+  <ubigeo coddpto="02" codprov="12" coddist="01">CARAZ</ubigeo>
+  <ubigeo coddpto="02" codprov="12" coddist="02">HUALLANCA</ubigeo>
+  <ubigeo coddpto="02" codprov="12" coddist="03">HUATA</ubigeo>
+  <ubigeo coddpto="02" codprov="12" coddist="04">HUAYLAS</ubigeo>
+  <ubigeo coddpto="02" codprov="12" coddist="05">MATO</ubigeo>
+  <ubigeo coddpto="02" codprov="12" coddist="06">PAMPAROMAS</ubigeo>
+  <ubigeo coddpto="02" codprov="12" coddist="07">PUEBLO LIBRE</ubigeo>
+  <ubigeo coddpto="02" codprov="12" coddist="08">SANTA CRUZ</ubigeo>
+  <ubigeo coddpto="02" codprov="12" coddist="09">SANTO TORIBIO</ubigeo>
+  <ubigeo coddpto="02" codprov="12" coddist="10">YURACMARCA</ubigeo>
+  <ubigeo coddpto="02" codprov="13" coddist="00">MARISCAL LUZURIAGA</ubigeo>
+  <ubigeo coddpto="02" codprov="13" coddist="01">PISCOBAMBA</ubigeo>
+  <ubigeo coddpto="02" codprov="13" coddist="02">CASCA</ubigeo>
+  <ubigeo coddpto="02" codprov="13" coddist="03">ELEAZAR GUZMAN BARRON</ubigeo>
+  <ubigeo coddpto="02" codprov="13" coddist="04">FIDEL OLIVAS ESCUDERO</ubigeo>
+  <ubigeo coddpto="02" codprov="13" coddist="05">LLAMA</ubigeo>
+  <ubigeo coddpto="02" codprov="13" coddist="06">LLUMPA</ubigeo>
+  <ubigeo coddpto="02" codprov="13" coddist="07">LUCMA</ubigeo>
+  <ubigeo coddpto="02" codprov="13" coddist="08">MUSGA</ubigeo>
+  <ubigeo coddpto="02" codprov="14" coddist="00">OCROS</ubigeo>
+  <ubigeo coddpto="02" codprov="14" coddist="01">OCROS</ubigeo>
+  <ubigeo coddpto="02" codprov="14" coddist="02">ACAS</ubigeo>
+  <ubigeo coddpto="02" codprov="14" coddist="03">CAJAMARQUILLA</ubigeo>
+  <ubigeo coddpto="02" codprov="14" coddist="04">CARHUAPAMPA</ubigeo>
+  <ubigeo coddpto="02" codprov="14" coddist="05">COCHAS</ubigeo>
+  <ubigeo coddpto="02" codprov="14" coddist="06">CONGAS</ubigeo>
+  <ubigeo coddpto="02" codprov="14" coddist="07">LLIPA</ubigeo>
+  <ubigeo coddpto="02" codprov="14" coddist="08">SAN CRISTOBAL DE RAJAN</ubigeo>
+  <ubigeo coddpto="02" codprov="14" coddist="09">SAN PEDRO</ubigeo>
+  <ubigeo coddpto="02" codprov="14" coddist="10">SANTIAGO DE CHILCAS</ubigeo>
+  <ubigeo coddpto="02" codprov="15" coddist="00">PALLASCA</ubigeo>
+  <ubigeo coddpto="02" codprov="15" coddist="01">CABANA</ubigeo>
+  <ubigeo coddpto="02" codprov="15" coddist="02">BOLOGNESI</ubigeo>
+  <ubigeo coddpto="02" codprov="15" coddist="03">CONCHUCOS</ubigeo>
+  <ubigeo coddpto="02" codprov="15" coddist="04">HUACASCHUQUE</ubigeo>
+  <ubigeo coddpto="02" codprov="15" coddist="05">HUANDOVAL</ubigeo>
+  <ubigeo coddpto="02" codprov="15" coddist="06">LACABAMBA</ubigeo>
+  <ubigeo coddpto="02" codprov="15" coddist="07">LLAPO</ubigeo>
+  <ubigeo coddpto="02" codprov="15" coddist="08">PALLASCA</ubigeo>
+  <ubigeo coddpto="02" codprov="15" coddist="09">PAMPAS</ubigeo>
+  <ubigeo coddpto="02" codprov="15" coddist="10">SANTA ROSA</ubigeo>
+  <ubigeo coddpto="02" codprov="15" coddist="11">TAUCA</ubigeo>
+  <ubigeo coddpto="02" codprov="16" coddist="00">POMABAMBA</ubigeo>
+  <ubigeo coddpto="02" codprov="16" coddist="01">POMABAMBA</ubigeo>
+  <ubigeo coddpto="02" codprov="16" coddist="02">HUAYLLAN</ubigeo>
+  <ubigeo coddpto="02" codprov="16" coddist="03">PAROBAMBA</ubigeo>
+  <ubigeo coddpto="02" codprov="16" coddist="04">QUINUABAMBA</ubigeo>
+  <ubigeo coddpto="02" codprov="17" coddist="00">RECUAY</ubigeo>
+  <ubigeo coddpto="02" codprov="17" coddist="01">RECUAY</ubigeo>
+  <ubigeo coddpto="02" codprov="17" coddist="02">CATAC</ubigeo>
+  <ubigeo coddpto="02" codprov="17" coddist="03">COTAPARACO</ubigeo>
+  <ubigeo coddpto="02" codprov="17" coddist="04">HUAYLLAPAMPA</ubigeo>
+  <ubigeo coddpto="02" codprov="17" coddist="05">LLACLLIN</ubigeo>
+  <ubigeo coddpto="02" codprov="17" coddist="06">MARCA</ubigeo>
+  <ubigeo coddpto="02" codprov="17" coddist="07">PAMPAS CHICO</ubigeo>
+  <ubigeo coddpto="02" codprov="17" coddist="08">PARARIN</ubigeo>
+  <ubigeo coddpto="02" codprov="17" coddist="09">TAPACOCHA</ubigeo>
+  <ubigeo coddpto="02" codprov="17" coddist="10">TICAPAMPA</ubigeo>
+  <ubigeo coddpto="02" codprov="18" coddist="00">SANTA</ubigeo>
+  <ubigeo coddpto="02" codprov="18" coddist="01">CHIMBOTE</ubigeo>
+  <ubigeo coddpto="02" codprov="18" coddist="02">CACERES DEL PERU</ubigeo>
+  <ubigeo coddpto="02" codprov="18" coddist="03">COISHCO</ubigeo>
+  <ubigeo coddpto="02" codprov="18" coddist="04">MACATE</ubigeo>
+  <ubigeo coddpto="02" codprov="18" coddist="05">MORO</ubigeo>
+  <ubigeo coddpto="02" codprov="18" coddist="06">NEPEÑA</ubigeo>
+  <ubigeo coddpto="02" codprov="18" coddist="07">SAMANCO</ubigeo>
+  <ubigeo coddpto="02" codprov="18" coddist="08">SANTA</ubigeo>
+  <ubigeo coddpto="02" codprov="18" coddist="09">NUEVO CHIMBOTE</ubigeo>
+  <ubigeo coddpto="02" codprov="19" coddist="00">SIHUAS</ubigeo>
+  <ubigeo coddpto="02" codprov="19" coddist="01">SIHUAS</ubigeo>
+  <ubigeo coddpto="02" codprov="19" coddist="02">ACOBAMBA</ubigeo>
+  <ubigeo coddpto="02" codprov="19" coddist="03">ALFONSO UGARTE</ubigeo>
+  <ubigeo coddpto="02" codprov="19" coddist="04">CASHAPAMPA</ubigeo>
+  <ubigeo coddpto="02" codprov="19" coddist="05">CHINGALPO</ubigeo>
+  <ubigeo coddpto="02" codprov="19" coddist="06">HUAYLLABAMBA</ubigeo>
+  <ubigeo coddpto="02" codprov="19" coddist="07">QUICHES</ubigeo>
+  <ubigeo coddpto="02" codprov="19" coddist="08">RAGASH</ubigeo>
+  <ubigeo coddpto="02" codprov="19" coddist="09">SAN JUAN</ubigeo>
+  <ubigeo coddpto="02" codprov="19" coddist="10">SICSIBAMBA</ubigeo>
+  <ubigeo coddpto="02" codprov="20" coddist="00">YUNGAY</ubigeo>
+  <ubigeo coddpto="02" codprov="20" coddist="01">YUNGAY</ubigeo>
+  <ubigeo coddpto="02" codprov="20" coddist="02">CASCAPARA</ubigeo>
+  <ubigeo coddpto="02" codprov="20" coddist="03">MANCOS</ubigeo>
+  <ubigeo coddpto="02" codprov="20" coddist="04">MATACOTO</ubigeo>
+  <ubigeo coddpto="02" codprov="20" coddist="05">QUILLO</ubigeo>
+  <ubigeo coddpto="02" codprov="20" coddist="06">RANRAHIRCA</ubigeo>
+  <ubigeo coddpto="02" codprov="20" coddist="07">SHUPLUY</ubigeo>
+  <ubigeo coddpto="02" codprov="20" coddist="08">YANAMA</ubigeo>
+  <ubigeo coddpto="03" codprov="00" coddist="00">APURIMAC</ubigeo>
+  <ubigeo coddpto="03" codprov="01" coddist="00">ABANCAY</ubigeo>
+  <ubigeo coddpto="03" codprov="01" coddist="01">ABANCAY</ubigeo>
+  <ubigeo coddpto="03" codprov="01" coddist="02">CHACOCHE</ubigeo>
+  <ubigeo coddpto="03" codprov="01" coddist="03">CIRCA</ubigeo>
+  <ubigeo coddpto="03" codprov="01" coddist="04">CURAHUASI</ubigeo>
+  <ubigeo coddpto="03" codprov="01" coddist="05">HUANIPACA</ubigeo>
+  <ubigeo coddpto="03" codprov="01" coddist="06">LAMBRAMA</ubigeo>
+  <ubigeo coddpto="03" codprov="01" coddist="07">PICHIRHUA</ubigeo>
+  <ubigeo coddpto="03" codprov="01" coddist="08">SAN PEDRO DE CACHORA</ubigeo>
+  <ubigeo coddpto="03" codprov="01" coddist="09">TAMBURCO</ubigeo>
+  <ubigeo coddpto="03" codprov="02" coddist="00">ANDAHUAYLAS</ubigeo>
+  <ubigeo coddpto="03" codprov="02" coddist="01">ANDAHUAYLAS</ubigeo>
+  <ubigeo coddpto="03" codprov="02" coddist="02">ANDARAPA</ubigeo>
+  <ubigeo coddpto="03" codprov="02" coddist="03">CHIARA</ubigeo>
+  <ubigeo coddpto="03" codprov="02" coddist="04">HUANCARAMA</ubigeo>
+  <ubigeo coddpto="03" codprov="02" coddist="05">HUANCARAY</ubigeo>
+  <ubigeo coddpto="03" codprov="02" coddist="06">HUAYANA</ubigeo>
+  <ubigeo coddpto="03" codprov="02" coddist="07">KISHUARA</ubigeo>
+  <ubigeo coddpto="03" codprov="02" coddist="08">PACOBAMBA</ubigeo>
+  <ubigeo coddpto="03" codprov="02" coddist="09">PACUCHA</ubigeo>
+  <ubigeo coddpto="03" codprov="02" coddist="10">PAMPACHIRI</ubigeo>
+  <ubigeo coddpto="03" codprov="02" coddist="11">POMACOCHA</ubigeo>
+  <ubigeo coddpto="03" codprov="02" coddist="12">SAN ANTONIO DE CACHI</ubigeo>
+  <ubigeo coddpto="03" codprov="02" coddist="13">SAN JERONIMO</ubigeo>
+  <ubigeo coddpto="03" codprov="02" coddist="14">SAN MIGUEL DE CHACCRAMPA</ubigeo>
+  <ubigeo coddpto="03" codprov="02" coddist="15">SANTA MARIA DE CHICMO</ubigeo>
+  <ubigeo coddpto="03" codprov="02" coddist="16">TALAVERA</ubigeo>
+  <ubigeo coddpto="03" codprov="02" coddist="17">TUMAY HUARACA</ubigeo>
+  <ubigeo coddpto="03" codprov="02" coddist="18">TURPO</ubigeo>
+  <ubigeo coddpto="03" codprov="02" coddist="19">KAQUIABAMBA</ubigeo>
+  <ubigeo coddpto="03" codprov="03" coddist="00">ANTABAMBA</ubigeo>
+  <ubigeo coddpto="03" codprov="03" coddist="01">ANTABAMBA</ubigeo>
+  <ubigeo coddpto="03" codprov="03" coddist="02">EL ORO</ubigeo>
+  <ubigeo coddpto="03" codprov="03" coddist="03">HUAQUIRCA</ubigeo>
+  <ubigeo coddpto="03" codprov="03" coddist="04">JUAN ESPINOZA MEDRANO</ubigeo>
+  <ubigeo coddpto="03" codprov="03" coddist="05">OROPESA</ubigeo>
+  <ubigeo coddpto="03" codprov="03" coddist="06">PACHACONAS</ubigeo>
+  <ubigeo coddpto="03" codprov="03" coddist="07">SABAINO</ubigeo>
+  <ubigeo coddpto="03" codprov="04" coddist="00">AYMARAES</ubigeo>
+  <ubigeo coddpto="03" codprov="04" coddist="01">CHALHUANCA</ubigeo>
+  <ubigeo coddpto="03" codprov="04" coddist="02">CAPAYA</ubigeo>
+  <ubigeo coddpto="03" codprov="04" coddist="03">CARAYBAMBA</ubigeo>
+  <ubigeo coddpto="03" codprov="04" coddist="04">CHAPIMARCA</ubigeo>
+  <ubigeo coddpto="03" codprov="04" coddist="05">COLCABAMBA</ubigeo>
+  <ubigeo coddpto="03" codprov="04" coddist="06">COTARUSE</ubigeo>
+  <ubigeo coddpto="03" codprov="04" coddist="07">HUAYLLO</ubigeo>
+  <ubigeo coddpto="03" codprov="04" coddist="08">JUSTO APU SAHUARAURA</ubigeo>
+  <ubigeo coddpto="03" codprov="04" coddist="09">LUCRE</ubigeo>
+  <ubigeo coddpto="03" codprov="04" coddist="10">POCOHUANCA</ubigeo>
+  <ubigeo coddpto="03" codprov="04" coddist="11">SAN JUAN DE CHACÑA</ubigeo>
+  <ubigeo coddpto="03" codprov="04" coddist="12">SAÑAYCA</ubigeo>
+  <ubigeo coddpto="03" codprov="04" coddist="13">SORAYA</ubigeo>
+  <ubigeo coddpto="03" codprov="04" coddist="14">TAPAIRIHUA</ubigeo>
+  <ubigeo coddpto="03" codprov="04" coddist="15">TINTAY</ubigeo>
+  <ubigeo coddpto="03" codprov="04" coddist="16">TORAYA</ubigeo>
+  <ubigeo coddpto="03" codprov="04" coddist="17">YANACA</ubigeo>
+  <ubigeo coddpto="03" codprov="05" coddist="00">COTABAMBAS</ubigeo>
+  <ubigeo coddpto="03" codprov="05" coddist="01">TAMBOBAMBA</ubigeo>
+  <ubigeo coddpto="03" codprov="05" coddist="02">COTABAMBAS</ubigeo>
+  <ubigeo coddpto="03" codprov="05" coddist="03">COYLLURQUI</ubigeo>
+  <ubigeo coddpto="03" codprov="05" coddist="04">HAQUIRA</ubigeo>
+  <ubigeo coddpto="03" codprov="05" coddist="05">MARA</ubigeo>
+  <ubigeo coddpto="03" codprov="05" coddist="06">CHALLHUAHUACHO</ubigeo>
+  <ubigeo coddpto="03" codprov="06" coddist="00">CHINCHEROS</ubigeo>
+  <ubigeo coddpto="03" codprov="06" coddist="01">CHINCHEROS</ubigeo>
+  <ubigeo coddpto="03" codprov="06" coddist="02">ANCO_HUALLO</ubigeo>
+  <ubigeo coddpto="03" codprov="06" coddist="03">COCHARCAS</ubigeo>
+  <ubigeo coddpto="03" codprov="06" coddist="04">HUACCANA</ubigeo>
+  <ubigeo coddpto="03" codprov="06" coddist="05">OCOBAMBA</ubigeo>
+  <ubigeo coddpto="03" codprov="06" coddist="06">ONGOY</ubigeo>
+  <ubigeo coddpto="03" codprov="06" coddist="07">URANMARCA</ubigeo>
+  <ubigeo coddpto="03" codprov="06" coddist="08">RANRACANCHA</ubigeo>
+  <ubigeo coddpto="03" codprov="07" coddist="00">GRAU</ubigeo>
+  <ubigeo coddpto="03" codprov="07" coddist="01">CHUQUIBAMBILLA</ubigeo>
+  <ubigeo coddpto="03" codprov="07" coddist="02">CURPAHUASI</ubigeo>
+  <ubigeo coddpto="03" codprov="07" coddist="03">GAMARRA</ubigeo>
+  <ubigeo coddpto="03" codprov="07" coddist="04">HUAYLLATI</ubigeo>
+  <ubigeo coddpto="03" codprov="07" coddist="05">MAMARA</ubigeo>
+  <ubigeo coddpto="03" codprov="07" coddist="06">MICAELA BASTIDAS</ubigeo>
+  <ubigeo coddpto="03" codprov="07" coddist="07">PATAYPAMPA</ubigeo>
+  <ubigeo coddpto="03" codprov="07" coddist="08">PROGRESO</ubigeo>
+  <ubigeo coddpto="03" codprov="07" coddist="09">SAN ANTONIO</ubigeo>
+  <ubigeo coddpto="03" codprov="07" coddist="10">SANTA ROSA</ubigeo>
+  <ubigeo coddpto="03" codprov="07" coddist="11">TURPAY</ubigeo>
+  <ubigeo coddpto="03" codprov="07" coddist="12">VILCABAMBA</ubigeo>
+  <ubigeo coddpto="03" codprov="07" coddist="13">VIRUNDO</ubigeo>
+  <ubigeo coddpto="03" codprov="07" coddist="14">CURASCO</ubigeo>
+  <ubigeo coddpto="04" codprov="00" coddist="00">AREQUIPA</ubigeo>
+  <ubigeo coddpto="04" codprov="01" coddist="00">AREQUIPA</ubigeo>
+  <ubigeo coddpto="04" codprov="01" coddist="01">AREQUIPA</ubigeo>
+  <ubigeo coddpto="04" codprov="01" coddist="02">ALTO SELVA ALEGRE</ubigeo>
+  <ubigeo coddpto="04" codprov="01" coddist="03">CAYMA</ubigeo>
+  <ubigeo coddpto="04" codprov="01" coddist="04">CERRO COLORADO</ubigeo>
+  <ubigeo coddpto="04" codprov="01" coddist="05">CHARACATO</ubigeo>
+  <ubigeo coddpto="04" codprov="01" coddist="06">CHIGUATA</ubigeo>
+  <ubigeo coddpto="04" codprov="01" coddist="07">JACOBO HUNTER</ubigeo>
+  <ubigeo coddpto="04" codprov="01" coddist="08">LA JOYA</ubigeo>
+  <ubigeo coddpto="04" codprov="01" coddist="09">MARIANO MELGAR</ubigeo>
+  <ubigeo coddpto="04" codprov="01" coddist="10">MIRAFLORES</ubigeo>
+  <ubigeo coddpto="04" codprov="01" coddist="11">MOLLEBAYA</ubigeo>
+  <ubigeo coddpto="04" codprov="01" coddist="12">PAUCARPATA</ubigeo>
+  <ubigeo coddpto="04" codprov="01" coddist="13">POCSI</ubigeo>
+  <ubigeo coddpto="04" codprov="01" coddist="14">POLOBAYA</ubigeo>
+  <ubigeo coddpto="04" codprov="01" coddist="15">QUEQUEÑA</ubigeo>
+  <ubigeo coddpto="04" codprov="01" coddist="16">SABANDIA</ubigeo>
+  <ubigeo coddpto="04" codprov="01" coddist="17">SACHACA</ubigeo>
+  <ubigeo coddpto="04" codprov="01" coddist="18">SAN JUAN DE SIGUAS</ubigeo>
+  <ubigeo coddpto="04" codprov="01" coddist="19">SAN JUAN DE TARUCANI</ubigeo>
+  <ubigeo coddpto="04" codprov="01" coddist="20">SANTA ISABEL DE SIGUAS</ubigeo>
+  <ubigeo coddpto="04" codprov="01" coddist="21">SANTA RITA DE SIGUAS</ubigeo>
+  <ubigeo coddpto="04" codprov="01" coddist="22">SOCABAYA</ubigeo>
+  <ubigeo coddpto="04" codprov="01" coddist="23">TIABAYA</ubigeo>
+  <ubigeo coddpto="04" codprov="01" coddist="24">UCHUMAYO</ubigeo>
+  <ubigeo coddpto="04" codprov="01" coddist="25">VITOR</ubigeo>
+  <ubigeo coddpto="04" codprov="01" coddist="26">YANAHUARA</ubigeo>
+  <ubigeo coddpto="04" codprov="01" coddist="27">YARABAMBA</ubigeo>
+  <ubigeo coddpto="04" codprov="01" coddist="28">YURA</ubigeo>
+  <ubigeo coddpto="04" codprov="01" coddist="29">JOSE LUIS BUSTAMANTE Y RIVERO</ubigeo>
+  <ubigeo coddpto="04" codprov="02" coddist="00">CAMANA</ubigeo>
+  <ubigeo coddpto="04" codprov="02" coddist="01">CAMANA</ubigeo>
+  <ubigeo coddpto="04" codprov="02" coddist="02">JOSE MARIA QUIMPER</ubigeo>
+  <ubigeo coddpto="04" codprov="02" coddist="03">MARIANO NICOLAS VALCARCEL</ubigeo>
+  <ubigeo coddpto="04" codprov="02" coddist="04">MARISCAL CACERES</ubigeo>
+  <ubigeo coddpto="04" codprov="02" coddist="05">NICOLAS DE PIEROLA</ubigeo>
+  <ubigeo coddpto="04" codprov="02" coddist="06">OCOÑA</ubigeo>
+  <ubigeo coddpto="04" codprov="02" coddist="07">QUILCA</ubigeo>
+  <ubigeo coddpto="04" codprov="02" coddist="08">SAMUEL PASTOR</ubigeo>
+  <ubigeo coddpto="04" codprov="03" coddist="00">CARAVELI</ubigeo>
+  <ubigeo coddpto="04" codprov="03" coddist="01">CARAVELI</ubigeo>
+  <ubigeo coddpto="04" codprov="03" coddist="02">ACARI</ubigeo>
+  <ubigeo coddpto="04" codprov="03" coddist="03">ATICO</ubigeo>
+  <ubigeo coddpto="04" codprov="03" coddist="04">ATIQUIPA</ubigeo>
+  <ubigeo coddpto="04" codprov="03" coddist="05">BELLA UNION</ubigeo>
+  <ubigeo coddpto="04" codprov="03" coddist="06">CAHUACHO</ubigeo>
+  <ubigeo coddpto="04" codprov="03" coddist="07">CHALA</ubigeo>
+  <ubigeo coddpto="04" codprov="03" coddist="08">CHAPARRA</ubigeo>
+  <ubigeo coddpto="04" codprov="03" coddist="09">HUANUHUANU</ubigeo>
+  <ubigeo coddpto="04" codprov="03" coddist="10">JAQUI</ubigeo>
+  <ubigeo coddpto="04" codprov="03" coddist="11">LOMAS</ubigeo>
+  <ubigeo coddpto="04" codprov="03" coddist="12">QUICACHA</ubigeo>
+  <ubigeo coddpto="04" codprov="03" coddist="13">YAUCA</ubigeo>
+  <ubigeo coddpto="04" codprov="04" coddist="00">CASTILLA</ubigeo>
+  <ubigeo coddpto="04" codprov="04" coddist="01">APLAO</ubigeo>
+  <ubigeo coddpto="04" codprov="04" coddist="02">ANDAGUA</ubigeo>
+  <ubigeo coddpto="04" codprov="04" coddist="03">AYO</ubigeo>
+  <ubigeo coddpto="04" codprov="04" coddist="04">CHACHAS</ubigeo>
+  <ubigeo coddpto="04" codprov="04" coddist="05">CHILCAYMARCA</ubigeo>
+  <ubigeo coddpto="04" codprov="04" coddist="06">CHOCO</ubigeo>
+  <ubigeo coddpto="04" codprov="04" coddist="07">HUANCARQUI</ubigeo>
+  <ubigeo coddpto="04" codprov="04" coddist="08">MACHAGUAY</ubigeo>
+  <ubigeo coddpto="04" codprov="04" coddist="09">ORCOPAMPA</ubigeo>
+  <ubigeo coddpto="04" codprov="04" coddist="10">PAMPACOLCA</ubigeo>
+  <ubigeo coddpto="04" codprov="04" coddist="11">TIPAN</ubigeo>
+  <ubigeo coddpto="04" codprov="04" coddist="12">UÑON</ubigeo>
+  <ubigeo coddpto="04" codprov="04" coddist="13">URACA</ubigeo>
+  <ubigeo coddpto="04" codprov="04" coddist="14">VIRACO</ubigeo>
+  <ubigeo coddpto="04" codprov="05" coddist="00">CAYLLOMA</ubigeo>
+  <ubigeo coddpto="04" codprov="05" coddist="01">CHIVAY</ubigeo>
+  <ubigeo coddpto="04" codprov="05" coddist="02">ACHOMA</ubigeo>
+  <ubigeo coddpto="04" codprov="05" coddist="03">CABANACONDE</ubigeo>
+  <ubigeo coddpto="04" codprov="05" coddist="04">CALLALLI</ubigeo>
+  <ubigeo coddpto="04" codprov="05" coddist="05">CAYLLOMA</ubigeo>
+  <ubigeo coddpto="04" codprov="05" coddist="06">COPORAQUE</ubigeo>
+  <ubigeo coddpto="04" codprov="05" coddist="07">HUAMBO</ubigeo>
+  <ubigeo coddpto="04" codprov="05" coddist="08">HUANCA</ubigeo>
+  <ubigeo coddpto="04" codprov="05" coddist="09">ICHUPAMPA</ubigeo>
+  <ubigeo coddpto="04" codprov="05" coddist="10">LARI</ubigeo>
+  <ubigeo coddpto="04" codprov="05" coddist="11">LLUTA</ubigeo>
+  <ubigeo coddpto="04" codprov="05" coddist="12">MACA</ubigeo>
+  <ubigeo coddpto="04" codprov="05" coddist="13">MADRIGAL</ubigeo>
+  <ubigeo coddpto="04" codprov="05" coddist="14">SAN ANTONIO DE CHUCA</ubigeo>
+  <ubigeo coddpto="04" codprov="05" coddist="15">SIBAYO</ubigeo>
+  <ubigeo coddpto="04" codprov="05" coddist="16">TAPAY</ubigeo>
+  <ubigeo coddpto="04" codprov="05" coddist="17">TISCO</ubigeo>
+  <ubigeo coddpto="04" codprov="05" coddist="18">TUTI</ubigeo>
+  <ubigeo coddpto="04" codprov="05" coddist="19">YANQUE</ubigeo>
+  <ubigeo coddpto="04" codprov="05" coddist="20">MAJES</ubigeo>
+  <ubigeo coddpto="04" codprov="06" coddist="00">CONDESUYOS</ubigeo>
+  <ubigeo coddpto="04" codprov="06" coddist="01">CHUQUIBAMBA</ubigeo>
+  <ubigeo coddpto="04" codprov="06" coddist="02">ANDARAY</ubigeo>
+  <ubigeo coddpto="04" codprov="06" coddist="03">CAYARANI</ubigeo>
+  <ubigeo coddpto="04" codprov="06" coddist="04">CHICHAS</ubigeo>
+  <ubigeo coddpto="04" codprov="06" coddist="05">IRAY</ubigeo>
+  <ubigeo coddpto="04" codprov="06" coddist="06">RIO GRANDE</ubigeo>
+  <ubigeo coddpto="04" codprov="06" coddist="07">SALAMANCA</ubigeo>
+  <ubigeo coddpto="04" codprov="06" coddist="08">YANAQUIHUA</ubigeo>
+  <ubigeo coddpto="04" codprov="07" coddist="00">ISLAY</ubigeo>
+  <ubigeo coddpto="04" codprov="07" coddist="01">MOLLENDO</ubigeo>
+  <ubigeo coddpto="04" codprov="07" coddist="02">COCACHACRA</ubigeo>
+  <ubigeo coddpto="04" codprov="07" coddist="03">DEAN VALDIVIA</ubigeo>
+  <ubigeo coddpto="04" codprov="07" coddist="04">ISLAY</ubigeo>
+  <ubigeo coddpto="04" codprov="07" coddist="05">MEJIA</ubigeo>
+  <ubigeo coddpto="04" codprov="07" coddist="06">PUNTA DE BOMBON</ubigeo>
+  <ubigeo coddpto="04" codprov="08" coddist="00">LA UNION</ubigeo>
+  <ubigeo coddpto="04" codprov="08" coddist="01">COTAHUASI</ubigeo>
+  <ubigeo coddpto="04" codprov="08" coddist="02">ALCA</ubigeo>
+  <ubigeo coddpto="04" codprov="08" coddist="03">CHARCANA</ubigeo>
+  <ubigeo coddpto="04" codprov="08" coddist="04">HUAYNACOTAS</ubigeo>
+  <ubigeo coddpto="04" codprov="08" coddist="05">PAMPAMARCA</ubigeo>
+  <ubigeo coddpto="04" codprov="08" coddist="06">PUYCA</ubigeo>
+  <ubigeo coddpto="04" codprov="08" coddist="07">QUECHUALLA</ubigeo>
+  <ubigeo coddpto="04" codprov="08" coddist="08">SAYLA</ubigeo>
+  <ubigeo coddpto="04" codprov="08" coddist="09">TAURIA</ubigeo>
+  <ubigeo coddpto="04" codprov="08" coddist="10">TOMEPAMPA</ubigeo>
+  <ubigeo coddpto="04" codprov="08" coddist="11">TORO</ubigeo>
+  <ubigeo coddpto="05" codprov="00" coddist="00">AYACUCHO</ubigeo>
+  <ubigeo coddpto="05" codprov="01" coddist="00">HUAMANGA</ubigeo>
+  <ubigeo coddpto="05" codprov="01" coddist="01">AYACUCHO</ubigeo>
+  <ubigeo coddpto="05" codprov="01" coddist="02">ACOCRO</ubigeo>
+  <ubigeo coddpto="05" codprov="01" coddist="03">ACOS VINCHOS</ubigeo>
+  <ubigeo coddpto="05" codprov="01" coddist="04">CARMEN ALTO</ubigeo>
+  <ubigeo coddpto="05" codprov="01" coddist="05">CHIARA</ubigeo>
+  <ubigeo coddpto="05" codprov="01" coddist="06">OCROS</ubigeo>
+  <ubigeo coddpto="05" codprov="01" coddist="07">PACAYCASA</ubigeo>
+  <ubigeo coddpto="05" codprov="01" coddist="08">QUINUA</ubigeo>
+  <ubigeo coddpto="05" codprov="01" coddist="09">SAN JOSE DE TICLLAS</ubigeo>
+  <ubigeo coddpto="05" codprov="01" coddist="10">SAN JUAN BAUTISTA</ubigeo>
+  <ubigeo coddpto="05" codprov="01" coddist="11">SANTIAGO DE PISCHA</ubigeo>
+  <ubigeo coddpto="05" codprov="01" coddist="12">SOCOS</ubigeo>
+  <ubigeo coddpto="05" codprov="01" coddist="13">TAMBILLO</ubigeo>
+  <ubigeo coddpto="05" codprov="01" coddist="14">VINCHOS</ubigeo>
+  <ubigeo coddpto="05" codprov="01" coddist="15">JESUS NAZARENO</ubigeo>
+  <ubigeo coddpto="05" codprov="02" coddist="00">CANGALLO</ubigeo>
+  <ubigeo coddpto="05" codprov="02" coddist="01">CANGALLO</ubigeo>
+  <ubigeo coddpto="05" codprov="02" coddist="02">CHUSCHI</ubigeo>
+  <ubigeo coddpto="05" codprov="02" coddist="03">LOS MOROCHUCOS</ubigeo>
+  <ubigeo coddpto="05" codprov="02" coddist="04">MARIA PARADO DE BELLIDO</ubigeo>
+  <ubigeo coddpto="05" codprov="02" coddist="05">PARAS</ubigeo>
+  <ubigeo coddpto="05" codprov="02" coddist="06">TOTOS</ubigeo>
+  <ubigeo coddpto="05" codprov="03" coddist="00">HUANCA SANCOS</ubigeo>
+  <ubigeo coddpto="05" codprov="03" coddist="01">SANCOS</ubigeo>
+  <ubigeo coddpto="05" codprov="03" coddist="02">CARAPO</ubigeo>
+  <ubigeo coddpto="05" codprov="03" coddist="03">SACSAMARCA</ubigeo>
+  <ubigeo coddpto="05" codprov="03" coddist="04">SANTIAGO DE LUCANAMARCA</ubigeo>
+  <ubigeo coddpto="05" codprov="04" coddist="00">HUANTA</ubigeo>
+  <ubigeo coddpto="05" codprov="04" coddist="01">HUANTA</ubigeo>
+  <ubigeo coddpto="05" codprov="04" coddist="02">AYAHUANCO</ubigeo>
+  <ubigeo coddpto="05" codprov="04" coddist="03">HUAMANGUILLA</ubigeo>
+  <ubigeo coddpto="05" codprov="04" coddist="04">IGUAIN</ubigeo>
+  <ubigeo coddpto="05" codprov="04" coddist="05">LURICOCHA</ubigeo>
+  <ubigeo coddpto="05" codprov="04" coddist="06">SANTILLANA</ubigeo>
+  <ubigeo coddpto="05" codprov="04" coddist="07">SIVIA</ubigeo>
+  <ubigeo coddpto="05" codprov="04" coddist="08">LLOCHEGUA</ubigeo>
+  <ubigeo coddpto="05" codprov="05" coddist="00">LA MAR</ubigeo>
+  <ubigeo coddpto="05" codprov="05" coddist="01">SAN MIGUEL</ubigeo>
+  <ubigeo coddpto="05" codprov="05" coddist="02">ANCO</ubigeo>
+  <ubigeo coddpto="05" codprov="05" coddist="03">AYNA</ubigeo>
+  <ubigeo coddpto="05" codprov="05" coddist="04">CHILCAS</ubigeo>
+  <ubigeo coddpto="05" codprov="05" coddist="05">CHUNGUI</ubigeo>
+  <ubigeo coddpto="05" codprov="05" coddist="06">LUIS CARRANZA</ubigeo>
+  <ubigeo coddpto="05" codprov="05" coddist="07">SANTA ROSA</ubigeo>
+  <ubigeo coddpto="05" codprov="05" coddist="08">TAMBO</ubigeo>
+  <ubigeo coddpto="05" codprov="05" coddist="09">SAMUGARI</ubigeo>
+  <ubigeo coddpto="05" codprov="06" coddist="00">LUCANAS</ubigeo>
+  <ubigeo coddpto="05" codprov="06" coddist="01">PUQUIO</ubigeo>
+  <ubigeo coddpto="05" codprov="06" coddist="02">AUCARA</ubigeo>
+  <ubigeo coddpto="05" codprov="06" coddist="03">CABANA</ubigeo>
+  <ubigeo coddpto="05" codprov="06" coddist="04">CARMEN SALCEDO</ubigeo>
+  <ubigeo coddpto="05" codprov="06" coddist="05">CHAVIÑA</ubigeo>
+  <ubigeo coddpto="05" codprov="06" coddist="06">CHIPAO</ubigeo>
+  <ubigeo coddpto="05" codprov="06" coddist="07">HUAC-HUAS</ubigeo>
+  <ubigeo coddpto="05" codprov="06" coddist="08">LARAMATE</ubigeo>
+  <ubigeo coddpto="05" codprov="06" coddist="09">LEONCIO PRADO</ubigeo>
+  <ubigeo coddpto="05" codprov="06" coddist="10">LLAUTA</ubigeo>
+  <ubigeo coddpto="05" codprov="06" coddist="11">LUCANAS</ubigeo>
+  <ubigeo coddpto="05" codprov="06" coddist="12">OCAÑA</ubigeo>
+  <ubigeo coddpto="05" codprov="06" coddist="13">OTOCA</ubigeo>
+  <ubigeo coddpto="05" codprov="06" coddist="14">SAISA</ubigeo>
+  <ubigeo coddpto="05" codprov="06" coddist="15">SAN CRISTOBAL</ubigeo>
+  <ubigeo coddpto="05" codprov="06" coddist="16">SAN JUAN</ubigeo>
+  <ubigeo coddpto="05" codprov="06" coddist="17">SAN PEDRO</ubigeo>
+  <ubigeo coddpto="05" codprov="06" coddist="18">SAN PEDRO DE PALCO</ubigeo>
+  <ubigeo coddpto="05" codprov="06" coddist="19">SANCOS</ubigeo>
+  <ubigeo coddpto="05" codprov="06" coddist="20">SANTA ANA DE HUAYCAHUACHO</ubigeo>
+  <ubigeo coddpto="05" codprov="06" coddist="21">SANTA LUCIA</ubigeo>
+  <ubigeo coddpto="05" codprov="07" coddist="00">PARINACOCHAS</ubigeo>
+  <ubigeo coddpto="05" codprov="07" coddist="01">CORACORA</ubigeo>
+  <ubigeo coddpto="05" codprov="07" coddist="02">CHUMPI</ubigeo>
+  <ubigeo coddpto="05" codprov="07" coddist="03">CORONEL CASTAÑEDA</ubigeo>
+  <ubigeo coddpto="05" codprov="07" coddist="04">PACAPAUSA</ubigeo>
+  <ubigeo coddpto="05" codprov="07" coddist="05">PULLO</ubigeo>
+  <ubigeo coddpto="05" codprov="07" coddist="06">PUYUSCA</ubigeo>
+  <ubigeo coddpto="05" codprov="07" coddist="07">SAN FRANCISCO DE RAVACAYCO</ubigeo>
+  <ubigeo coddpto="05" codprov="07" coddist="08">UPAHUACHO</ubigeo>
+  <ubigeo coddpto="05" codprov="08" coddist="00">PAUCAR DEL SARA SARA</ubigeo>
+  <ubigeo coddpto="05" codprov="08" coddist="01">PAUSA</ubigeo>
+  <ubigeo coddpto="05" codprov="08" coddist="02">COLTA</ubigeo>
+  <ubigeo coddpto="05" codprov="08" coddist="03">CORCULLA</ubigeo>
+  <ubigeo coddpto="05" codprov="08" coddist="04">LAMPA</ubigeo>
+  <ubigeo coddpto="05" codprov="08" coddist="05">MARCABAMBA</ubigeo>
+  <ubigeo coddpto="05" codprov="08" coddist="06">OYOLO</ubigeo>
+  <ubigeo coddpto="05" codprov="08" coddist="07">PARARCA</ubigeo>
+  <ubigeo coddpto="05" codprov="08" coddist="08">SAN JAVIER DE ALPABAMBA</ubigeo>
+  <ubigeo coddpto="05" codprov="08" coddist="09">SAN JOSE DE USHUA</ubigeo>
+  <ubigeo coddpto="05" codprov="08" coddist="10">SARA SARA</ubigeo>
+  <ubigeo coddpto="05" codprov="09" coddist="00">SUCRE</ubigeo>
+  <ubigeo coddpto="05" codprov="09" coddist="01">QUEROBAMBA</ubigeo>
+  <ubigeo coddpto="05" codprov="09" coddist="02">BELEN</ubigeo>
+  <ubigeo coddpto="05" codprov="09" coddist="03">CHALCOS</ubigeo>
+  <ubigeo coddpto="05" codprov="09" coddist="04">CHILCAYOC</ubigeo>
+  <ubigeo coddpto="05" codprov="09" coddist="05">HUACAÑA</ubigeo>
+  <ubigeo coddpto="05" codprov="09" coddist="06">MORCOLLA</ubigeo>
+  <ubigeo coddpto="05" codprov="09" coddist="07">PAICO</ubigeo>
+  <ubigeo coddpto="05" codprov="09" coddist="08">SAN PEDRO DE LARCAY</ubigeo>
+  <ubigeo coddpto="05" codprov="09" coddist="09">SAN SALVADOR DE QUIJE</ubigeo>
+  <ubigeo coddpto="05" codprov="09" coddist="10">SANTIAGO DE PAUCARAY</ubigeo>
+  <ubigeo coddpto="05" codprov="09" coddist="11">SORAS</ubigeo>
+  <ubigeo coddpto="05" codprov="10" coddist="00">VICTOR FAJARDO</ubigeo>
+  <ubigeo coddpto="05" codprov="10" coddist="01">HUANCAPI</ubigeo>
+  <ubigeo coddpto="05" codprov="10" coddist="02">ALCAMENCA</ubigeo>
+  <ubigeo coddpto="05" codprov="10" coddist="03">APONGO</ubigeo>
+  <ubigeo coddpto="05" codprov="10" coddist="04">ASQUIPATA</ubigeo>
+  <ubigeo coddpto="05" codprov="10" coddist="05">CANARIA</ubigeo>
+  <ubigeo coddpto="05" codprov="10" coddist="06">CAYARA</ubigeo>
+  <ubigeo coddpto="05" codprov="10" coddist="07">COLCA</ubigeo>
+  <ubigeo coddpto="05" codprov="10" coddist="08">HUAMANQUIQUIA</ubigeo>
+  <ubigeo coddpto="05" codprov="10" coddist="09">HUANCARAYLLA</ubigeo>
+  <ubigeo coddpto="05" codprov="10" coddist="10">HUAYA</ubigeo>
+  <ubigeo coddpto="05" codprov="10" coddist="11">SARHUA</ubigeo>
+  <ubigeo coddpto="05" codprov="10" coddist="12">VILCANCHOS</ubigeo>
+  <ubigeo coddpto="05" codprov="11" coddist="00">VILCAS HUAMAN</ubigeo>
+  <ubigeo coddpto="05" codprov="11" coddist="01">VILCAS HUAMAN</ubigeo>
+  <ubigeo coddpto="05" codprov="11" coddist="02">ACCOMARCA</ubigeo>
+  <ubigeo coddpto="05" codprov="11" coddist="03">CARHUANCA</ubigeo>
+  <ubigeo coddpto="05" codprov="11" coddist="04">CONCEPCION</ubigeo>
+  <ubigeo coddpto="05" codprov="11" coddist="05">HUAMBALPA</ubigeo>
+  <ubigeo coddpto="05" codprov="11" coddist="06">INDEPENDENCIA</ubigeo>
+  <ubigeo coddpto="05" codprov="11" coddist="07">SAURAMA</ubigeo>
+  <ubigeo coddpto="05" codprov="11" coddist="08">VISCHONGO</ubigeo>
+  <ubigeo coddpto="06" codprov="00" coddist="00">CAJAMARCA</ubigeo>
+  <ubigeo coddpto="06" codprov="01" coddist="00">CAJAMARCA</ubigeo>
+  <ubigeo coddpto="06" codprov="01" coddist="01">CAJAMARCA</ubigeo>
+  <ubigeo coddpto="06" codprov="01" coddist="02">ASUNCION</ubigeo>
+  <ubigeo coddpto="06" codprov="01" coddist="03">CHETILLA</ubigeo>
+  <ubigeo coddpto="06" codprov="01" coddist="04">COSPAN</ubigeo>
+  <ubigeo coddpto="06" codprov="01" coddist="05">ENCAÑADA</ubigeo>
+  <ubigeo coddpto="06" codprov="01" coddist="06">JESUS</ubigeo>
+  <ubigeo coddpto="06" codprov="01" coddist="07">LLACANORA</ubigeo>
+  <ubigeo coddpto="06" codprov="01" coddist="08">LOS BAÑOS DEL INCA</ubigeo>
+  <ubigeo coddpto="06" codprov="01" coddist="09">MAGDALENA</ubigeo>
+  <ubigeo coddpto="06" codprov="01" coddist="10">MATARA</ubigeo>
+  <ubigeo coddpto="06" codprov="01" coddist="11">NAMORA</ubigeo>
+  <ubigeo coddpto="06" codprov="01" coddist="12">SAN JUAN</ubigeo>
+  <ubigeo coddpto="06" codprov="02" coddist="00">CAJABAMBA</ubigeo>
+  <ubigeo coddpto="06" codprov="02" coddist="01">CAJABAMBA</ubigeo>
+  <ubigeo coddpto="06" codprov="02" coddist="02">CACHACHI</ubigeo>
+  <ubigeo coddpto="06" codprov="02" coddist="03">CONDEBAMBA</ubigeo>
+  <ubigeo coddpto="06" codprov="02" coddist="04">SITACOCHA</ubigeo>
+  <ubigeo coddpto="06" codprov="03" coddist="00">CELENDIN</ubigeo>
+  <ubigeo coddpto="06" codprov="03" coddist="01">CELENDIN</ubigeo>
+  <ubigeo coddpto="06" codprov="03" coddist="02">CHUMUCH</ubigeo>
+  <ubigeo coddpto="06" codprov="03" coddist="03">CORTEGANA</ubigeo>
+  <ubigeo coddpto="06" codprov="03" coddist="04">HUASMIN</ubigeo>
+  <ubigeo coddpto="06" codprov="03" coddist="05">JORGE CHAVEZ</ubigeo>
+  <ubigeo coddpto="06" codprov="03" coddist="06">JOSE GALVEZ</ubigeo>
+  <ubigeo coddpto="06" codprov="03" coddist="07">MIGUEL IGLESIAS</ubigeo>
+  <ubigeo coddpto="06" codprov="03" coddist="08">OXAMARCA</ubigeo>
+  <ubigeo coddpto="06" codprov="03" coddist="09">SOROCHUCO</ubigeo>
+  <ubigeo coddpto="06" codprov="03" coddist="10">SUCRE</ubigeo>
+  <ubigeo coddpto="06" codprov="03" coddist="11">UTCO</ubigeo>
+  <ubigeo coddpto="06" codprov="03" coddist="12">LA LIBERTAD DE PALLAN</ubigeo>
+  <ubigeo coddpto="06" codprov="04" coddist="00">CHOTA</ubigeo>
+  <ubigeo coddpto="06" codprov="04" coddist="01">CHOTA</ubigeo>
+  <ubigeo coddpto="06" codprov="04" coddist="02">ANGUIA</ubigeo>
+  <ubigeo coddpto="06" codprov="04" coddist="03">CHADIN</ubigeo>
+  <ubigeo coddpto="06" codprov="04" coddist="04">CHIGUIRIP</ubigeo>
+  <ubigeo coddpto="06" codprov="04" coddist="05">CHIMBAN</ubigeo>
+  <ubigeo coddpto="06" codprov="04" coddist="06">CHOROPAMPA</ubigeo>
+  <ubigeo coddpto="06" codprov="04" coddist="07">COCHABAMBA</ubigeo>
+  <ubigeo coddpto="06" codprov="04" coddist="08">CONCHAN</ubigeo>
+  <ubigeo coddpto="06" codprov="04" coddist="09">HUAMBOS</ubigeo>
+  <ubigeo coddpto="06" codprov="04" coddist="10">LAJAS</ubigeo>
+  <ubigeo coddpto="06" codprov="04" coddist="11">LLAMA</ubigeo>
+  <ubigeo coddpto="06" codprov="04" coddist="12">MIRACOSTA</ubigeo>
+  <ubigeo coddpto="06" codprov="04" coddist="13">PACCHA</ubigeo>
+  <ubigeo coddpto="06" codprov="04" coddist="14">PION</ubigeo>
+  <ubigeo coddpto="06" codprov="04" coddist="15">QUEROCOTO</ubigeo>
+  <ubigeo coddpto="06" codprov="04" coddist="16">SAN JUAN DE LICUPIS</ubigeo>
+  <ubigeo coddpto="06" codprov="04" coddist="17">TACABAMBA</ubigeo>
+  <ubigeo coddpto="06" codprov="04" coddist="18">TOCMOCHE</ubigeo>
+  <ubigeo coddpto="06" codprov="04" coddist="19">CHALAMARCA</ubigeo>
+  <ubigeo coddpto="06" codprov="05" coddist="00">CONTUMAZA</ubigeo>
+  <ubigeo coddpto="06" codprov="05" coddist="01">CONTUMAZA</ubigeo>
+  <ubigeo coddpto="06" codprov="05" coddist="02">CHILETE</ubigeo>
+  <ubigeo coddpto="06" codprov="05" coddist="03">CUPISNIQUE</ubigeo>
+  <ubigeo coddpto="06" codprov="05" coddist="04">GUZMANGO</ubigeo>
+  <ubigeo coddpto="06" codprov="05" coddist="05">SAN BENITO</ubigeo>
+  <ubigeo coddpto="06" codprov="05" coddist="06">SANTA CRUZ DE TOLED</ubigeo>
+  <ubigeo coddpto="06" codprov="05" coddist="07">TANTARICA</ubigeo>
+  <ubigeo coddpto="06" codprov="05" coddist="08">YONAN</ubigeo>
+  <ubigeo coddpto="06" codprov="06" coddist="00">CUTERVO</ubigeo>
+  <ubigeo coddpto="06" codprov="06" coddist="01">CUTERVO</ubigeo>
+  <ubigeo coddpto="06" codprov="06" coddist="02">CALLAYUC</ubigeo>
+  <ubigeo coddpto="06" codprov="06" coddist="03">CHOROS</ubigeo>
+  <ubigeo coddpto="06" codprov="06" coddist="04">CUJILLO</ubigeo>
+  <ubigeo coddpto="06" codprov="06" coddist="05">LA RAMADA</ubigeo>
+  <ubigeo coddpto="06" codprov="06" coddist="06">PIMPINGOS</ubigeo>
+  <ubigeo coddpto="06" codprov="06" coddist="07">QUEROCOTILLO</ubigeo>
+  <ubigeo coddpto="06" codprov="06" coddist="08">SAN ANDRES DE CUTERVO</ubigeo>
+  <ubigeo coddpto="06" codprov="06" coddist="09">SAN JUAN DE CUTERVO</ubigeo>
+  <ubigeo coddpto="06" codprov="06" coddist="10">SAN LUIS DE LUCMA</ubigeo>
+  <ubigeo coddpto="06" codprov="06" coddist="11">SANTA CRUZ</ubigeo>
+  <ubigeo coddpto="06" codprov="06" coddist="12">SANTO DOMINGO DE LA CAPILLA</ubigeo>
+  <ubigeo coddpto="06" codprov="06" coddist="13">SANTO TOMAS</ubigeo>
+  <ubigeo coddpto="06" codprov="06" coddist="14">SOCOTA</ubigeo>
+  <ubigeo coddpto="06" codprov="06" coddist="15">TORIBIO CASANOVA</ubigeo>
+  <ubigeo coddpto="06" codprov="07" coddist="00">HUALGAYOC</ubigeo>
+  <ubigeo coddpto="06" codprov="07" coddist="01">BAMBAMARCA</ubigeo>
+  <ubigeo coddpto="06" codprov="07" coddist="02">CHUGUR</ubigeo>
+  <ubigeo coddpto="06" codprov="07" coddist="03">HUALGAYOC</ubigeo>
+  <ubigeo coddpto="06" codprov="08" coddist="00">JAEN</ubigeo>
+  <ubigeo coddpto="06" codprov="08" coddist="01">JAEN</ubigeo>
+  <ubigeo coddpto="06" codprov="08" coddist="02">BELLAVISTA</ubigeo>
+  <ubigeo coddpto="06" codprov="08" coddist="03">CHONTALI</ubigeo>
+  <ubigeo coddpto="06" codprov="08" coddist="04">COLASAY</ubigeo>
+  <ubigeo coddpto="06" codprov="08" coddist="05">HUABAL</ubigeo>
+  <ubigeo coddpto="06" codprov="08" coddist="06">LAS PIRIAS</ubigeo>
+  <ubigeo coddpto="06" codprov="08" coddist="07">POMAHUACA</ubigeo>
+  <ubigeo coddpto="06" codprov="08" coddist="08">PUCARA</ubigeo>
+  <ubigeo coddpto="06" codprov="08" coddist="09">SALLIQUE</ubigeo>
+  <ubigeo coddpto="06" codprov="08" coddist="10">SAN FELIPE</ubigeo>
+  <ubigeo coddpto="06" codprov="08" coddist="11">SAN JOSE DEL ALTO</ubigeo>
+  <ubigeo coddpto="06" codprov="08" coddist="12">SANTA ROSA</ubigeo>
+  <ubigeo coddpto="06" codprov="09" coddist="00">SAN IGNACIO</ubigeo>
+  <ubigeo coddpto="06" codprov="09" coddist="01">SAN IGNACIO</ubigeo>
+  <ubigeo coddpto="06" codprov="09" coddist="02">CHIRINOS</ubigeo>
+  <ubigeo coddpto="06" codprov="09" coddist="03">HUARANGO</ubigeo>
+  <ubigeo coddpto="06" codprov="09" coddist="04">LA COIPA</ubigeo>
+  <ubigeo coddpto="06" codprov="09" coddist="05">NAMBALLE</ubigeo>
+  <ubigeo coddpto="06" codprov="09" coddist="06">SAN JOSE DE LOURDES</ubigeo>
+  <ubigeo coddpto="06" codprov="09" coddist="07">TABACONAS</ubigeo>
+  <ubigeo coddpto="06" codprov="10" coddist="00">SAN MARCOS</ubigeo>
+  <ubigeo coddpto="06" codprov="10" coddist="01">PEDRO GALVEZ</ubigeo>
+  <ubigeo coddpto="06" codprov="10" coddist="02">CHANCAY</ubigeo>
+  <ubigeo coddpto="06" codprov="10" coddist="03">EDUARDO VILLANUEVA</ubigeo>
+  <ubigeo coddpto="06" codprov="10" coddist="04">GREGORIO PITA</ubigeo>
+  <ubigeo coddpto="06" codprov="10" coddist="05">ICHOCAN</ubigeo>
+  <ubigeo coddpto="06" codprov="10" coddist="06">JOSE MANUEL QUIROZ</ubigeo>
+  <ubigeo coddpto="06" codprov="10" coddist="07">JOSE SABOGAL</ubigeo>
+  <ubigeo coddpto="06" codprov="11" coddist="00">SAN MIGUEL</ubigeo>
+  <ubigeo coddpto="06" codprov="11" coddist="01">SAN MIGUEL</ubigeo>
+  <ubigeo coddpto="06" codprov="11" coddist="02">BOLIVAR</ubigeo>
+  <ubigeo coddpto="06" codprov="11" coddist="03">CALQUIS</ubigeo>
+  <ubigeo coddpto="06" codprov="11" coddist="04">CATILLUC</ubigeo>
+  <ubigeo coddpto="06" codprov="11" coddist="05">EL PRADO</ubigeo>
+  <ubigeo coddpto="06" codprov="11" coddist="06">LA FLORIDA</ubigeo>
+  <ubigeo coddpto="06" codprov="11" coddist="07">LLAPA</ubigeo>
+  <ubigeo coddpto="06" codprov="11" coddist="08">NANCHOC</ubigeo>
+  <ubigeo coddpto="06" codprov="11" coddist="09">NIEPOS</ubigeo>
+  <ubigeo coddpto="06" codprov="11" coddist="10">SAN GREGORIO</ubigeo>
+  <ubigeo coddpto="06" codprov="11" coddist="11">SAN SILVESTRE DE COCHAN</ubigeo>
+  <ubigeo coddpto="06" codprov="11" coddist="12">TONGOD</ubigeo>
+  <ubigeo coddpto="06" codprov="11" coddist="13">UNION AGUA BLANCA</ubigeo>
+  <ubigeo coddpto="06" codprov="12" coddist="00">SAN PABLO</ubigeo>
+  <ubigeo coddpto="06" codprov="12" coddist="01">SAN PABLO</ubigeo>
+  <ubigeo coddpto="06" codprov="12" coddist="02">SAN BERNARDINO</ubigeo>
+  <ubigeo coddpto="06" codprov="12" coddist="03">SAN LUIS</ubigeo>
+  <ubigeo coddpto="06" codprov="12" coddist="04">TUMBADEN</ubigeo>
+  <ubigeo coddpto="06" codprov="13" coddist="00">SANTA CRUZ</ubigeo>
+  <ubigeo coddpto="06" codprov="13" coddist="01">SANTA CRUZ</ubigeo>
+  <ubigeo coddpto="06" codprov="13" coddist="02">ANDABAMBA</ubigeo>
+  <ubigeo coddpto="06" codprov="13" coddist="03">CATACHE</ubigeo>
+  <ubigeo coddpto="06" codprov="13" coddist="04">CHANCAYBAÑOS</ubigeo>
+  <ubigeo coddpto="06" codprov="13" coddist="05">LA ESPERANZA</ubigeo>
+  <ubigeo coddpto="06" codprov="13" coddist="06">NINABAMBA</ubigeo>
+  <ubigeo coddpto="06" codprov="13" coddist="07">PULAN</ubigeo>
+  <ubigeo coddpto="06" codprov="13" coddist="08">SAUCEPAMPA</ubigeo>
+  <ubigeo coddpto="06" codprov="13" coddist="09">SEXI</ubigeo>
+  <ubigeo coddpto="06" codprov="13" coddist="10">UTICYACU</ubigeo>
+  <ubigeo coddpto="06" codprov="13" coddist="11">YAUYUCAN</ubigeo>
+  <ubigeo coddpto="07" codprov="00" coddist="00">CALLAO</ubigeo>
+  <ubigeo coddpto="07" codprov="01" coddist="00">CALLAO</ubigeo>
+  <ubigeo coddpto="07" codprov="01" coddist="01">CALLAO</ubigeo>
+  <ubigeo coddpto="07" codprov="01" coddist="02">BELLAVISTA</ubigeo>
+  <ubigeo coddpto="07" codprov="01" coddist="03">CARMEN DE LA LEGUA REYNOSO</ubigeo>
+  <ubigeo coddpto="07" codprov="01" coddist="04">LA PERLA</ubigeo>
+  <ubigeo coddpto="07" codprov="01" coddist="05">LA PUNTA</ubigeo>
+  <ubigeo coddpto="07" codprov="01" coddist="06">VENTANILLA</ubigeo>
+  <ubigeo coddpto="08" codprov="00" coddist="00">CUSCO</ubigeo>
+  <ubigeo coddpto="08" codprov="01" coddist="00">CUSCO</ubigeo>
+  <ubigeo coddpto="08" codprov="01" coddist="01">CUSCO</ubigeo>
+  <ubigeo coddpto="08" codprov="01" coddist="02">CCORCA</ubigeo>
+  <ubigeo coddpto="08" codprov="01" coddist="03">POROY</ubigeo>
+  <ubigeo coddpto="08" codprov="01" coddist="04">SAN JERONIMO</ubigeo>
+  <ubigeo coddpto="08" codprov="01" coddist="05">SAN SEBASTIAN</ubigeo>
+  <ubigeo coddpto="08" codprov="01" coddist="06">SANTIAGO</ubigeo>
+  <ubigeo coddpto="08" codprov="01" coddist="07">SAYLLA</ubigeo>
+  <ubigeo coddpto="08" codprov="01" coddist="08">WANCHAQ</ubigeo>
+  <ubigeo coddpto="08" codprov="02" coddist="00">ACOMAYO</ubigeo>
+  <ubigeo coddpto="08" codprov="02" coddist="01">ACOMAYO</ubigeo>
+  <ubigeo coddpto="08" codprov="02" coddist="02">ACOPIA</ubigeo>
+  <ubigeo coddpto="08" codprov="02" coddist="03">ACOS</ubigeo>
+  <ubigeo coddpto="08" codprov="02" coddist="04">MOSOC LLACTA</ubigeo>
+  <ubigeo coddpto="08" codprov="02" coddist="05">POMACANCHI</ubigeo>
+  <ubigeo coddpto="08" codprov="02" coddist="06">RONDOCAN</ubigeo>
+  <ubigeo coddpto="08" codprov="02" coddist="07">SANGARARA</ubigeo>
+  <ubigeo coddpto="08" codprov="03" coddist="00">ANTA</ubigeo>
+  <ubigeo coddpto="08" codprov="03" coddist="01">ANTA</ubigeo>
+  <ubigeo coddpto="08" codprov="03" coddist="02">ANCAHUASI</ubigeo>
+  <ubigeo coddpto="08" codprov="03" coddist="03">CACHIMAYO</ubigeo>
+  <ubigeo coddpto="08" codprov="03" coddist="04">CHINCHAYPUJIO</ubigeo>
+  <ubigeo coddpto="08" codprov="03" coddist="05">HUAROCONDO</ubigeo>
+  <ubigeo coddpto="08" codprov="03" coddist="06">LIMATAMBO</ubigeo>
+  <ubigeo coddpto="08" codprov="03" coddist="07">MOLLEPATA</ubigeo>
+  <ubigeo coddpto="08" codprov="03" coddist="08">PUCYURA</ubigeo>
+  <ubigeo coddpto="08" codprov="03" coddist="09">ZURITE</ubigeo>
+  <ubigeo coddpto="08" codprov="04" coddist="00">CALCA</ubigeo>
+  <ubigeo coddpto="08" codprov="04" coddist="01">CALCA</ubigeo>
+  <ubigeo coddpto="08" codprov="04" coddist="02">COYA</ubigeo>
+  <ubigeo coddpto="08" codprov="04" coddist="03">LAMAY</ubigeo>
+  <ubigeo coddpto="08" codprov="04" coddist="04">LARES</ubigeo>
+  <ubigeo coddpto="08" codprov="04" coddist="05">PISAC</ubigeo>
+  <ubigeo coddpto="08" codprov="04" coddist="06">SAN SALVADOR</ubigeo>
+  <ubigeo coddpto="08" codprov="04" coddist="07">TARAY</ubigeo>
+  <ubigeo coddpto="08" codprov="04" coddist="08">YANATILE</ubigeo>
+  <ubigeo coddpto="08" codprov="05" coddist="00">CANAS</ubigeo>
+  <ubigeo coddpto="08" codprov="05" coddist="01">YANAOCA</ubigeo>
+  <ubigeo coddpto="08" codprov="05" coddist="02">CHECCA</ubigeo>
+  <ubigeo coddpto="08" codprov="05" coddist="03">KUNTURKANKI</ubigeo>
+  <ubigeo coddpto="08" codprov="05" coddist="04">LANGUI</ubigeo>
+  <ubigeo coddpto="08" codprov="05" coddist="05">LAYO</ubigeo>
+  <ubigeo coddpto="08" codprov="05" coddist="06">PAMPAMARCA</ubigeo>
+  <ubigeo coddpto="08" codprov="05" coddist="07">QUEHUE</ubigeo>
+  <ubigeo coddpto="08" codprov="05" coddist="08">TUPAC AMARU</ubigeo>
+  <ubigeo coddpto="08" codprov="06" coddist="00">CANCHIS</ubigeo>
+  <ubigeo coddpto="08" codprov="06" coddist="01">SICUANI</ubigeo>
+  <ubigeo coddpto="08" codprov="06" coddist="02">CHECACUPE</ubigeo>
+  <ubigeo coddpto="08" codprov="06" coddist="03">COMBAPATA</ubigeo>
+  <ubigeo coddpto="08" codprov="06" coddist="04">MARANGANI</ubigeo>
+  <ubigeo coddpto="08" codprov="06" coddist="05">PITUMARCA</ubigeo>
+  <ubigeo coddpto="08" codprov="06" coddist="06">SAN PABLO</ubigeo>
+  <ubigeo coddpto="08" codprov="06" coddist="07">SAN PEDRO</ubigeo>
+  <ubigeo coddpto="08" codprov="06" coddist="08">TINTA</ubigeo>
+  <ubigeo coddpto="08" codprov="07" coddist="00">CHUMBIVILCAS</ubigeo>
+  <ubigeo coddpto="08" codprov="07" coddist="01">SANTO TOMAS</ubigeo>
+  <ubigeo coddpto="08" codprov="07" coddist="02">CAPACMARCA</ubigeo>
+  <ubigeo coddpto="08" codprov="07" coddist="03">CHAMACA</ubigeo>
+  <ubigeo coddpto="08" codprov="07" coddist="04">COLQUEMARCA</ubigeo>
+  <ubigeo coddpto="08" codprov="07" coddist="05">LIVITACA</ubigeo>
+  <ubigeo coddpto="08" codprov="07" coddist="06">LLUSCO</ubigeo>
+  <ubigeo coddpto="08" codprov="07" coddist="07">QUIÑOTA</ubigeo>
+  <ubigeo coddpto="08" codprov="07" coddist="08">VELILLE</ubigeo>
+  <ubigeo coddpto="08" codprov="08" coddist="00">ESPINAR</ubigeo>
+  <ubigeo coddpto="08" codprov="08" coddist="01">ESPINAR</ubigeo>
+  <ubigeo coddpto="08" codprov="08" coddist="02">CONDOROMA</ubigeo>
+  <ubigeo coddpto="08" codprov="08" coddist="03">COPORAQUE</ubigeo>
+  <ubigeo coddpto="08" codprov="08" coddist="04">OCORURO</ubigeo>
+  <ubigeo coddpto="08" codprov="08" coddist="05">PALLPATA</ubigeo>
+  <ubigeo coddpto="08" codprov="08" coddist="06">PICHIGUA</ubigeo>
+  <ubigeo coddpto="08" codprov="08" coddist="07">SUYCKUTAMBO</ubigeo>
+  <ubigeo coddpto="08" codprov="08" coddist="08">ALTO PICHIGUA</ubigeo>
+  <ubigeo coddpto="08" codprov="09" coddist="00">LA CONVENCION</ubigeo>
+  <ubigeo coddpto="08" codprov="09" coddist="01">SANTA ANA</ubigeo>
+  <ubigeo coddpto="08" codprov="09" coddist="02">ECHARATE</ubigeo>
+  <ubigeo coddpto="08" codprov="09" coddist="03">HUAYOPATA</ubigeo>
+  <ubigeo coddpto="08" codprov="09" coddist="04">MARANURA</ubigeo>
+  <ubigeo coddpto="08" codprov="09" coddist="05">OCOBAMBA</ubigeo>
+  <ubigeo coddpto="08" codprov="09" coddist="06">QUELLOUNO</ubigeo>
+  <ubigeo coddpto="08" codprov="09" coddist="07">KIMBIRI</ubigeo>
+  <ubigeo coddpto="08" codprov="09" coddist="08">SANTA TERESA</ubigeo>
+  <ubigeo coddpto="08" codprov="09" coddist="09">VILCABAMBA</ubigeo>
+  <ubigeo coddpto="08" codprov="09" coddist="10">PICHARI</ubigeo>
+  <ubigeo coddpto="08" codprov="10" coddist="00">PARURO</ubigeo>
+  <ubigeo coddpto="08" codprov="10" coddist="01">PARURO</ubigeo>
+  <ubigeo coddpto="08" codprov="10" coddist="02">ACCHA</ubigeo>
+  <ubigeo coddpto="08" codprov="10" coddist="03">CCAPI</ubigeo>
+  <ubigeo coddpto="08" codprov="10" coddist="04">COLCHA</ubigeo>
+  <ubigeo coddpto="08" codprov="10" coddist="05">HUANOQUITE</ubigeo>
+  <ubigeo coddpto="08" codprov="10" coddist="06">OMACHA</ubigeo>
+  <ubigeo coddpto="08" codprov="10" coddist="07">PACCARITAMBO</ubigeo>
+  <ubigeo coddpto="08" codprov="10" coddist="08">PILLPINTO</ubigeo>
+  <ubigeo coddpto="08" codprov="10" coddist="09">YAURISQUE</ubigeo>
+  <ubigeo coddpto="08" codprov="11" coddist="00">PAUCARTAMBO</ubigeo>
+  <ubigeo coddpto="08" codprov="11" coddist="01">PAUCARTAMBO</ubigeo>
+  <ubigeo coddpto="08" codprov="11" coddist="02">CAICAY</ubigeo>
+  <ubigeo coddpto="08" codprov="11" coddist="03">CHALLABAMBA</ubigeo>
+  <ubigeo coddpto="08" codprov="11" coddist="04">COLQUEPATA</ubigeo>
+  <ubigeo coddpto="08" codprov="11" coddist="05">HUANCARANI</ubigeo>
+  <ubigeo coddpto="08" codprov="11" coddist="06">KOSÑIPATA</ubigeo>
+  <ubigeo coddpto="08" codprov="12" coddist="00">QUISPICANCHI</ubigeo>
+  <ubigeo coddpto="08" codprov="12" coddist="01">URCOS</ubigeo>
+  <ubigeo coddpto="08" codprov="12" coddist="02">ANDAHUAYLILLAS</ubigeo>
+  <ubigeo coddpto="08" codprov="12" coddist="03">CAMANTI</ubigeo>
+  <ubigeo coddpto="08" codprov="12" coddist="04">CCARHUAYO</ubigeo>
+  <ubigeo coddpto="08" codprov="12" coddist="05">CCATCA</ubigeo>
+  <ubigeo coddpto="08" codprov="12" coddist="06">CUSIPATA</ubigeo>
+  <ubigeo coddpto="08" codprov="12" coddist="07">HUARO</ubigeo>
+  <ubigeo coddpto="08" codprov="12" coddist="08">LUCRE</ubigeo>
+  <ubigeo coddpto="08" codprov="12" coddist="09">MARCAPATA</ubigeo>
+  <ubigeo coddpto="08" codprov="12" coddist="10">OCONGATE</ubigeo>
+  <ubigeo coddpto="08" codprov="12" coddist="11">OROPESA</ubigeo>
+  <ubigeo coddpto="08" codprov="12" coddist="12">QUIQUIJANA</ubigeo>
+  <ubigeo coddpto="08" codprov="13" coddist="00">URUBAMBA</ubigeo>
+  <ubigeo coddpto="08" codprov="13" coddist="01">URUBAMBA</ubigeo>
+  <ubigeo coddpto="08" codprov="13" coddist="02">CHINCHERO</ubigeo>
+  <ubigeo coddpto="08" codprov="13" coddist="03">HUAYLLABAMBA</ubigeo>
+  <ubigeo coddpto="08" codprov="13" coddist="04">MACHUPICCHU</ubigeo>
+  <ubigeo coddpto="08" codprov="13" coddist="05">MARAS</ubigeo>
+  <ubigeo coddpto="08" codprov="13" coddist="06">OLLANTAYTAMBO</ubigeo>
+  <ubigeo coddpto="08" codprov="13" coddist="07">YUCAY</ubigeo>
+  <ubigeo coddpto="09" codprov="00" coddist="00">HUANCAVELICA</ubigeo>
+  <ubigeo coddpto="09" codprov="01" coddist="00">HUANCAVELICA</ubigeo>
+  <ubigeo coddpto="09" codprov="01" coddist="01">HUANCAVELICA</ubigeo>
+  <ubigeo coddpto="09" codprov="01" coddist="02">ACOBAMBILLA</ubigeo>
+  <ubigeo coddpto="09" codprov="01" coddist="03">ACORIA</ubigeo>
+  <ubigeo coddpto="09" codprov="01" coddist="04">CONAYCA</ubigeo>
+  <ubigeo coddpto="09" codprov="01" coddist="05">CUENCA</ubigeo>
+  <ubigeo coddpto="09" codprov="01" coddist="06">HUACHOCOLPA</ubigeo>
+  <ubigeo coddpto="09" codprov="01" coddist="07">HUAYLLAHUARA</ubigeo>
+  <ubigeo coddpto="09" codprov="01" coddist="08">IZCUCHACA</ubigeo>
+  <ubigeo coddpto="09" codprov="01" coddist="09">LARIA</ubigeo>
+  <ubigeo coddpto="09" codprov="01" coddist="10">MANTA</ubigeo>
+  <ubigeo coddpto="09" codprov="01" coddist="11">MARISCAL CACERES</ubigeo>
+  <ubigeo coddpto="09" codprov="01" coddist="12">MOYA</ubigeo>
+  <ubigeo coddpto="09" codprov="01" coddist="13">NUEVO OCCORO</ubigeo>
+  <ubigeo coddpto="09" codprov="01" coddist="14">PALCA</ubigeo>
+  <ubigeo coddpto="09" codprov="01" coddist="15">PILCHACA</ubigeo>
+  <ubigeo coddpto="09" codprov="01" coddist="16">VILCA</ubigeo>
+  <ubigeo coddpto="09" codprov="01" coddist="17">YAULI</ubigeo>
+  <ubigeo coddpto="09" codprov="01" coddist="18">ASCENSION</ubigeo>
+  <ubigeo coddpto="09" codprov="01" coddist="19">HUANDO</ubigeo>
+  <ubigeo coddpto="09" codprov="02" coddist="00">ACOBAMBA</ubigeo>
+  <ubigeo coddpto="09" codprov="02" coddist="01">ACOBAMBA</ubigeo>
+  <ubigeo coddpto="09" codprov="02" coddist="02">ANDABAMBA</ubigeo>
+  <ubigeo coddpto="09" codprov="02" coddist="03">ANTA</ubigeo>
+  <ubigeo coddpto="09" codprov="02" coddist="04">CAJA</ubigeo>
+  <ubigeo coddpto="09" codprov="02" coddist="05">MARCAS</ubigeo>
+  <ubigeo coddpto="09" codprov="02" coddist="06">PAUCARA</ubigeo>
+  <ubigeo coddpto="09" codprov="02" coddist="07">POMACOCHA</ubigeo>
+  <ubigeo coddpto="09" codprov="02" coddist="08">ROSARIO</ubigeo>
+  <ubigeo coddpto="09" codprov="03" coddist="00">ANGARAES</ubigeo>
+  <ubigeo coddpto="09" codprov="03" coddist="01">LIRCAY</ubigeo>
+  <ubigeo coddpto="09" codprov="03" coddist="02">ANCHONGA</ubigeo>
+  <ubigeo coddpto="09" codprov="03" coddist="03">CALLANMARCA</ubigeo>
+  <ubigeo coddpto="09" codprov="03" coddist="04">CCOCHACCASA</ubigeo>
+  <ubigeo coddpto="09" codprov="03" coddist="05">CHINCHO</ubigeo>
+  <ubigeo coddpto="09" codprov="03" coddist="06">CONGALLA</ubigeo>
+  <ubigeo coddpto="09" codprov="03" coddist="07">HUANCA-HUANCA</ubigeo>
+  <ubigeo coddpto="09" codprov="03" coddist="08">HUAYLLAY GRANDE</ubigeo>
+  <ubigeo coddpto="09" codprov="03" coddist="09">JULCAMARCA</ubigeo>
+  <ubigeo coddpto="09" codprov="03" coddist="10">SAN ANTONIO DE ANTAPARCO</ubigeo>
+  <ubigeo coddpto="09" codprov="03" coddist="11">SANTO TOMAS DE PATA</ubigeo>
+  <ubigeo coddpto="09" codprov="03" coddist="12">SECCLLA</ubigeo>
+  <ubigeo coddpto="09" codprov="04" coddist="00">CASTROVIRREYNA</ubigeo>
+  <ubigeo coddpto="09" codprov="04" coddist="01">CASTROVIRREYNA</ubigeo>
+  <ubigeo coddpto="09" codprov="04" coddist="02">ARMA</ubigeo>
+  <ubigeo coddpto="09" codprov="04" coddist="03">AURAHUA</ubigeo>
+  <ubigeo coddpto="09" codprov="04" coddist="04">CAPILLAS</ubigeo>
+  <ubigeo coddpto="09" codprov="04" coddist="05">CHUPAMARCA</ubigeo>
+  <ubigeo coddpto="09" codprov="04" coddist="06">COCAS</ubigeo>
+  <ubigeo coddpto="09" codprov="04" coddist="07">HUACHOS</ubigeo>
+  <ubigeo coddpto="09" codprov="04" coddist="08">HUAMATAMBO</ubigeo>
+  <ubigeo coddpto="09" codprov="04" coddist="09">MOLLEPAMPA</ubigeo>
+  <ubigeo coddpto="09" codprov="04" coddist="10">SAN JUAN</ubigeo>
+  <ubigeo coddpto="09" codprov="04" coddist="11">SANTA ANA</ubigeo>
+  <ubigeo coddpto="09" codprov="04" coddist="12">TANTARA</ubigeo>
+  <ubigeo coddpto="09" codprov="04" coddist="13">TICRAPO</ubigeo>
+  <ubigeo coddpto="09" codprov="05" coddist="00">CHURCAMPA</ubigeo>
+  <ubigeo coddpto="09" codprov="05" coddist="01">CHURCAMPA</ubigeo>
+  <ubigeo coddpto="09" codprov="05" coddist="02">ANCO</ubigeo>
+  <ubigeo coddpto="09" codprov="05" coddist="03">CHINCHIHUASI</ubigeo>
+  <ubigeo coddpto="09" codprov="05" coddist="04">EL CARMEN</ubigeo>
+  <ubigeo coddpto="09" codprov="05" coddist="05">LA MERCED</ubigeo>
+  <ubigeo coddpto="09" codprov="05" coddist="06">LOCROJA</ubigeo>
+  <ubigeo coddpto="09" codprov="05" coddist="07">PAUCARBAMBA</ubigeo>
+  <ubigeo coddpto="09" codprov="05" coddist="08">SAN MIGUEL DE MAYOCC</ubigeo>
+  <ubigeo coddpto="09" codprov="05" coddist="09">SAN PEDRO DE CORIS</ubigeo>
+  <ubigeo coddpto="09" codprov="05" coddist="10">PACHAMARCA</ubigeo>
+  <ubigeo coddpto="09" codprov="05" coddist="11">COSME</ubigeo>
+  <ubigeo coddpto="09" codprov="06" coddist="00">HUAYTARA</ubigeo>
+  <ubigeo coddpto="09" codprov="06" coddist="01">HUAYTARA</ubigeo>
+  <ubigeo coddpto="09" codprov="06" coddist="02">AYAVI</ubigeo>
+  <ubigeo coddpto="09" codprov="06" coddist="03">CORDOVA</ubigeo>
+  <ubigeo coddpto="09" codprov="06" coddist="04">HUAYACUNDO ARMA</ubigeo>
+  <ubigeo coddpto="09" codprov="06" coddist="05">LARAMARCA</ubigeo>
+  <ubigeo coddpto="09" codprov="06" coddist="06">OCOYO</ubigeo>
+  <ubigeo coddpto="09" codprov="06" coddist="07">PILPICHACA</ubigeo>
+  <ubigeo coddpto="09" codprov="06" coddist="08">QUERCO</ubigeo>
+  <ubigeo coddpto="09" codprov="06" coddist="09">QUITO-ARMA</ubigeo>
+  <ubigeo coddpto="09" codprov="06" coddist="10">SAN ANTONIO DE CUSICANCHA</ubigeo>
+  <ubigeo coddpto="09" codprov="06" coddist="11">SAN FRANCISCO DE SANGAYAICO</ubigeo>
+  <ubigeo coddpto="09" codprov="06" coddist="12">SAN ISIDRO</ubigeo>
+  <ubigeo coddpto="09" codprov="06" coddist="13">SANTIAGO DE CHOCORVOS</ubigeo>
+  <ubigeo coddpto="09" codprov="06" coddist="14">SANTIAGO DE QUIRAHUARA</ubigeo>
+  <ubigeo coddpto="09" codprov="06" coddist="15">SANTO DOMINGO DE CAPILLAS</ubigeo>
+  <ubigeo coddpto="09" codprov="06" coddist="16">TAMBO</ubigeo>
+  <ubigeo coddpto="09" codprov="07" coddist="00">TAYACAJA</ubigeo>
+  <ubigeo coddpto="09" codprov="07" coddist="01">PAMPAS</ubigeo>
+  <ubigeo coddpto="09" codprov="07" coddist="02">ACOSTAMBO</ubigeo>
+  <ubigeo coddpto="09" codprov="07" coddist="03">ACRAQUIA</ubigeo>
+  <ubigeo coddpto="09" codprov="07" coddist="04">AHUAYCHA</ubigeo>
+  <ubigeo coddpto="09" codprov="07" coddist="05">COLCABAMBA</ubigeo>
+  <ubigeo coddpto="09" codprov="07" coddist="06">DANIEL HERNANDEZ</ubigeo>
+  <ubigeo coddpto="09" codprov="07" coddist="07">HUACHOCOLPA</ubigeo>
+  <ubigeo coddpto="09" codprov="07" coddist="09">HUARIBAMBA</ubigeo>
+  <ubigeo coddpto="09" codprov="07" coddist="10">ÑAHUIMPUQUIO</ubigeo>
+  <ubigeo coddpto="09" codprov="07" coddist="11">PAZOS</ubigeo>
+  <ubigeo coddpto="09" codprov="07" coddist="13">QUISHUAR</ubigeo>
+  <ubigeo coddpto="09" codprov="07" coddist="14">SALCABAMBA</ubigeo>
+  <ubigeo coddpto="09" codprov="07" coddist="15">SALCAHUASI</ubigeo>
+  <ubigeo coddpto="09" codprov="07" coddist="16">SAN MARCOS DE ROCCHAC</ubigeo>
+  <ubigeo coddpto="09" codprov="07" coddist="17">SURCUBAMBA</ubigeo>
+  <ubigeo coddpto="09" codprov="07" coddist="18">TINTAY PUNCU</ubigeo>
+  <ubigeo coddpto="10" codprov="00" coddist="00">HUANUCO</ubigeo>
+  <ubigeo coddpto="10" codprov="01" coddist="00">HUANUCO</ubigeo>
+  <ubigeo coddpto="10" codprov="01" coddist="01">HUANUCO</ubigeo>
+  <ubigeo coddpto="10" codprov="01" coddist="02">AMARILIS</ubigeo>
+  <ubigeo coddpto="10" codprov="01" coddist="03">CHINCHAO</ubigeo>
+  <ubigeo coddpto="10" codprov="01" coddist="04">CHURUBAMBA</ubigeo>
+  <ubigeo coddpto="10" codprov="01" coddist="05">MARGOS</ubigeo>
+  <ubigeo coddpto="10" codprov="01" coddist="06">QUISQUI (KICHKI)</ubigeo>
+  <ubigeo coddpto="10" codprov="01" coddist="07">SAN FRANCISCO DE CAYRAN</ubigeo>
+  <ubigeo coddpto="10" codprov="01" coddist="08">SAN PEDRO DE CHAULAN</ubigeo>
+  <ubigeo coddpto="10" codprov="01" coddist="09">SANTA MARIA DEL VALLE</ubigeo>
+  <ubigeo coddpto="10" codprov="01" coddist="10">YARUMAYO</ubigeo>
+  <ubigeo coddpto="10" codprov="01" coddist="11">PILLCO MARCA</ubigeo>
+  <ubigeo coddpto="10" codprov="01" coddist="12">YACUS</ubigeo>
+  <ubigeo coddpto="10" codprov="02" coddist="00">AMBO</ubigeo>
+  <ubigeo coddpto="10" codprov="02" coddist="01">AMBO</ubigeo>
+  <ubigeo coddpto="10" codprov="02" coddist="02">CAYNA</ubigeo>
+  <ubigeo coddpto="10" codprov="02" coddist="03">COLPAS</ubigeo>
+  <ubigeo coddpto="10" codprov="02" coddist="04">CONCHAMARCA</ubigeo>
+  <ubigeo coddpto="10" codprov="02" coddist="05">HUACAR</ubigeo>
+  <ubigeo coddpto="10" codprov="02" coddist="06">SAN FRANCISCO</ubigeo>
+  <ubigeo coddpto="10" codprov="02" coddist="07">SAN RAFAEL</ubigeo>
+  <ubigeo coddpto="10" codprov="02" coddist="08">TOMAY KICHWA</ubigeo>
+  <ubigeo coddpto="10" codprov="03" coddist="00">DOS DE MAYO</ubigeo>
+  <ubigeo coddpto="10" codprov="03" coddist="01">LA UNION</ubigeo>
+  <ubigeo coddpto="10" codprov="03" coddist="07">CHUQUIS</ubigeo>
+  <ubigeo coddpto="10" codprov="03" coddist="11">MARIAS</ubigeo>
+  <ubigeo coddpto="10" codprov="03" coddist="13">PACHAS</ubigeo>
+  <ubigeo coddpto="10" codprov="03" coddist="16">QUIVILLA</ubigeo>
+  <ubigeo coddpto="10" codprov="03" coddist="17">RIPAN</ubigeo>
+  <ubigeo coddpto="10" codprov="03" coddist="21">SHUNQUI</ubigeo>
+  <ubigeo coddpto="10" codprov="03" coddist="22">SILLAPATA</ubigeo>
+  <ubigeo coddpto="10" codprov="03" coddist="23">YANAS</ubigeo>
+  <ubigeo coddpto="10" codprov="04" coddist="00">HUACAYBAMBA</ubigeo>
+  <ubigeo coddpto="10" codprov="04" coddist="01">HUACAYBAMBA</ubigeo>
+  <ubigeo coddpto="10" codprov="04" coddist="02">CANCHABAMBA</ubigeo>
+  <ubigeo coddpto="10" codprov="04" coddist="03">COCHABAMBA</ubigeo>
+  <ubigeo coddpto="10" codprov="04" coddist="04">PINRA</ubigeo>
+  <ubigeo coddpto="10" codprov="05" coddist="00">HUAMALIES</ubigeo>
+  <ubigeo coddpto="10" codprov="05" coddist="01">LLATA</ubigeo>
+  <ubigeo coddpto="10" codprov="05" coddist="02">ARANCAY</ubigeo>
+  <ubigeo coddpto="10" codprov="05" coddist="03">CHAVIN DE PARIARCA</ubigeo>
+  <ubigeo coddpto="10" codprov="05" coddist="04">JACAS GRANDE</ubigeo>
+  <ubigeo coddpto="10" codprov="05" coddist="05">JIRCAN</ubigeo>
+  <ubigeo coddpto="10" codprov="05" coddist="06">MIRAFLORES</ubigeo>
+  <ubigeo coddpto="10" codprov="05" coddist="07">MONZON</ubigeo>
+  <ubigeo coddpto="10" codprov="05" coddist="08">PUNCHAO</ubigeo>
+  <ubigeo coddpto="10" codprov="05" coddist="09">PUÑOS</ubigeo>
+  <ubigeo coddpto="10" codprov="05" coddist="10">SINGA</ubigeo>
+  <ubigeo coddpto="10" codprov="05" coddist="11">TANTAMAYO</ubigeo>
+  <ubigeo coddpto="10" codprov="06" coddist="00">LEONCIO PRADO</ubigeo>
+  <ubigeo coddpto="10" codprov="06" coddist="01">RUPA-RUPA</ubigeo>
+  <ubigeo coddpto="10" codprov="06" coddist="02">DANIEL ALOMIA ROBLES</ubigeo>
+  <ubigeo coddpto="10" codprov="06" coddist="03">HERMILIO VALDIZAN</ubigeo>
+  <ubigeo coddpto="10" codprov="06" coddist="04">JOSE CRESPO Y CASTILLO</ubigeo>
+  <ubigeo coddpto="10" codprov="06" coddist="05">LUYANDO</ubigeo>
+  <ubigeo coddpto="10" codprov="06" coddist="06">MARIANO DAMASO BERAUN</ubigeo>
+  <ubigeo coddpto="10" codprov="07" coddist="00">MARAÑON</ubigeo>
+  <ubigeo coddpto="10" codprov="07" coddist="01">HUACRACHUCO</ubigeo>
+  <ubigeo coddpto="10" codprov="07" coddist="02">CHOLON</ubigeo>
+  <ubigeo coddpto="10" codprov="07" coddist="03">SAN BUENAVENTURA</ubigeo>
+  <ubigeo coddpto="10" codprov="08" coddist="00">PACHITEA</ubigeo>
+  <ubigeo coddpto="10" codprov="08" coddist="01">PANAO</ubigeo>
+  <ubigeo coddpto="10" codprov="08" coddist="02">CHAGLLA</ubigeo>
+  <ubigeo coddpto="10" codprov="08" coddist="03">MOLINO</ubigeo>
+  <ubigeo coddpto="10" codprov="08" coddist="04">UMARI</ubigeo>
+  <ubigeo coddpto="10" codprov="09" coddist="00">PUERTO INCA</ubigeo>
+  <ubigeo coddpto="10" codprov="09" coddist="01">PUERTO INCA</ubigeo>
+  <ubigeo coddpto="10" codprov="09" coddist="02">CODO DEL POZUZO</ubigeo>
+  <ubigeo coddpto="10" codprov="09" coddist="03">HONORIA</ubigeo>
+  <ubigeo coddpto="10" codprov="09" coddist="04">TOURNAVISTA</ubigeo>
+  <ubigeo coddpto="10" codprov="09" coddist="05">YUYAPICHIS</ubigeo>
+  <ubigeo coddpto="10" codprov="10" coddist="00">LAURICOCHA</ubigeo>
+  <ubigeo coddpto="10" codprov="10" coddist="01">JESUS</ubigeo>
+  <ubigeo coddpto="10" codprov="10" coddist="02">BAÑOS</ubigeo>
+  <ubigeo coddpto="10" codprov="10" coddist="03">JIVIA</ubigeo>
+  <ubigeo coddpto="10" codprov="10" coddist="04">QUEROPALCA</ubigeo>
+  <ubigeo coddpto="10" codprov="10" coddist="05">RONDOS</ubigeo>
+  <ubigeo coddpto="10" codprov="10" coddist="06">SAN FRANCISCO DE ASIS</ubigeo>
+  <ubigeo coddpto="10" codprov="10" coddist="07">SAN MIGUEL DE CAURI</ubigeo>
+  <ubigeo coddpto="10" codprov="11" coddist="00">YAROWILCA</ubigeo>
+  <ubigeo coddpto="10" codprov="11" coddist="01">CHAVINILLO</ubigeo>
+  <ubigeo coddpto="10" codprov="11" coddist="02">CAHUAC</ubigeo>
+  <ubigeo coddpto="10" codprov="11" coddist="03">CHACABAMBA</ubigeo>
+  <ubigeo coddpto="10" codprov="11" coddist="04">APARICIO POMARES</ubigeo>
+  <ubigeo coddpto="10" codprov="11" coddist="05">JACAS CHICO</ubigeo>
+  <ubigeo coddpto="10" codprov="11" coddist="06">OBAS</ubigeo>
+  <ubigeo coddpto="10" codprov="11" coddist="07">PAMPAMARCA</ubigeo>
+  <ubigeo coddpto="10" codprov="11" coddist="08">CHORAS</ubigeo>
+  <ubigeo coddpto="11" codprov="00" coddist="00">ICA</ubigeo>
+  <ubigeo coddpto="11" codprov="01" coddist="00">ICA</ubigeo>
+  <ubigeo coddpto="11" codprov="01" coddist="01">ICA</ubigeo>
+  <ubigeo coddpto="11" codprov="01" coddist="02">LA TINGUIÑA</ubigeo>
+  <ubigeo coddpto="11" codprov="01" coddist="03">LOS AQUIJES</ubigeo>
+  <ubigeo coddpto="11" codprov="01" coddist="04">OCUCAJE</ubigeo>
+  <ubigeo coddpto="11" codprov="01" coddist="05">PACHACUTEC</ubigeo>
+  <ubigeo coddpto="11" codprov="01" coddist="06">PARCONA</ubigeo>
+  <ubigeo coddpto="11" codprov="01" coddist="07">PUEBLO NUEVO</ubigeo>
+  <ubigeo coddpto="11" codprov="01" coddist="08">SALAS</ubigeo>
+  <ubigeo coddpto="11" codprov="01" coddist="09">SAN JOSE DE LOS MOLINOS</ubigeo>
+  <ubigeo coddpto="11" codprov="01" coddist="10">SAN JUAN BAUTISTA</ubigeo>
+  <ubigeo coddpto="11" codprov="01" coddist="11">SANTIAGO</ubigeo>
+  <ubigeo coddpto="11" codprov="01" coddist="12">SUBTANJALLA</ubigeo>
+  <ubigeo coddpto="11" codprov="01" coddist="13">TATE</ubigeo>
+  <ubigeo coddpto="11" codprov="01" coddist="14">YAUCA DEL ROSARIO</ubigeo>
+  <ubigeo coddpto="11" codprov="02" coddist="00">CHINCHA</ubigeo>
+  <ubigeo coddpto="11" codprov="02" coddist="01">CHINCHA ALTA</ubigeo>
+  <ubigeo coddpto="11" codprov="02" coddist="02">ALTO LARAN</ubigeo>
+  <ubigeo coddpto="11" codprov="02" coddist="03">CHAVIN</ubigeo>
+  <ubigeo coddpto="11" codprov="02" coddist="04">CHINCHA BAJA</ubigeo>
+  <ubigeo coddpto="11" codprov="02" coddist="05">EL CARMEN</ubigeo>
+  <ubigeo coddpto="11" codprov="02" coddist="06">GROCIO PRADO</ubigeo>
+  <ubigeo coddpto="11" codprov="02" coddist="07">PUEBLO NUEVO</ubigeo>
+  <ubigeo coddpto="11" codprov="02" coddist="08">SAN JUAN DE YANAC</ubigeo>
+  <ubigeo coddpto="11" codprov="02" coddist="09">SAN PEDRO DE HUACARPANA</ubigeo>
+  <ubigeo coddpto="11" codprov="02" coddist="10">SUNAMPE</ubigeo>
+  <ubigeo coddpto="11" codprov="02" coddist="11">TAMBO DE MORA</ubigeo>
+  <ubigeo coddpto="11" codprov="03" coddist="00">NAZCA</ubigeo>
+  <ubigeo coddpto="11" codprov="03" coddist="01">NAZCA</ubigeo>
+  <ubigeo coddpto="11" codprov="03" coddist="02">CHANGUILLO</ubigeo>
+  <ubigeo coddpto="11" codprov="03" coddist="03">EL INGENIO</ubigeo>
+  <ubigeo coddpto="11" codprov="03" coddist="04">MARCONA</ubigeo>
+  <ubigeo coddpto="11" codprov="03" coddist="05">VISTA ALEGRE</ubigeo>
+  <ubigeo coddpto="11" codprov="04" coddist="00">PALPA</ubigeo>
+  <ubigeo coddpto="11" codprov="04" coddist="01">PALPA</ubigeo>
+  <ubigeo coddpto="11" codprov="04" coddist="02">LLIPATA</ubigeo>
+  <ubigeo coddpto="11" codprov="04" coddist="03">RIO GRANDE</ubigeo>
+  <ubigeo coddpto="11" codprov="04" coddist="04">SANTA CRUZ</ubigeo>
+  <ubigeo coddpto="11" codprov="04" coddist="05">TIBILLO</ubigeo>
+  <ubigeo coddpto="11" codprov="05" coddist="00">PISCO</ubigeo>
+  <ubigeo coddpto="11" codprov="05" coddist="01">PISCO</ubigeo>
+  <ubigeo coddpto="11" codprov="05" coddist="02">HUANCANO</ubigeo>
+  <ubigeo coddpto="11" codprov="05" coddist="03">HUMAY</ubigeo>
+  <ubigeo coddpto="11" codprov="05" coddist="04">INDEPENDENCIA</ubigeo>
+  <ubigeo coddpto="11" codprov="05" coddist="05">PARACAS</ubigeo>
+  <ubigeo coddpto="11" codprov="05" coddist="06">SAN ANDRES</ubigeo>
+  <ubigeo coddpto="11" codprov="05" coddist="07">SAN CLEMENTE</ubigeo>
+  <ubigeo coddpto="11" codprov="05" coddist="08">TUPAC AMARU INCA</ubigeo>
+  <ubigeo coddpto="12" codprov="00" coddist="00">JUNIN</ubigeo>
+  <ubigeo coddpto="12" codprov="01" coddist="00">HUANCAYO</ubigeo>
+  <ubigeo coddpto="12" codprov="01" coddist="01">HUANCAYO</ubigeo>
+  <ubigeo coddpto="12" codprov="01" coddist="04">CARHUACALLANGA</ubigeo>
+  <ubigeo coddpto="12" codprov="01" coddist="05">CHACAPAMPA</ubigeo>
+  <ubigeo coddpto="12" codprov="01" coddist="06">CHICCHE</ubigeo>
+  <ubigeo coddpto="12" codprov="01" coddist="07">CHILCA</ubigeo>
+  <ubigeo coddpto="12" codprov="01" coddist="08">CHONGOS ALTO</ubigeo>
+  <ubigeo coddpto="12" codprov="01" coddist="11">CHUPURO</ubigeo>
+  <ubigeo coddpto="12" codprov="01" coddist="12">COLCA</ubigeo>
+  <ubigeo coddpto="12" codprov="01" coddist="13">CULLHUAS</ubigeo>
+  <ubigeo coddpto="12" codprov="01" coddist="14">EL TAMBO</ubigeo>
+  <ubigeo coddpto="12" codprov="01" coddist="16">HUACRAPUQUIO</ubigeo>
+  <ubigeo coddpto="12" codprov="01" coddist="17">HUALHUAS</ubigeo>
+  <ubigeo coddpto="12" codprov="01" coddist="19">HUANCAN</ubigeo>
+  <ubigeo coddpto="12" codprov="01" coddist="20">HUASICANCHA</ubigeo>
+  <ubigeo coddpto="12" codprov="01" coddist="21">HUAYUCACHI</ubigeo>
+  <ubigeo coddpto="12" codprov="01" coddist="22">INGENIO</ubigeo>
+  <ubigeo coddpto="12" codprov="01" coddist="24">PARIAHUANCA</ubigeo>
+  <ubigeo coddpto="12" codprov="01" coddist="25">PILCOMAYO</ubigeo>
+  <ubigeo coddpto="12" codprov="01" coddist="26">PUCARA</ubigeo>
+  <ubigeo coddpto="12" codprov="01" coddist="27">QUICHUAY</ubigeo>
+  <ubigeo coddpto="12" codprov="01" coddist="28">QUILCAS</ubigeo>
+  <ubigeo coddpto="12" codprov="01" coddist="29">SAN AGUSTIN</ubigeo>
+  <ubigeo coddpto="12" codprov="01" coddist="30">SAN JERONIMO DE TUNAN</ubigeo>
+  <ubigeo coddpto="12" codprov="01" coddist="32">SAÑO</ubigeo>
+  <ubigeo coddpto="12" codprov="01" coddist="33">SAPALLANGA</ubigeo>
+  <ubigeo coddpto="12" codprov="01" coddist="34">SICAYA</ubigeo>
+  <ubigeo coddpto="12" codprov="01" coddist="35">SANTO DOMINGO DE ACOBAMBA</ubigeo>
+  <ubigeo coddpto="12" codprov="01" coddist="36">VIQUES</ubigeo>
+  <ubigeo coddpto="12" codprov="02" coddist="00">CONCEPCION</ubigeo>
+  <ubigeo coddpto="12" codprov="02" coddist="01">CONCEPCION</ubigeo>
+  <ubigeo coddpto="12" codprov="02" coddist="02">ACO</ubigeo>
+  <ubigeo coddpto="12" codprov="02" coddist="03">ANDAMARCA</ubigeo>
+  <ubigeo coddpto="12" codprov="02" coddist="04">CHAMBARA</ubigeo>
+  <ubigeo coddpto="12" codprov="02" coddist="05">COCHAS</ubigeo>
+  <ubigeo coddpto="12" codprov="02" coddist="06">COMAS</ubigeo>
+  <ubigeo coddpto="12" codprov="02" coddist="07">HEROINAS TOLEDO</ubigeo>
+  <ubigeo coddpto="12" codprov="02" coddist="08">MANZANARES</ubigeo>
+  <ubigeo coddpto="12" codprov="02" coddist="09">MARISCAL CASTILLA</ubigeo>
+  <ubigeo coddpto="12" codprov="02" coddist="10">MATAHUASI</ubigeo>
+  <ubigeo coddpto="12" codprov="02" coddist="11">MITO</ubigeo>
+  <ubigeo coddpto="12" codprov="02" coddist="12">NUEVE DE JULIO</ubigeo>
+  <ubigeo coddpto="12" codprov="02" coddist="13">ORCOTUNA</ubigeo>
+  <ubigeo coddpto="12" codprov="02" coddist="14">SAN JOSE DE QUERO</ubigeo>
+  <ubigeo coddpto="12" codprov="02" coddist="15">SANTA ROSA DE OCOPA</ubigeo>
+  <ubigeo coddpto="12" codprov="03" coddist="00">CHANCHAMAYO</ubigeo>
+  <ubigeo coddpto="12" codprov="03" coddist="01">CHANCHAMAYO</ubigeo>
+  <ubigeo coddpto="12" codprov="03" coddist="02">PERENE</ubigeo>
+  <ubigeo coddpto="12" codprov="03" coddist="03">PICHANAQUI</ubigeo>
+  <ubigeo coddpto="12" codprov="03" coddist="04">SAN LUIS DE SHUARO</ubigeo>
+  <ubigeo coddpto="12" codprov="03" coddist="05">SAN RAMON</ubigeo>
+  <ubigeo coddpto="12" codprov="03" coddist="06">VITOC</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="00">JAUJA</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="01">JAUJA</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="02">ACOLLA</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="03">APATA</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="04">ATAURA</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="05">CANCHAYLLO</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="06">CURICACA</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="07">EL MANTARO</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="08">HUAMALI</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="09">HUARIPAMPA</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="10">HUERTAS</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="11">JANJAILLO</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="12">JULCAN</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="13">LEONOR ORDOÑEZ</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="14">LLOCLLAPAMPA</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="15">MARCO</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="16">MASMA</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="17">MASMA CHICCHE</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="18">MOLINOS</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="19">MONOBAMBA</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="20">MUQUI</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="21">MUQUIYAUYO</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="22">PACA</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="23">PACCHA</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="24">PANCAN</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="25">PARCO</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="26">POMACANCHA</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="27">RICRAN</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="28">SAN LORENZO</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="29">SAN PEDRO DE CHUNAN</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="30">SAUSA</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="31">SINCOS</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="32">TUNAN MARCA</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="33">YAULI</ubigeo>
+  <ubigeo coddpto="12" codprov="04" coddist="34">YAUYOS</ubigeo>
+  <ubigeo coddpto="12" codprov="05" coddist="00">JUNIN</ubigeo>
+  <ubigeo coddpto="12" codprov="05" coddist="01">JUNIN</ubigeo>
+  <ubigeo coddpto="12" codprov="05" coddist="02">CARHUAMAYO</ubigeo>
+  <ubigeo coddpto="12" codprov="05" coddist="03">ONDORES</ubigeo>
+  <ubigeo coddpto="12" codprov="05" coddist="04">ULCUMAYO</ubigeo>
+  <ubigeo coddpto="12" codprov="06" coddist="00">SATIPO</ubigeo>
+  <ubigeo coddpto="12" codprov="06" coddist="01">SATIPO</ubigeo>
+  <ubigeo coddpto="12" codprov="06" coddist="02">COVIRIALI</ubigeo>
+  <ubigeo coddpto="12" codprov="06" coddist="03">LLAYLLA</ubigeo>
+  <ubigeo coddpto="12" codprov="06" coddist="05">PAMPA HERMOSA</ubigeo>
+  <ubigeo coddpto="12" codprov="06" coddist="07">RIO NEGRO</ubigeo>
+  <ubigeo coddpto="12" codprov="06" coddist="08">RIO TAMBO</ubigeo>
+  <ubigeo coddpto="12" codprov="06" coddist="99">MAZAMARI - PANGOA</ubigeo>
+  <ubigeo coddpto="12" codprov="07" coddist="00">TARMA</ubigeo>
+  <ubigeo coddpto="12" codprov="07" coddist="01">TARMA</ubigeo>
+  <ubigeo coddpto="12" codprov="07" coddist="02">ACOBAMBA</ubigeo>
+  <ubigeo coddpto="12" codprov="07" coddist="03">HUARICOLCA</ubigeo>
+  <ubigeo coddpto="12" codprov="07" coddist="04">HUASAHUASI</ubigeo>
+  <ubigeo coddpto="12" codprov="07" coddist="05">LA UNION</ubigeo>
+  <ubigeo coddpto="12" codprov="07" coddist="06">PALCA</ubigeo>
+  <ubigeo coddpto="12" codprov="07" coddist="07">PALCAMAYO</ubigeo>
+  <ubigeo coddpto="12" codprov="07" coddist="08">SAN PEDRO DE CAJAS</ubigeo>
+  <ubigeo coddpto="12" codprov="07" coddist="09">TAPO</ubigeo>
+  <ubigeo coddpto="12" codprov="08" coddist="00">YAULI</ubigeo>
+  <ubigeo coddpto="12" codprov="08" coddist="01">LA OROYA</ubigeo>
+  <ubigeo coddpto="12" codprov="08" coddist="02">CHACAPALPA</ubigeo>
+  <ubigeo coddpto="12" codprov="08" coddist="03">HUAY-HUAY</ubigeo>
+  <ubigeo coddpto="12" codprov="08" coddist="04">MARCAPOMACOCHA</ubigeo>
+  <ubigeo coddpto="12" codprov="08" coddist="05">MOROCOCHA</ubigeo>
+  <ubigeo coddpto="12" codprov="08" coddist="06">PACCHA</ubigeo>
+  <ubigeo coddpto="12" codprov="08" coddist="07">SANTA BARBARA DE CARHUACAYAN</ubigeo>
+  <ubigeo coddpto="12" codprov="08" coddist="08">SANTA ROSA DE SACCO</ubigeo>
+  <ubigeo coddpto="12" codprov="08" coddist="09">SUITUCANCHA</ubigeo>
+  <ubigeo coddpto="12" codprov="08" coddist="10">YAULI</ubigeo>
+  <ubigeo coddpto="12" codprov="09" coddist="00">CHUPACA</ubigeo>
+  <ubigeo coddpto="12" codprov="09" coddist="01">CHUPACA</ubigeo>
+  <ubigeo coddpto="12" codprov="09" coddist="02">AHUAC</ubigeo>
+  <ubigeo coddpto="12" codprov="09" coddist="03">CHONGOS BAJO</ubigeo>
+  <ubigeo coddpto="12" codprov="09" coddist="04">HUACHAC</ubigeo>
+  <ubigeo coddpto="12" codprov="09" coddist="05">HUAMANCACA CHICO</ubigeo>
+  <ubigeo coddpto="12" codprov="09" coddist="06">SAN JUAN DE ISCOS</ubigeo>
+  <ubigeo coddpto="12" codprov="09" coddist="07">SAN JUAN DE JARPA</ubigeo>
+  <ubigeo coddpto="12" codprov="09" coddist="08">TRES DE DICIEMBRE</ubigeo>
+  <ubigeo coddpto="12" codprov="09" coddist="09">YANACANCHA</ubigeo>
+  <ubigeo coddpto="13" codprov="00" coddist="00">LA LIBERTAD</ubigeo>
+  <ubigeo coddpto="13" codprov="01" coddist="00">TRUJILLO</ubigeo>
+  <ubigeo coddpto="13" codprov="01" coddist="01">TRUJILLO</ubigeo>
+  <ubigeo coddpto="13" codprov="01" coddist="02">EL PORVENIR</ubigeo>
+  <ubigeo coddpto="13" codprov="01" coddist="03">FLORENCIA DE MORA</ubigeo>
+  <ubigeo coddpto="13" codprov="01" coddist="04">HUANCHACO</ubigeo>
+  <ubigeo coddpto="13" codprov="01" coddist="05">LA ESPERANZA</ubigeo>
+  <ubigeo coddpto="13" codprov="01" coddist="06">LAREDO</ubigeo>
+  <ubigeo coddpto="13" codprov="01" coddist="07">MOCHE</ubigeo>
+  <ubigeo coddpto="13" codprov="01" coddist="08">POROTO</ubigeo>
+  <ubigeo coddpto="13" codprov="01" coddist="09">SALAVERRY</ubigeo>
+  <ubigeo coddpto="13" codprov="01" coddist="10">SIMBAL</ubigeo>
+  <ubigeo coddpto="13" codprov="01" coddist="11">VICTOR LARCO HERRERA</ubigeo>
+  <ubigeo coddpto="13" codprov="02" coddist="00">ASCOPE</ubigeo>
+  <ubigeo coddpto="13" codprov="02" coddist="01">ASCOPE</ubigeo>
+  <ubigeo coddpto="13" codprov="02" coddist="02">CHICAMA</ubigeo>
+  <ubigeo coddpto="13" codprov="02" coddist="03">CHOCOPE</ubigeo>
+  <ubigeo coddpto="13" codprov="02" coddist="04">MAGDALENA DE CAO</ubigeo>
+  <ubigeo coddpto="13" codprov="02" coddist="05">PAIJAN</ubigeo>
+  <ubigeo coddpto="13" codprov="02" coddist="06">RAZURI</ubigeo>
+  <ubigeo coddpto="13" codprov="02" coddist="07">SANTIAGO DE CAO</ubigeo>
+  <ubigeo coddpto="13" codprov="02" coddist="08">CASA GRANDE</ubigeo>
+  <ubigeo coddpto="13" codprov="03" coddist="00">BOLIVAR</ubigeo>
+  <ubigeo coddpto="13" codprov="03" coddist="01">BOLIVAR</ubigeo>
+  <ubigeo coddpto="13" codprov="03" coddist="02">BAMBAMARCA</ubigeo>
+  <ubigeo coddpto="13" codprov="03" coddist="03">CONDORMARCA</ubigeo>
+  <ubigeo coddpto="13" codprov="03" coddist="04">LONGOTEA</ubigeo>
+  <ubigeo coddpto="13" codprov="03" coddist="05">UCHUMARCA</ubigeo>
+  <ubigeo coddpto="13" codprov="03" coddist="06">UCUNCHA</ubigeo>
+  <ubigeo coddpto="13" codprov="04" coddist="00">CHEPEN</ubigeo>
+  <ubigeo coddpto="13" codprov="04" coddist="01">CHEPEN</ubigeo>
+  <ubigeo coddpto="13" codprov="04" coddist="02">PACANGA</ubigeo>
+  <ubigeo coddpto="13" codprov="04" coddist="03">PUEBLO NUEVO</ubigeo>
+  <ubigeo coddpto="13" codprov="05" coddist="00">JULCAN</ubigeo>
+  <ubigeo coddpto="13" codprov="05" coddist="01">JULCAN</ubigeo>
+  <ubigeo coddpto="13" codprov="05" coddist="02">CALAMARCA</ubigeo>
+  <ubigeo coddpto="13" codprov="05" coddist="03">CARABAMBA</ubigeo>
+  <ubigeo coddpto="13" codprov="05" coddist="04">HUASO</ubigeo>
+  <ubigeo coddpto="13" codprov="06" coddist="00">OTUZCO</ubigeo>
+  <ubigeo coddpto="13" codprov="06" coddist="01">OTUZCO</ubigeo>
+  <ubigeo coddpto="13" codprov="06" coddist="02">AGALLPAMPA</ubigeo>
+  <ubigeo coddpto="13" codprov="06" coddist="04">CHARAT</ubigeo>
+  <ubigeo coddpto="13" codprov="06" coddist="05">HUARANCHAL</ubigeo>
+  <ubigeo coddpto="13" codprov="06" coddist="06">LA CUESTA</ubigeo>
+  <ubigeo coddpto="13" codprov="06" coddist="08">MACHE</ubigeo>
+  <ubigeo coddpto="13" codprov="06" coddist="10">PARANDAY</ubigeo>
+  <ubigeo coddpto="13" codprov="06" coddist="11">SALPO</ubigeo>
+  <ubigeo coddpto="13" codprov="06" coddist="13">SINSICAP</ubigeo>
+  <ubigeo coddpto="13" codprov="06" coddist="14">USQUIL</ubigeo>
+  <ubigeo coddpto="13" codprov="07" coddist="00">PACASMAYO</ubigeo>
+  <ubigeo coddpto="13" codprov="07" coddist="01">SAN PEDRO DE LLOC</ubigeo>
+  <ubigeo coddpto="13" codprov="07" coddist="02">GUADALUPE</ubigeo>
+  <ubigeo coddpto="13" codprov="07" coddist="03">JEQUETEPEQUE</ubigeo>
+  <ubigeo coddpto="13" codprov="07" coddist="04">PACASMAYO</ubigeo>
+  <ubigeo coddpto="13" codprov="07" coddist="05">SAN JOSE</ubigeo>
+  <ubigeo coddpto="13" codprov="08" coddist="00">PATAZ</ubigeo>
+  <ubigeo coddpto="13" codprov="08" coddist="01">TAYABAMBA</ubigeo>
+  <ubigeo coddpto="13" codprov="08" coddist="02">BULDIBUYO</ubigeo>
+  <ubigeo coddpto="13" codprov="08" coddist="03">CHILLIA</ubigeo>
+  <ubigeo coddpto="13" codprov="08" coddist="04">HUANCASPATA</ubigeo>
+  <ubigeo coddpto="13" codprov="08" coddist="05">HUAYLILLAS</ubigeo>
+  <ubigeo coddpto="13" codprov="08" coddist="06">HUAYO</ubigeo>
+  <ubigeo coddpto="13" codprov="08" coddist="07">ONGON</ubigeo>
+  <ubigeo coddpto="13" codprov="08" coddist="08">PARCOY</ubigeo>
+  <ubigeo coddpto="13" codprov="08" coddist="09">PATAZ</ubigeo>
+  <ubigeo coddpto="13" codprov="08" coddist="10">PIAS</ubigeo>
+  <ubigeo coddpto="13" codprov="08" coddist="11">SANTIAGO DE CHALLAS</ubigeo>
+  <ubigeo coddpto="13" codprov="08" coddist="12">TAURIJA</ubigeo>
+  <ubigeo coddpto="13" codprov="08" coddist="13">URPAY</ubigeo>
+  <ubigeo coddpto="13" codprov="09" coddist="00">SANCHEZ CARRION</ubigeo>
+  <ubigeo coddpto="13" codprov="09" coddist="01">HUAMACHUCO</ubigeo>
+  <ubigeo coddpto="13" codprov="09" coddist="02">CHUGAY</ubigeo>
+  <ubigeo coddpto="13" codprov="09" coddist="03">COCHORCO</ubigeo>
+  <ubigeo coddpto="13" codprov="09" coddist="04">CURGOS</ubigeo>
+  <ubigeo coddpto="13" codprov="09" coddist="05">MARCABAL</ubigeo>
+  <ubigeo coddpto="13" codprov="09" coddist="06">SANAGORAN</ubigeo>
+  <ubigeo coddpto="13" codprov="09" coddist="07">SARIN</ubigeo>
+  <ubigeo coddpto="13" codprov="09" coddist="08">SARTIMBAMBA</ubigeo>
+  <ubigeo coddpto="13" codprov="10" coddist="00">SANTIAGO DE CHUCO</ubigeo>
+  <ubigeo coddpto="13" codprov="10" coddist="01">SANTIAGO DE CHUCO</ubigeo>
+  <ubigeo coddpto="13" codprov="10" coddist="02">ANGASMARCA</ubigeo>
+  <ubigeo coddpto="13" codprov="10" coddist="03">CACHICADAN</ubigeo>
+  <ubigeo coddpto="13" codprov="10" coddist="04">MOLLEBAMBA</ubigeo>
+  <ubigeo coddpto="13" codprov="10" coddist="05">MOLLEPATA</ubigeo>
+  <ubigeo coddpto="13" codprov="10" coddist="06">QUIRUVILCA</ubigeo>
+  <ubigeo coddpto="13" codprov="10" coddist="07">SANTA CRUZ DE CHUCA</ubigeo>
+  <ubigeo coddpto="13" codprov="10" coddist="08">SITABAMBA</ubigeo>
+  <ubigeo coddpto="13" codprov="11" coddist="00">GRAN CHIMU</ubigeo>
+  <ubigeo coddpto="13" codprov="11" coddist="01">CASCAS</ubigeo>
+  <ubigeo coddpto="13" codprov="11" coddist="02">LUCMA</ubigeo>
+  <ubigeo coddpto="13" codprov="11" coddist="03">MARMOT</ubigeo>
+  <ubigeo coddpto="13" codprov="11" coddist="04">SAYAPULLO</ubigeo>
+  <ubigeo coddpto="13" codprov="12" coddist="00">VIRU</ubigeo>
+  <ubigeo coddpto="13" codprov="12" coddist="01">VIRU</ubigeo>
+  <ubigeo coddpto="13" codprov="12" coddist="02">CHAO</ubigeo>
+  <ubigeo coddpto="13" codprov="12" coddist="03">GUADALUPITO</ubigeo>
+  <ubigeo coddpto="14" codprov="00" coddist="00">LAMBAYEQUE</ubigeo>
+  <ubigeo coddpto="14" codprov="01" coddist="00">CHICLAYO</ubigeo>
+  <ubigeo coddpto="14" codprov="01" coddist="01">CHICLAYO</ubigeo>
+  <ubigeo coddpto="14" codprov="01" coddist="02">CHONGOYAPE</ubigeo>
+  <ubigeo coddpto="14" codprov="01" coddist="03">ETEN</ubigeo>
+  <ubigeo coddpto="14" codprov="01" coddist="04">ETEN PUERTO</ubigeo>
+  <ubigeo coddpto="14" codprov="01" coddist="05">JOSE LEONARDO ORTIZ</ubigeo>
+  <ubigeo coddpto="14" codprov="01" coddist="06">LA VICTORIA</ubigeo>
+  <ubigeo coddpto="14" codprov="01" coddist="07">LAGUNAS</ubigeo>
+  <ubigeo coddpto="14" codprov="01" coddist="08">MONSEFU</ubigeo>
+  <ubigeo coddpto="14" codprov="01" coddist="09">NUEVA ARICA</ubigeo>
+  <ubigeo coddpto="14" codprov="01" coddist="10">OYOTUN</ubigeo>
+  <ubigeo coddpto="14" codprov="01" coddist="11">PICSI</ubigeo>
+  <ubigeo coddpto="14" codprov="01" coddist="12">PIMENTEL</ubigeo>
+  <ubigeo coddpto="14" codprov="01" coddist="13">REQUE</ubigeo>
+  <ubigeo coddpto="14" codprov="01" coddist="14">SANTA ROSA</ubigeo>
+  <ubigeo coddpto="14" codprov="01" coddist="15">SAÑA</ubigeo>
+  <ubigeo coddpto="14" codprov="01" coddist="16">CAYALTI</ubigeo>
+  <ubigeo coddpto="14" codprov="01" coddist="17">PATAPO</ubigeo>
+  <ubigeo coddpto="14" codprov="01" coddist="18">POMALCA</ubigeo>
+  <ubigeo coddpto="14" codprov="01" coddist="19">PUCALA</ubigeo>
+  <ubigeo coddpto="14" codprov="01" coddist="20">TUMAN</ubigeo>
+  <ubigeo coddpto="14" codprov="02" coddist="00">FERREÑAFE</ubigeo>
+  <ubigeo coddpto="14" codprov="02" coddist="01">FERREÑAFE</ubigeo>
+  <ubigeo coddpto="14" codprov="02" coddist="02">CAÑARIS</ubigeo>
+  <ubigeo coddpto="14" codprov="02" coddist="03">INCAHUASI</ubigeo>
+  <ubigeo coddpto="14" codprov="02" coddist="04">MANUEL ANTONIO MESONES MURO</ubigeo>
+  <ubigeo coddpto="14" codprov="02" coddist="05">PITIPO</ubigeo>
+  <ubigeo coddpto="14" codprov="02" coddist="06">PUEBLO NUEVO</ubigeo>
+  <ubigeo coddpto="14" codprov="03" coddist="00">LAMBAYEQUE</ubigeo>
+  <ubigeo coddpto="14" codprov="03" coddist="01">LAMBAYEQUE</ubigeo>
+  <ubigeo coddpto="14" codprov="03" coddist="02">CHOCHOPE</ubigeo>
+  <ubigeo coddpto="14" codprov="03" coddist="03">ILLIMO</ubigeo>
+  <ubigeo coddpto="14" codprov="03" coddist="04">JAYANCA</ubigeo>
+  <ubigeo coddpto="14" codprov="03" coddist="05">MOCHUMI</ubigeo>
+  <ubigeo coddpto="14" codprov="03" coddist="06">MORROPE</ubigeo>
+  <ubigeo coddpto="14" codprov="03" coddist="07">MOTUPE</ubigeo>
+  <ubigeo coddpto="14" codprov="03" coddist="08">OLMOS</ubigeo>
+  <ubigeo coddpto="14" codprov="03" coddist="09">PACORA</ubigeo>
+  <ubigeo coddpto="14" codprov="03" coddist="10">SALAS</ubigeo>
+  <ubigeo coddpto="14" codprov="03" coddist="11">SAN JOSE</ubigeo>
+  <ubigeo coddpto="14" codprov="03" coddist="12">TUCUME</ubigeo>
+  <ubigeo coddpto="15" codprov="00" coddist="00">LIMA</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="00">LIMA</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="01">LIMA</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="02">ANCON</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="03">ATE</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="04">BARRANCO</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="05">BREÑA</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="06">CARABAYLLO</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="07">CHACLACAYO</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="08">CHORRILLOS</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="09">CIENEGUILLA</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="10">COMAS</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="11">EL AGUSTINO</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="12">INDEPENDENCIA</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="13">JESUS MARIA</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="14">LA MOLINA</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="15">LA VICTORIA</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="16">LINCE</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="17">LOS OLIVOS</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="18">LURIGANCHO</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="19">LURIN</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="20">MAGDALENA DEL MAR</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="21">PUEBLO LIBRE</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="22">MIRAFLORES</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="23">PACHACAMAC</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="24">PUCUSANA</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="25">PUENTE PIEDRA</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="26">PUNTA HERMOSA</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="27">PUNTA NEGRA</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="28">RIMAC</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="29">SAN BARTOLO</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="30">SAN BORJA</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="31">SAN ISIDRO</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="32">SAN JUAN DE LURIGANCHO</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="33">SAN JUAN DE MIRAFLORES</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="34">SAN LUIS</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="35">SAN MARTIN DE PORRES</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="36">SAN MIGUEL</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="37">SANTA ANITA</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="38">SANTA MARIA DEL MAR</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="39">SANTA ROSA</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="40">SANTIAGO DE SURCO</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="41">SURQUILLO</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="42">VILLA EL SALVADOR</ubigeo>
+  <ubigeo coddpto="15" codprov="01" coddist="43">VILLA MARIA DEL TRIUNFO</ubigeo>
+  <ubigeo coddpto="15" codprov="02" coddist="00">BARRANCA</ubigeo>
+  <ubigeo coddpto="15" codprov="02" coddist="01">BARRANCA</ubigeo>
+  <ubigeo coddpto="15" codprov="02" coddist="02">PARAMONGA</ubigeo>
+  <ubigeo coddpto="15" codprov="02" coddist="03">PATIVILCA</ubigeo>
+  <ubigeo coddpto="15" codprov="02" coddist="04">SUPE</ubigeo>
+  <ubigeo coddpto="15" codprov="02" coddist="05">SUPE PUERTO</ubigeo>
+  <ubigeo coddpto="15" codprov="03" coddist="00">CAJATAMBO</ubigeo>
+  <ubigeo coddpto="15" codprov="03" coddist="01">CAJATAMBO</ubigeo>
+  <ubigeo coddpto="15" codprov="03" coddist="02">COPA</ubigeo>
+  <ubigeo coddpto="15" codprov="03" coddist="03">GORGOR</ubigeo>
+  <ubigeo coddpto="15" codprov="03" coddist="04">HUANCAPON</ubigeo>
+  <ubigeo coddpto="15" codprov="03" coddist="05">MANAS</ubigeo>
+  <ubigeo coddpto="15" codprov="04" coddist="00">CANTA</ubigeo>
+  <ubigeo coddpto="15" codprov="04" coddist="01">CANTA</ubigeo>
+  <ubigeo coddpto="15" codprov="04" coddist="02">ARAHUAY</ubigeo>
+  <ubigeo coddpto="15" codprov="04" coddist="03">HUAMANTANGA</ubigeo>
+  <ubigeo coddpto="15" codprov="04" coddist="04">HUAROS</ubigeo>
+  <ubigeo coddpto="15" codprov="04" coddist="05">LACHAQUI</ubigeo>
+  <ubigeo coddpto="15" codprov="04" coddist="06">SAN BUENAVENTURA</ubigeo>
+  <ubigeo coddpto="15" codprov="04" coddist="07">SANTA ROSA DE QUIVES</ubigeo>
+  <ubigeo coddpto="15" codprov="05" coddist="00">CAÑETE</ubigeo>
+  <ubigeo coddpto="15" codprov="05" coddist="01">SAN VICENTE DE CAÑETE</ubigeo>
+  <ubigeo coddpto="15" codprov="05" coddist="02">ASIA</ubigeo>
+  <ubigeo coddpto="15" codprov="05" coddist="03">CALANGO</ubigeo>
+  <ubigeo coddpto="15" codprov="05" coddist="04">CERRO AZUL</ubigeo>
+  <ubigeo coddpto="15" codprov="05" coddist="05">CHILCA</ubigeo>
+  <ubigeo coddpto="15" codprov="05" coddist="06">COAYLLO</ubigeo>
+  <ubigeo coddpto="15" codprov="05" coddist="07">IMPERIAL</ubigeo>
+  <ubigeo coddpto="15" codprov="05" coddist="08">LUNAHUANA</ubigeo>
+  <ubigeo coddpto="15" codprov="05" coddist="09">MALA</ubigeo>
+  <ubigeo coddpto="15" codprov="05" coddist="10">NUEVO IMPERIAL</ubigeo>
+  <ubigeo coddpto="15" codprov="05" coddist="11">PACARAN</ubigeo>
+  <ubigeo coddpto="15" codprov="05" coddist="12">QUILMANA</ubigeo>
+  <ubigeo coddpto="15" codprov="05" coddist="13">SAN ANTONIO</ubigeo>
+  <ubigeo coddpto="15" codprov="05" coddist="14">SAN LUIS</ubigeo>
+  <ubigeo coddpto="15" codprov="05" coddist="15">SANTA CRUZ DE FLORES</ubigeo>
+  <ubigeo coddpto="15" codprov="05" coddist="16">ZUÑIGA</ubigeo>
+  <ubigeo coddpto="15" codprov="06" coddist="00">HUARAL</ubigeo>
+  <ubigeo coddpto="15" codprov="06" coddist="01">HUARAL</ubigeo>
+  <ubigeo coddpto="15" codprov="06" coddist="02">ATAVILLOS ALTO</ubigeo>
+  <ubigeo coddpto="15" codprov="06" coddist="03">ATAVILLOS BAJO</ubigeo>
+  <ubigeo coddpto="15" codprov="06" coddist="04">AUCALLAMA</ubigeo>
+  <ubigeo coddpto="15" codprov="06" coddist="05">CHANCAY</ubigeo>
+  <ubigeo coddpto="15" codprov="06" coddist="06">IHUARI</ubigeo>
+  <ubigeo coddpto="15" codprov="06" coddist="07">LAMPIAN</ubigeo>
+  <ubigeo coddpto="15" codprov="06" coddist="08">PACARAOS</ubigeo>
+  <ubigeo coddpto="15" codprov="06" coddist="09">SAN MIGUEL DE ACOS</ubigeo>
+  <ubigeo coddpto="15" codprov="06" coddist="10">SANTA CRUZ DE ANDAMARCA</ubigeo>
+  <ubigeo coddpto="15" codprov="06" coddist="11">SUMBILCA</ubigeo>
+  <ubigeo coddpto="15" codprov="06" coddist="12">VEINTISIETE DE NOVIEMBRE</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="00">HUAROCHIRI</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="01">MATUCANA</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="02">ANTIOQUIA</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="03">CALLAHUANCA</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="04">CARAMPOMA</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="05">CHICLA</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="06">CUENCA</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="07">HUACHUPAMPA</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="08">HUANZA</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="09">HUAROCHIRI</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="10">LAHUAYTAMBO</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="11">LANGA</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="12">LARAOS</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="13">MARIATANA</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="14">RICARDO PALMA</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="15">SAN ANDRES DE TUPICOCHA</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="16">SAN ANTONIO</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="17">SAN BARTOLOME</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="18">SAN DAMIAN</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="19">SAN JUAN DE IRIS</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="20">SAN JUAN DE TANTARANCHE</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="21">SAN LORENZO DE QUINTI</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="22">SAN MATEO</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="23">SAN MATEO DE OTAO</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="24">SAN PEDRO DE CASTA</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="25">SAN PEDRO DE HUANCAYRE</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="26">SANGALLAYA</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="27">SANTA CRUZ DE COCACHACRA</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="28">SANTA EULALIA</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="29">SANTIAGO DE ANCHUCAYA</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="30">SANTIAGO DE TUNA</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="31">SANTO DOMINGO DE LOS OLLEROS</ubigeo>
+  <ubigeo coddpto="15" codprov="07" coddist="32">SURCO</ubigeo>
+  <ubigeo coddpto="15" codprov="08" coddist="00">HUAURA</ubigeo>
+  <ubigeo coddpto="15" codprov="08" coddist="01">HUACHO</ubigeo>
+  <ubigeo coddpto="15" codprov="08" coddist="02">AMBAR</ubigeo>
+  <ubigeo coddpto="15" codprov="08" coddist="03">CALETA DE CARQUIN</ubigeo>
+  <ubigeo coddpto="15" codprov="08" coddist="04">CHECRAS</ubigeo>
+  <ubigeo coddpto="15" codprov="08" coddist="05">HUALMAY</ubigeo>
+  <ubigeo coddpto="15" codprov="08" coddist="06">HUAURA</ubigeo>
+  <ubigeo coddpto="15" codprov="08" coddist="07">LEONCIO PRADO</ubigeo>
+  <ubigeo coddpto="15" codprov="08" coddist="08">PACCHO</ubigeo>
+  <ubigeo coddpto="15" codprov="08" coddist="09">SANTA LEONOR</ubigeo>
+  <ubigeo coddpto="15" codprov="08" coddist="10">SANTA MARIA</ubigeo>
+  <ubigeo coddpto="15" codprov="08" coddist="11">SAYAN</ubigeo>
+  <ubigeo coddpto="15" codprov="08" coddist="12">VEGUETA</ubigeo>
+  <ubigeo coddpto="15" codprov="09" coddist="00">OYON</ubigeo>
+  <ubigeo coddpto="15" codprov="09" coddist="01">OYON</ubigeo>
+  <ubigeo coddpto="15" codprov="09" coddist="02">ANDAJES</ubigeo>
+  <ubigeo coddpto="15" codprov="09" coddist="03">CAUJUL</ubigeo>
+  <ubigeo coddpto="15" codprov="09" coddist="04">COCHAMARCA</ubigeo>
+  <ubigeo coddpto="15" codprov="09" coddist="05">NAVAN</ubigeo>
+  <ubigeo coddpto="15" codprov="09" coddist="06">PACHANGARA</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="00">YAUYOS</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="01">YAUYOS</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="02">ALIS</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="03">ALLAUCA</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="04">AYAVIRI</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="05">AZANGARO</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="06">CACRA</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="07">CARANIA</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="08">CATAHUASI</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="09">CHOCOS</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="10">COCHAS</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="11">COLONIA</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="12">HONGOS</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="13">HUAMPARA</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="14">HUANCAYA</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="15">HUANGASCAR</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="16">HUANTAN</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="17">HUAÑEC</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="18">LARAOS</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="19">LINCHA</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="20">MADEAN</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="21">MIRAFLORES</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="22">OMAS</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="23">PUTINZA</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="24">QUINCHES</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="25">QUINOCAY</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="26">SAN JOAQUIN</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="27">SAN PEDRO DE PILAS</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="28">TANTA</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="29">TAURIPAMPA</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="30">TOMAS</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="31">TUPE</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="32">VIÑAC</ubigeo>
+  <ubigeo coddpto="15" codprov="10" coddist="33">VITIS</ubigeo>
+  <ubigeo coddpto="16" codprov="00" coddist="00">LORETO</ubigeo>
+  <ubigeo coddpto="16" codprov="01" coddist="00">MAYNAS</ubigeo>
+  <ubigeo coddpto="16" codprov="01" coddist="01">IQUITOS</ubigeo>
+  <ubigeo coddpto="16" codprov="01" coddist="02">ALTO NANAY</ubigeo>
+  <ubigeo coddpto="16" codprov="01" coddist="03">FERNANDO LORES</ubigeo>
+  <ubigeo coddpto="16" codprov="01" coddist="04">INDIANA</ubigeo>
+  <ubigeo coddpto="16" codprov="01" coddist="05">LAS AMAZONAS</ubigeo>
+  <ubigeo coddpto="16" codprov="01" coddist="06">MAZAN</ubigeo>
+  <ubigeo coddpto="16" codprov="01" coddist="07">NAPO</ubigeo>
+  <ubigeo coddpto="16" codprov="01" coddist="08">PUNCHANA</ubigeo>
+  <ubigeo coddpto="16" codprov="01" coddist="09">PUTUMAYO</ubigeo>
+  <ubigeo coddpto="16" codprov="01" coddist="10">TORRES CAUSANA</ubigeo>
+  <ubigeo coddpto="16" codprov="01" coddist="12">BELEN</ubigeo>
+  <ubigeo coddpto="16" codprov="01" coddist="13">SAN JUAN BAUTISTA</ubigeo>
+  <ubigeo coddpto="16" codprov="01" coddist="14">TENIENTE MANUEL CLAVERO</ubigeo>
+  <ubigeo coddpto="16" codprov="02" coddist="00">ALTO AMAZONAS</ubigeo>
+  <ubigeo coddpto="16" codprov="02" coddist="01">YURIMAGUAS</ubigeo>
+  <ubigeo coddpto="16" codprov="02" coddist="02">BALSAPUERTO</ubigeo>
+  <ubigeo coddpto="16" codprov="02" coddist="05">JEBEROS</ubigeo>
+  <ubigeo coddpto="16" codprov="02" coddist="06">LAGUNAS</ubigeo>
+  <ubigeo coddpto="16" codprov="02" coddist="10">SANTA CRUZ</ubigeo>
+  <ubigeo coddpto="16" codprov="02" coddist="11">TENIENTE CESAR LOPEZ ROJAS</ubigeo>
+  <ubigeo coddpto="16" codprov="03" coddist="00">LORETO</ubigeo>
+  <ubigeo coddpto="16" codprov="03" coddist="01">NAUTA</ubigeo>
+  <ubigeo coddpto="16" codprov="03" coddist="02">PARINARI</ubigeo>
+  <ubigeo coddpto="16" codprov="03" coddist="03">TIGRE</ubigeo>
+  <ubigeo coddpto="16" codprov="03" coddist="04">TROMPETEROS</ubigeo>
+  <ubigeo coddpto="16" codprov="03" coddist="05">URARINAS</ubigeo>
+  <ubigeo coddpto="16" codprov="04" coddist="00">MARISCAL RAMON CASTILLA</ubigeo>
+  <ubigeo coddpto="16" codprov="04" coddist="01">RAMON CASTILLA</ubigeo>
+  <ubigeo coddpto="16" codprov="04" coddist="02">PEBAS</ubigeo>
+  <ubigeo coddpto="16" codprov="04" coddist="03">YAVARI</ubigeo>
+  <ubigeo coddpto="16" codprov="04" coddist="04">SAN PABLO</ubigeo>
+  <ubigeo coddpto="16" codprov="05" coddist="00">REQUENA</ubigeo>
+  <ubigeo coddpto="16" codprov="05" coddist="01">REQUENA</ubigeo>
+  <ubigeo coddpto="16" codprov="05" coddist="02">ALTO TAPICHE</ubigeo>
+  <ubigeo coddpto="16" codprov="05" coddist="03">CAPELO</ubigeo>
+  <ubigeo coddpto="16" codprov="05" coddist="04">EMILIO SAN MARTIN</ubigeo>
+  <ubigeo coddpto="16" codprov="05" coddist="05">MAQUIA</ubigeo>
+  <ubigeo coddpto="16" codprov="05" coddist="06">PUINAHUA</ubigeo>
+  <ubigeo coddpto="16" codprov="05" coddist="07">SAQUENA</ubigeo>
+  <ubigeo coddpto="16" codprov="05" coddist="08">SOPLIN</ubigeo>
+  <ubigeo coddpto="16" codprov="05" coddist="09">TAPICHE</ubigeo>
+  <ubigeo coddpto="16" codprov="05" coddist="10">JENARO HERRERA</ubigeo>
+  <ubigeo coddpto="16" codprov="05" coddist="11">YAQUERANA</ubigeo>
+  <ubigeo coddpto="16" codprov="06" coddist="00">UCAYALI</ubigeo>
+  <ubigeo coddpto="16" codprov="06" coddist="01">CONTAMANA</ubigeo>
+  <ubigeo coddpto="16" codprov="06" coddist="02">INAHUAYA</ubigeo>
+  <ubigeo coddpto="16" codprov="06" coddist="03">PADRE MARQUEZ</ubigeo>
+  <ubigeo coddpto="16" codprov="06" coddist="04">PAMPA HERMOSA</ubigeo>
+  <ubigeo coddpto="16" codprov="06" coddist="05">SARAYACU</ubigeo>
+  <ubigeo coddpto="16" codprov="06" coddist="06">VARGAS GUERRA</ubigeo>
+  <ubigeo coddpto="16" codprov="07" coddist="00">DATEM DEL MARAÑON</ubigeo>
+  <ubigeo coddpto="16" codprov="07" coddist="01">BARRANCA</ubigeo>
+  <ubigeo coddpto="16" codprov="07" coddist="02">CAHUAPANAS</ubigeo>
+  <ubigeo coddpto="16" codprov="07" coddist="03">MANSERICHE</ubigeo>
+  <ubigeo coddpto="16" codprov="07" coddist="04">MORONA</ubigeo>
+  <ubigeo coddpto="16" codprov="07" coddist="05">PASTAZA</ubigeo>
+  <ubigeo coddpto="16" codprov="07" coddist="06">ANDOAS</ubigeo>
+  <ubigeo coddpto="17" codprov="00" coddist="00">MADRE DE DIOS</ubigeo>
+  <ubigeo coddpto="17" codprov="01" coddist="00">TAMBOPATA</ubigeo>
+  <ubigeo coddpto="17" codprov="01" coddist="01">TAMBOPATA</ubigeo>
+  <ubigeo coddpto="17" codprov="01" coddist="02">INAMBARI</ubigeo>
+  <ubigeo coddpto="17" codprov="01" coddist="03">LAS PIEDRAS</ubigeo>
+  <ubigeo coddpto="17" codprov="01" coddist="04">LABERINTO</ubigeo>
+  <ubigeo coddpto="17" codprov="02" coddist="00">MANU</ubigeo>
+  <ubigeo coddpto="17" codprov="02" coddist="01">MANU</ubigeo>
+  <ubigeo coddpto="17" codprov="02" coddist="02">FITZCARRALD</ubigeo>
+  <ubigeo coddpto="17" codprov="02" coddist="03">MADRE DE DIOS</ubigeo>
+  <ubigeo coddpto="17" codprov="02" coddist="04">HUEPETUHE</ubigeo>
+  <ubigeo coddpto="17" codprov="03" coddist="00">TAHUAMANU</ubigeo>
+  <ubigeo coddpto="17" codprov="03" coddist="01">IÑAPARI</ubigeo>
+  <ubigeo coddpto="17" codprov="03" coddist="02">IBERIA</ubigeo>
+  <ubigeo coddpto="17" codprov="03" coddist="03">TAHUAMANU</ubigeo>
+  <ubigeo coddpto="18" codprov="00" coddist="00">MOQUEGUA</ubigeo>
+  <ubigeo coddpto="18" codprov="01" coddist="00">MARISCAL NIETO</ubigeo>
+  <ubigeo coddpto="18" codprov="01" coddist="01">MOQUEGUA</ubigeo>
+  <ubigeo coddpto="18" codprov="01" coddist="02">CARUMAS</ubigeo>
+  <ubigeo coddpto="18" codprov="01" coddist="03">CUCHUMBAYA</ubigeo>
+  <ubigeo coddpto="18" codprov="01" coddist="04">SAMEGUA</ubigeo>
+  <ubigeo coddpto="18" codprov="01" coddist="05">SAN CRISTOBAL</ubigeo>
+  <ubigeo coddpto="18" codprov="01" coddist="06">TORATA</ubigeo>
+  <ubigeo coddpto="18" codprov="02" coddist="00">GENERAL SANCHEZ CERRO</ubigeo>
+  <ubigeo coddpto="18" codprov="02" coddist="01">OMATE</ubigeo>
+  <ubigeo coddpto="18" codprov="02" coddist="02">CHOJATA</ubigeo>
+  <ubigeo coddpto="18" codprov="02" coddist="03">COALAQUE</ubigeo>
+  <ubigeo coddpto="18" codprov="02" coddist="04">ICHUÑA</ubigeo>
+  <ubigeo coddpto="18" codprov="02" coddist="05">LA CAPILLA</ubigeo>
+  <ubigeo coddpto="18" codprov="02" coddist="06">LLOQUE</ubigeo>
+  <ubigeo coddpto="18" codprov="02" coddist="07">MATALAQUE</ubigeo>
+  <ubigeo coddpto="18" codprov="02" coddist="08">PUQUINA</ubigeo>
+  <ubigeo coddpto="18" codprov="02" coddist="09">QUINISTAQUILLAS</ubigeo>
+  <ubigeo coddpto="18" codprov="02" coddist="10">UBINAS</ubigeo>
+  <ubigeo coddpto="18" codprov="02" coddist="11">YUNGA</ubigeo>
+  <ubigeo coddpto="18" codprov="03" coddist="00">ILO</ubigeo>
+  <ubigeo coddpto="18" codprov="03" coddist="01">ILO</ubigeo>
+  <ubigeo coddpto="18" codprov="03" coddist="02">EL ALGARROBAL</ubigeo>
+  <ubigeo coddpto="18" codprov="03" coddist="03">PACOCHA</ubigeo>
+  <ubigeo coddpto="19" codprov="00" coddist="00">PASCO</ubigeo>
+  <ubigeo coddpto="19" codprov="01" coddist="00">PASCO</ubigeo>
+  <ubigeo coddpto="19" codprov="01" coddist="01">CHAUPIMARCA</ubigeo>
+  <ubigeo coddpto="19" codprov="01" coddist="02">HUACHON</ubigeo>
+  <ubigeo coddpto="19" codprov="01" coddist="03">HUARIACA</ubigeo>
+  <ubigeo coddpto="19" codprov="01" coddist="04">HUAYLLAY</ubigeo>
+  <ubigeo coddpto="19" codprov="01" coddist="05">NINACACA</ubigeo>
+  <ubigeo coddpto="19" codprov="01" coddist="06">PALLANCHACRA</ubigeo>
+  <ubigeo coddpto="19" codprov="01" coddist="07">PAUCARTAMBO</ubigeo>
+  <ubigeo coddpto="19" codprov="01" coddist="08">SAN FRANCISCO DE ASIS DE YARUSYACAN</ubigeo>
+  <ubigeo coddpto="19" codprov="01" coddist="09">SIMON BOLIVAR</ubigeo>
+  <ubigeo coddpto="19" codprov="01" coddist="10">TICLACAYAN</ubigeo>
+  <ubigeo coddpto="19" codprov="01" coddist="11">TINYAHUARCO</ubigeo>
+  <ubigeo coddpto="19" codprov="01" coddist="12">VICCO</ubigeo>
+  <ubigeo coddpto="19" codprov="01" coddist="13">YANACANCHA</ubigeo>
+  <ubigeo coddpto="19" codprov="02" coddist="00">DANIEL ALCIDES CARRION</ubigeo>
+  <ubigeo coddpto="19" codprov="02" coddist="01">YANAHUANCA</ubigeo>
+  <ubigeo coddpto="19" codprov="02" coddist="02">CHACAYAN</ubigeo>
+  <ubigeo coddpto="19" codprov="02" coddist="03">GOYLLARISQUIZGA</ubigeo>
+  <ubigeo coddpto="19" codprov="02" coddist="04">PAUCAR</ubigeo>
+  <ubigeo coddpto="19" codprov="02" coddist="05">SAN PEDRO DE PILLAO</ubigeo>
+  <ubigeo coddpto="19" codprov="02" coddist="06">SANTA ANA DE TUSI</ubigeo>
+  <ubigeo coddpto="19" codprov="02" coddist="07">TAPUC</ubigeo>
+  <ubigeo coddpto="19" codprov="02" coddist="08">VILCABAMBA</ubigeo>
+  <ubigeo coddpto="19" codprov="03" coddist="00">OXAPAMPA</ubigeo>
+  <ubigeo coddpto="19" codprov="03" coddist="01">OXAPAMPA</ubigeo>
+  <ubigeo coddpto="19" codprov="03" coddist="02">CHONTABAMBA</ubigeo>
+  <ubigeo coddpto="19" codprov="03" coddist="03">HUANCABAMBA</ubigeo>
+  <ubigeo coddpto="19" codprov="03" coddist="04">PALCAZU</ubigeo>
+  <ubigeo coddpto="19" codprov="03" coddist="05">POZUZO</ubigeo>
+  <ubigeo coddpto="19" codprov="03" coddist="06">PUERTO BERMUDEZ</ubigeo>
+  <ubigeo coddpto="19" codprov="03" coddist="07">VILLA RICA</ubigeo>
+  <ubigeo coddpto="19" codprov="03" coddist="08">CONSTITUCION</ubigeo>
+  <ubigeo coddpto="20" codprov="00" coddist="00">PIURA</ubigeo>
+  <ubigeo coddpto="20" codprov="01" coddist="00">PIURA</ubigeo>
+  <ubigeo coddpto="20" codprov="01" coddist="01">PIURA</ubigeo>
+  <ubigeo coddpto="20" codprov="01" coddist="04">CASTILLA</ubigeo>
+  <ubigeo coddpto="20" codprov="01" coddist="05">CATACAOS</ubigeo>
+  <ubigeo coddpto="20" codprov="01" coddist="07">CURA MORI</ubigeo>
+  <ubigeo coddpto="20" codprov="01" coddist="08">EL TALLAN</ubigeo>
+  <ubigeo coddpto="20" codprov="01" coddist="09">LA ARENA</ubigeo>
+  <ubigeo coddpto="20" codprov="01" coddist="10">LA UNION</ubigeo>
+  <ubigeo coddpto="20" codprov="01" coddist="11">LAS LOMAS</ubigeo>
+  <ubigeo coddpto="20" codprov="01" coddist="14">TAMBO GRANDE</ubigeo>
+  <ubigeo coddpto="20" codprov="02" coddist="00">AYABACA</ubigeo>
+  <ubigeo coddpto="20" codprov="02" coddist="01">AYABACA</ubigeo>
+  <ubigeo coddpto="20" codprov="02" coddist="02">FRIAS</ubigeo>
+  <ubigeo coddpto="20" codprov="02" coddist="03">JILILI</ubigeo>
+  <ubigeo coddpto="20" codprov="02" coddist="04">LAGUNAS</ubigeo>
+  <ubigeo coddpto="20" codprov="02" coddist="05">MONTERO</ubigeo>
+  <ubigeo coddpto="20" codprov="02" coddist="06">PACAIPAMPA</ubigeo>
+  <ubigeo coddpto="20" codprov="02" coddist="07">PAIMAS</ubigeo>
+  <ubigeo coddpto="20" codprov="02" coddist="08">SAPILLICA</ubigeo>
+  <ubigeo coddpto="20" codprov="02" coddist="09">SICCHEZ</ubigeo>
+  <ubigeo coddpto="20" codprov="02" coddist="10">SUYO</ubigeo>
+  <ubigeo coddpto="20" codprov="03" coddist="00">HUANCABAMBA</ubigeo>
+  <ubigeo coddpto="20" codprov="03" coddist="01">HUANCABAMBA</ubigeo>
+  <ubigeo coddpto="20" codprov="03" coddist="02">CANCHAQUE</ubigeo>
+  <ubigeo coddpto="20" codprov="03" coddist="03">EL CARMEN DE LA FRONTERA</ubigeo>
+  <ubigeo coddpto="20" codprov="03" coddist="04">HUARMACA</ubigeo>
+  <ubigeo coddpto="20" codprov="03" coddist="05">LALAQUIZ</ubigeo>
+  <ubigeo coddpto="20" codprov="03" coddist="06">SAN MIGUEL DE EL FAIQUE</ubigeo>
+  <ubigeo coddpto="20" codprov="03" coddist="07">SONDOR</ubigeo>
+  <ubigeo coddpto="20" codprov="03" coddist="08">SONDORILLO</ubigeo>
+  <ubigeo coddpto="20" codprov="04" coddist="00">MORROPON</ubigeo>
+  <ubigeo coddpto="20" codprov="04" coddist="01">CHULUCANAS</ubigeo>
+  <ubigeo coddpto="20" codprov="04" coddist="02">BUENOS AIRES</ubigeo>
+  <ubigeo coddpto="20" codprov="04" coddist="03">CHALACO</ubigeo>
+  <ubigeo coddpto="20" codprov="04" coddist="04">LA MATANZA</ubigeo>
+  <ubigeo coddpto="20" codprov="04" coddist="05">MORROPON</ubigeo>
+  <ubigeo coddpto="20" codprov="04" coddist="06">SALITRAL</ubigeo>
+  <ubigeo coddpto="20" codprov="04" coddist="07">SAN JUAN DE BIGOTE</ubigeo>
+  <ubigeo coddpto="20" codprov="04" coddist="08">SANTA CATALINA DE MOSSA</ubigeo>
+  <ubigeo coddpto="20" codprov="04" coddist="09">SANTO DOMINGO</ubigeo>
+  <ubigeo coddpto="20" codprov="04" coddist="10">YAMANGO</ubigeo>
+  <ubigeo coddpto="20" codprov="05" coddist="00">PAITA</ubigeo>
+  <ubigeo coddpto="20" codprov="05" coddist="01">PAITA</ubigeo>
+  <ubigeo coddpto="20" codprov="05" coddist="02">AMOTAPE</ubigeo>
+  <ubigeo coddpto="20" codprov="05" coddist="03">ARENAL</ubigeo>
+  <ubigeo coddpto="20" codprov="05" coddist="04">COLAN</ubigeo>
+  <ubigeo coddpto="20" codprov="05" coddist="05">LA HUACA</ubigeo>
+  <ubigeo coddpto="20" codprov="05" coddist="06">TAMARINDO</ubigeo>
+  <ubigeo coddpto="20" codprov="05" coddist="07">VICHAYAL</ubigeo>
+  <ubigeo coddpto="20" codprov="06" coddist="00">SULLANA</ubigeo>
+  <ubigeo coddpto="20" codprov="06" coddist="01">SULLANA</ubigeo>
+  <ubigeo coddpto="20" codprov="06" coddist="02">BELLAVISTA</ubigeo>
+  <ubigeo coddpto="20" codprov="06" coddist="03">IGNACIO ESCUDERO</ubigeo>
+  <ubigeo coddpto="20" codprov="06" coddist="04">LANCONES</ubigeo>
+  <ubigeo coddpto="20" codprov="06" coddist="05">MARCAVELICA</ubigeo>
+  <ubigeo coddpto="20" codprov="06" coddist="06">MIGUEL CHECA</ubigeo>
+  <ubigeo coddpto="20" codprov="06" coddist="07">QUERECOTILLO</ubigeo>
+  <ubigeo coddpto="20" codprov="06" coddist="08">SALITRAL</ubigeo>
+  <ubigeo coddpto="20" codprov="07" coddist="00">TALARA</ubigeo>
+  <ubigeo coddpto="20" codprov="07" coddist="01">PARIÑAS</ubigeo>
+  <ubigeo coddpto="20" codprov="07" coddist="02">EL ALTO</ubigeo>
+  <ubigeo coddpto="20" codprov="07" coddist="03">LA BREA</ubigeo>
+  <ubigeo coddpto="20" codprov="07" coddist="04">LOBITOS</ubigeo>
+  <ubigeo coddpto="20" codprov="07" coddist="05">LOS ORGANOS</ubigeo>
+  <ubigeo coddpto="20" codprov="07" coddist="06">MANCORA</ubigeo>
+  <ubigeo coddpto="20" codprov="08" coddist="00">SECHURA</ubigeo>
+  <ubigeo coddpto="20" codprov="08" coddist="01">SECHURA</ubigeo>
+  <ubigeo coddpto="20" codprov="08" coddist="02">BELLAVISTA DE LA UNION</ubigeo>
+  <ubigeo coddpto="20" codprov="08" coddist="03">BERNAL</ubigeo>
+  <ubigeo coddpto="20" codprov="08" coddist="04">CRISTO NOS VALGA</ubigeo>
+  <ubigeo coddpto="20" codprov="08" coddist="05">VICE</ubigeo>
+  <ubigeo coddpto="20" codprov="08" coddist="06">RINCONADA LLICUAR</ubigeo>
+  <ubigeo coddpto="21" codprov="00" coddist="00">PUNO</ubigeo>
+  <ubigeo coddpto="21" codprov="01" coddist="00">PUNO</ubigeo>
+  <ubigeo coddpto="21" codprov="01" coddist="01">PUNO</ubigeo>
+  <ubigeo coddpto="21" codprov="01" coddist="02">ACORA</ubigeo>
+  <ubigeo coddpto="21" codprov="01" coddist="03">AMANTANI</ubigeo>
+  <ubigeo coddpto="21" codprov="01" coddist="04">ATUNCOLLA</ubigeo>
+  <ubigeo coddpto="21" codprov="01" coddist="05">CAPACHICA</ubigeo>
+  <ubigeo coddpto="21" codprov="01" coddist="06">CHUCUITO</ubigeo>
+  <ubigeo coddpto="21" codprov="01" coddist="07">COATA</ubigeo>
+  <ubigeo coddpto="21" codprov="01" coddist="08">HUATA</ubigeo>
+  <ubigeo coddpto="21" codprov="01" coddist="09">MAÑAZO</ubigeo>
+  <ubigeo coddpto="21" codprov="01" coddist="10">PAUCARCOLLA</ubigeo>
+  <ubigeo coddpto="21" codprov="01" coddist="11">PICHACANI</ubigeo>
+  <ubigeo coddpto="21" codprov="01" coddist="12">PLATERIA</ubigeo>
+  <ubigeo coddpto="21" codprov="01" coddist="13">SAN ANTONIO</ubigeo>
+  <ubigeo coddpto="21" codprov="01" coddist="14">TIQUILLACA</ubigeo>
+  <ubigeo coddpto="21" codprov="01" coddist="15">VILQUE</ubigeo>
+  <ubigeo coddpto="21" codprov="02" coddist="00">AZANGARO</ubigeo>
+  <ubigeo coddpto="21" codprov="02" coddist="01">AZANGARO</ubigeo>
+  <ubigeo coddpto="21" codprov="02" coddist="02">ACHAYA</ubigeo>
+  <ubigeo coddpto="21" codprov="02" coddist="03">ARAPA</ubigeo>
+  <ubigeo coddpto="21" codprov="02" coddist="04">ASILLO</ubigeo>
+  <ubigeo coddpto="21" codprov="02" coddist="05">CAMINACA</ubigeo>
+  <ubigeo coddpto="21" codprov="02" coddist="06">CHUPA</ubigeo>
+  <ubigeo coddpto="21" codprov="02" coddist="07">JOSE DOMINGO CHOQUEHUANCA</ubigeo>
+  <ubigeo coddpto="21" codprov="02" coddist="08">MUÑANI</ubigeo>
+  <ubigeo coddpto="21" codprov="02" coddist="09">POTONI</ubigeo>
+  <ubigeo coddpto="21" codprov="02" coddist="10">SAMAN</ubigeo>
+  <ubigeo coddpto="21" codprov="02" coddist="11">SAN ANTON</ubigeo>
+  <ubigeo coddpto="21" codprov="02" coddist="12">SAN JOSE</ubigeo>
+  <ubigeo coddpto="21" codprov="02" coddist="13">SAN JUAN DE SALINAS</ubigeo>
+  <ubigeo coddpto="21" codprov="02" coddist="14">SANTIAGO DE PUPUJA</ubigeo>
+  <ubigeo coddpto="21" codprov="02" coddist="15">TIRAPATA</ubigeo>
+  <ubigeo coddpto="21" codprov="03" coddist="00">CARABAYA</ubigeo>
+  <ubigeo coddpto="21" codprov="03" coddist="01">MACUSANI</ubigeo>
+  <ubigeo coddpto="21" codprov="03" coddist="02">AJOYANI</ubigeo>
+  <ubigeo coddpto="21" codprov="03" coddist="03">AYAPATA</ubigeo>
+  <ubigeo coddpto="21" codprov="03" coddist="04">COASA</ubigeo>
+  <ubigeo coddpto="21" codprov="03" coddist="05">CORANI</ubigeo>
+  <ubigeo coddpto="21" codprov="03" coddist="06">CRUCERO</ubigeo>
+  <ubigeo coddpto="21" codprov="03" coddist="07">ITUATA</ubigeo>
+  <ubigeo coddpto="21" codprov="03" coddist="08">OLLACHEA</ubigeo>
+  <ubigeo coddpto="21" codprov="03" coddist="09">SAN GABAN</ubigeo>
+  <ubigeo coddpto="21" codprov="03" coddist="10">USICAYOS</ubigeo>
+  <ubigeo coddpto="21" codprov="04" coddist="00">CHUCUITO</ubigeo>
+  <ubigeo coddpto="21" codprov="04" coddist="01">JULI</ubigeo>
+  <ubigeo coddpto="21" codprov="04" coddist="02">DESAGUADERO</ubigeo>
+  <ubigeo coddpto="21" codprov="04" coddist="03">HUACULLANI</ubigeo>
+  <ubigeo coddpto="21" codprov="04" coddist="04">KELLUYO</ubigeo>
+  <ubigeo coddpto="21" codprov="04" coddist="05">PISACOMA</ubigeo>
+  <ubigeo coddpto="21" codprov="04" coddist="06">POMATA</ubigeo>
+  <ubigeo coddpto="21" codprov="04" coddist="07">ZEPITA</ubigeo>
+  <ubigeo coddpto="21" codprov="05" coddist="00">EL COLLAO</ubigeo>
+  <ubigeo coddpto="21" codprov="05" coddist="01">ILAVE</ubigeo>
+  <ubigeo coddpto="21" codprov="05" coddist="02">CAPAZO</ubigeo>
+  <ubigeo coddpto="21" codprov="05" coddist="03">PILCUYO</ubigeo>
+  <ubigeo coddpto="21" codprov="05" coddist="04">SANTA ROSA</ubigeo>
+  <ubigeo coddpto="21" codprov="05" coddist="05">CONDURIRI</ubigeo>
+  <ubigeo coddpto="21" codprov="06" coddist="00">HUANCANE</ubigeo>
+  <ubigeo coddpto="21" codprov="06" coddist="01">HUANCANE</ubigeo>
+  <ubigeo coddpto="21" codprov="06" coddist="02">COJATA</ubigeo>
+  <ubigeo coddpto="21" codprov="06" coddist="03">HUATASANI</ubigeo>
+  <ubigeo coddpto="21" codprov="06" coddist="04">INCHUPALLA</ubigeo>
+  <ubigeo coddpto="21" codprov="06" coddist="05">PUSI</ubigeo>
+  <ubigeo coddpto="21" codprov="06" coddist="06">ROSASPATA</ubigeo>
+  <ubigeo coddpto="21" codprov="06" coddist="07">TARACO</ubigeo>
+  <ubigeo coddpto="21" codprov="06" coddist="08">VILQUE CHICO</ubigeo>
+  <ubigeo coddpto="21" codprov="07" coddist="00">LAMPA</ubigeo>
+  <ubigeo coddpto="21" codprov="07" coddist="01">LAMPA</ubigeo>
+  <ubigeo coddpto="21" codprov="07" coddist="02">CABANILLA</ubigeo>
+  <ubigeo coddpto="21" codprov="07" coddist="03">CALAPUJA</ubigeo>
+  <ubigeo coddpto="21" codprov="07" coddist="04">NICASIO</ubigeo>
+  <ubigeo coddpto="21" codprov="07" coddist="05">OCUVIRI</ubigeo>
+  <ubigeo coddpto="21" codprov="07" coddist="06">PALCA</ubigeo>
+  <ubigeo coddpto="21" codprov="07" coddist="07">PARATIA</ubigeo>
+  <ubigeo coddpto="21" codprov="07" coddist="08">PUCARA</ubigeo>
+  <ubigeo coddpto="21" codprov="07" coddist="09">SANTA LUCIA</ubigeo>
+  <ubigeo coddpto="21" codprov="07" coddist="10">VILAVILA</ubigeo>
+  <ubigeo coddpto="21" codprov="08" coddist="00">MELGAR</ubigeo>
+  <ubigeo coddpto="21" codprov="08" coddist="01">AYAVIRI</ubigeo>
+  <ubigeo coddpto="21" codprov="08" coddist="02">ANTAUTA</ubigeo>
+  <ubigeo coddpto="21" codprov="08" coddist="03">CUPI</ubigeo>
+  <ubigeo coddpto="21" codprov="08" coddist="04">LLALLI</ubigeo>
+  <ubigeo coddpto="21" codprov="08" coddist="05">MACARI</ubigeo>
+  <ubigeo coddpto="21" codprov="08" coddist="06">NUÑOA</ubigeo>
+  <ubigeo coddpto="21" codprov="08" coddist="07">ORURILLO</ubigeo>
+  <ubigeo coddpto="21" codprov="08" coddist="08">SANTA ROSA</ubigeo>
+  <ubigeo coddpto="21" codprov="08" coddist="09">UMACHIRI</ubigeo>
+  <ubigeo coddpto="21" codprov="09" coddist="00">MOHO</ubigeo>
+  <ubigeo coddpto="21" codprov="09" coddist="01">MOHO</ubigeo>
+  <ubigeo coddpto="21" codprov="09" coddist="02">CONIMA</ubigeo>
+  <ubigeo coddpto="21" codprov="09" coddist="03">HUAYRAPATA</ubigeo>
+  <ubigeo coddpto="21" codprov="09" coddist="04">TILALI</ubigeo>
+  <ubigeo coddpto="21" codprov="10" coddist="00">SAN ANTONIO DE PUTINA</ubigeo>
+  <ubigeo coddpto="21" codprov="10" coddist="01">PUTINA</ubigeo>
+  <ubigeo coddpto="21" codprov="10" coddist="02">ANANEA</ubigeo>
+  <ubigeo coddpto="21" codprov="10" coddist="03">PEDRO VILCA APAZA</ubigeo>
+  <ubigeo coddpto="21" codprov="10" coddist="04">QUILCAPUNCU</ubigeo>
+  <ubigeo coddpto="21" codprov="10" coddist="05">SINA</ubigeo>
+  <ubigeo coddpto="21" codprov="11" coddist="00">SAN ROMAN</ubigeo>
+  <ubigeo coddpto="21" codprov="11" coddist="01">JULIACA</ubigeo>
+  <ubigeo coddpto="21" codprov="11" coddist="02">CABANA</ubigeo>
+  <ubigeo coddpto="21" codprov="11" coddist="03">CABANILLAS</ubigeo>
+  <ubigeo coddpto="21" codprov="11" coddist="04">CARACOTO</ubigeo>
+  <ubigeo coddpto="21" codprov="12" coddist="00">SANDIA</ubigeo>
+  <ubigeo coddpto="21" codprov="12" coddist="01">SANDIA</ubigeo>
+  <ubigeo coddpto="21" codprov="12" coddist="02">CUYOCUYO</ubigeo>
+  <ubigeo coddpto="21" codprov="12" coddist="03">LIMBANI</ubigeo>
+  <ubigeo coddpto="21" codprov="12" coddist="04">PATAMBUCO</ubigeo>
+  <ubigeo coddpto="21" codprov="12" coddist="05">PHARA</ubigeo>
+  <ubigeo coddpto="21" codprov="12" coddist="06">QUIACA</ubigeo>
+  <ubigeo coddpto="21" codprov="12" coddist="07">SAN JUAN DEL ORO</ubigeo>
+  <ubigeo coddpto="21" codprov="12" coddist="08">YANAHUAYA</ubigeo>
+  <ubigeo coddpto="21" codprov="12" coddist="09">ALTO INAMBARI</ubigeo>
+  <ubigeo coddpto="21" codprov="12" coddist="10">SAN PEDRO DE PUTINA PUNCO</ubigeo>
+  <ubigeo coddpto="21" codprov="13" coddist="00">YUNGUYO</ubigeo>
+  <ubigeo coddpto="21" codprov="13" coddist="01">YUNGUYO</ubigeo>
+  <ubigeo coddpto="21" codprov="13" coddist="02">ANAPIA</ubigeo>
+  <ubigeo coddpto="21" codprov="13" coddist="03">COPANI</ubigeo>
+  <ubigeo coddpto="21" codprov="13" coddist="04">CUTURAPI</ubigeo>
+  <ubigeo coddpto="21" codprov="13" coddist="05">OLLARAYA</ubigeo>
+  <ubigeo coddpto="21" codprov="13" coddist="06">TINICACHI</ubigeo>
+  <ubigeo coddpto="21" codprov="13" coddist="07">UNICACHI</ubigeo>
+  <ubigeo coddpto="22" codprov="00" coddist="00">SAN MARTIN</ubigeo>
+  <ubigeo coddpto="22" codprov="01" coddist="00">MOYOBAMBA</ubigeo>
+  <ubigeo coddpto="22" codprov="01" coddist="01">MOYOBAMBA</ubigeo>
+  <ubigeo coddpto="22" codprov="01" coddist="02">CALZADA</ubigeo>
+  <ubigeo coddpto="22" codprov="01" coddist="03">HABANA</ubigeo>
+  <ubigeo coddpto="22" codprov="01" coddist="04">JEPELACIO</ubigeo>
+  <ubigeo coddpto="22" codprov="01" coddist="05">SORITOR</ubigeo>
+  <ubigeo coddpto="22" codprov="01" coddist="06">YANTALO</ubigeo>
+  <ubigeo coddpto="22" codprov="02" coddist="00">BELLAVISTA</ubigeo>
+  <ubigeo coddpto="22" codprov="02" coddist="01">BELLAVISTA</ubigeo>
+  <ubigeo coddpto="22" codprov="02" coddist="02">ALTO BIAVO</ubigeo>
+  <ubigeo coddpto="22" codprov="02" coddist="03">BAJO BIAVO</ubigeo>
+  <ubigeo coddpto="22" codprov="02" coddist="04">HUALLAGA</ubigeo>
+  <ubigeo coddpto="22" codprov="02" coddist="05">SAN PABLO</ubigeo>
+  <ubigeo coddpto="22" codprov="02" coddist="06">SAN RAFAEL</ubigeo>
+  <ubigeo coddpto="22" codprov="03" coddist="00">EL DORADO</ubigeo>
+  <ubigeo coddpto="22" codprov="03" coddist="01">SAN JOSE DE SISA</ubigeo>
+  <ubigeo coddpto="22" codprov="03" coddist="02">AGUA BLANCA</ubigeo>
+  <ubigeo coddpto="22" codprov="03" coddist="03">SAN MARTIN</ubigeo>
+  <ubigeo coddpto="22" codprov="03" coddist="04">SANTA ROSA</ubigeo>
+  <ubigeo coddpto="22" codprov="03" coddist="05">SHATOJA</ubigeo>
+  <ubigeo coddpto="22" codprov="04" coddist="00">HUALLAGA</ubigeo>
+  <ubigeo coddpto="22" codprov="04" coddist="01">SAPOSOA</ubigeo>
+  <ubigeo coddpto="22" codprov="04" coddist="02">ALTO SAPOSOA</ubigeo>
+  <ubigeo coddpto="22" codprov="04" coddist="03">EL ESLABON</ubigeo>
+  <ubigeo coddpto="22" codprov="04" coddist="04">PISCOYACU</ubigeo>
+  <ubigeo coddpto="22" codprov="04" coddist="05">SACANCHE</ubigeo>
+  <ubigeo coddpto="22" codprov="04" coddist="06">TINGO DE SAPOSOA</ubigeo>
+  <ubigeo coddpto="22" codprov="05" coddist="00">LAMAS</ubigeo>
+  <ubigeo coddpto="22" codprov="05" coddist="01">LAMAS</ubigeo>
+  <ubigeo coddpto="22" codprov="05" coddist="02">ALONSO DE ALVARADO</ubigeo>
+  <ubigeo coddpto="22" codprov="05" coddist="03">BARRANQUITA</ubigeo>
+  <ubigeo coddpto="22" codprov="05" coddist="04">CAYNARACHI</ubigeo>
+  <ubigeo coddpto="22" codprov="05" coddist="05">CUÑUMBUQUI</ubigeo>
+  <ubigeo coddpto="22" codprov="05" coddist="06">PINTO RECODO</ubigeo>
+  <ubigeo coddpto="22" codprov="05" coddist="07">RUMISAPA</ubigeo>
+  <ubigeo coddpto="22" codprov="05" coddist="08">SAN ROQUE DE CUMBAZA</ubigeo>
+  <ubigeo coddpto="22" codprov="05" coddist="09">SHANAO</ubigeo>
+  <ubigeo coddpto="22" codprov="05" coddist="10">TABALOSOS</ubigeo>
+  <ubigeo coddpto="22" codprov="05" coddist="11">ZAPATERO</ubigeo>
+  <ubigeo coddpto="22" codprov="06" coddist="00">MARISCAL CACERES</ubigeo>
+  <ubigeo coddpto="22" codprov="06" coddist="01">JUANJUI</ubigeo>
+  <ubigeo coddpto="22" codprov="06" coddist="02">CAMPANILLA</ubigeo>
+  <ubigeo coddpto="22" codprov="06" coddist="03">HUICUNGO</ubigeo>
+  <ubigeo coddpto="22" codprov="06" coddist="04">PACHIZA</ubigeo>
+  <ubigeo coddpto="22" codprov="06" coddist="05">PAJARILLO</ubigeo>
+  <ubigeo coddpto="22" codprov="07" coddist="00">PICOTA</ubigeo>
+  <ubigeo coddpto="22" codprov="07" coddist="01">PICOTA</ubigeo>
+  <ubigeo coddpto="22" codprov="07" coddist="02">BUENOS AIRES</ubigeo>
+  <ubigeo coddpto="22" codprov="07" coddist="03">CASPISAPA</ubigeo>
+  <ubigeo coddpto="22" codprov="07" coddist="04">PILLUANA</ubigeo>
+  <ubigeo coddpto="22" codprov="07" coddist="05">PUCACACA</ubigeo>
+  <ubigeo coddpto="22" codprov="07" coddist="06">SAN CRISTOBAL</ubigeo>
+  <ubigeo coddpto="22" codprov="07" coddist="07">SAN HILARION</ubigeo>
+  <ubigeo coddpto="22" codprov="07" coddist="08">SHAMBOYACU</ubigeo>
+  <ubigeo coddpto="22" codprov="07" coddist="09">TINGO DE PONASA</ubigeo>
+  <ubigeo coddpto="22" codprov="07" coddist="10">TRES UNIDOS</ubigeo>
+  <ubigeo coddpto="22" codprov="08" coddist="00">RIOJA</ubigeo>
+  <ubigeo coddpto="22" codprov="08" coddist="01">RIOJA</ubigeo>
+  <ubigeo coddpto="22" codprov="08" coddist="02">AWAJUN</ubigeo>
+  <ubigeo coddpto="22" codprov="08" coddist="03">ELIAS SOPLIN VARGAS</ubigeo>
+  <ubigeo coddpto="22" codprov="08" coddist="04">NUEVA CAJAMARCA</ubigeo>
+  <ubigeo coddpto="22" codprov="08" coddist="05">PARDO MIGUEL</ubigeo>
+  <ubigeo coddpto="22" codprov="08" coddist="06">POSIC</ubigeo>
+  <ubigeo coddpto="22" codprov="08" coddist="07">SAN FERNANDO</ubigeo>
+  <ubigeo coddpto="22" codprov="08" coddist="08">YORONGOS</ubigeo>
+  <ubigeo coddpto="22" codprov="08" coddist="09">YURACYACU</ubigeo>
+  <ubigeo coddpto="22" codprov="09" coddist="00">SAN MARTIN</ubigeo>
+  <ubigeo coddpto="22" codprov="09" coddist="01">TARAPOTO</ubigeo>
+  <ubigeo coddpto="22" codprov="09" coddist="02">ALBERTO LEVEAU</ubigeo>
+  <ubigeo coddpto="22" codprov="09" coddist="03">CACATACHI</ubigeo>
+  <ubigeo coddpto="22" codprov="09" coddist="04">CHAZUTA</ubigeo>
+  <ubigeo coddpto="22" codprov="09" coddist="05">CHIPURANA</ubigeo>
+  <ubigeo coddpto="22" codprov="09" coddist="06">EL PORVENIR</ubigeo>
+  <ubigeo coddpto="22" codprov="09" coddist="07">HUIMBAYOC</ubigeo>
+  <ubigeo coddpto="22" codprov="09" coddist="08">JUAN GUERRA</ubigeo>
+  <ubigeo coddpto="22" codprov="09" coddist="09">LA BANDA DE SHILCAYO</ubigeo>
+  <ubigeo coddpto="22" codprov="09" coddist="10">MORALES</ubigeo>
+  <ubigeo coddpto="22" codprov="09" coddist="11">PAPAPLAYA</ubigeo>
+  <ubigeo coddpto="22" codprov="09" coddist="12">SAN ANTONIO</ubigeo>
+  <ubigeo coddpto="22" codprov="09" coddist="13">SAUCE</ubigeo>
+  <ubigeo coddpto="22" codprov="09" coddist="14">SHAPAJA</ubigeo>
+  <ubigeo coddpto="22" codprov="10" coddist="00">TOCACHE</ubigeo>
+  <ubigeo coddpto="22" codprov="10" coddist="01">TOCACHE</ubigeo>
+  <ubigeo coddpto="22" codprov="10" coddist="02">NUEVO PROGRESO</ubigeo>
+  <ubigeo coddpto="22" codprov="10" coddist="03">POLVORA</ubigeo>
+  <ubigeo coddpto="22" codprov="10" coddist="04">SHUNTE</ubigeo>
+  <ubigeo coddpto="22" codprov="10" coddist="05">UCHIZA</ubigeo>
+  <ubigeo coddpto="23" codprov="00" coddist="00">TACNA</ubigeo>
+  <ubigeo coddpto="23" codprov="01" coddist="00">TACNA</ubigeo>
+  <ubigeo coddpto="23" codprov="01" coddist="01">TACNA</ubigeo>
+  <ubigeo coddpto="23" codprov="01" coddist="02">ALTO DE LA ALIANZA</ubigeo>
+  <ubigeo coddpto="23" codprov="01" coddist="03">CALANA</ubigeo>
+  <ubigeo coddpto="23" codprov="01" coddist="04">CIUDAD NUEVA</ubigeo>
+  <ubigeo coddpto="23" codprov="01" coddist="05">INCLAN</ubigeo>
+  <ubigeo coddpto="23" codprov="01" coddist="06">PACHIA</ubigeo>
+  <ubigeo coddpto="23" codprov="01" coddist="07">PALCA</ubigeo>
+  <ubigeo coddpto="23" codprov="01" coddist="08">POCOLLAY</ubigeo>
+  <ubigeo coddpto="23" codprov="01" coddist="09">SAMA</ubigeo>
+  <ubigeo coddpto="23" codprov="01" coddist="10">CORONEL GREGORIO ALBARRACIN LANCHIPA</ubigeo>
+  <ubigeo coddpto="23" codprov="02" coddist="00">CANDARAVE</ubigeo>
+  <ubigeo coddpto="23" codprov="02" coddist="01">CANDARAVE</ubigeo>
+  <ubigeo coddpto="23" codprov="02" coddist="02">CAIRANI</ubigeo>
+  <ubigeo coddpto="23" codprov="02" coddist="03">CAMILACA</ubigeo>
+  <ubigeo coddpto="23" codprov="02" coddist="04">CURIBAYA</ubigeo>
+  <ubigeo coddpto="23" codprov="02" coddist="05">HUANUARA</ubigeo>
+  <ubigeo coddpto="23" codprov="02" coddist="06">QUILAHUANI</ubigeo>
+  <ubigeo coddpto="23" codprov="03" coddist="00">JORGE BASADRE</ubigeo>
+  <ubigeo coddpto="23" codprov="03" coddist="01">LOCUMBA</ubigeo>
+  <ubigeo coddpto="23" codprov="03" coddist="02">ILABAYA</ubigeo>
+  <ubigeo coddpto="23" codprov="03" coddist="03">ITE</ubigeo>
+  <ubigeo coddpto="23" codprov="04" coddist="00">TARATA</ubigeo>
+  <ubigeo coddpto="23" codprov="04" coddist="01">TARATA</ubigeo>
+  <ubigeo coddpto="23" codprov="04" coddist="02">HEROES ALBARRACIN</ubigeo>
+  <ubigeo coddpto="23" codprov="04" coddist="03">ESTIQUE</ubigeo>
+  <ubigeo coddpto="23" codprov="04" coddist="04">ESTIQUE-PAMPA</ubigeo>
+  <ubigeo coddpto="23" codprov="04" coddist="05">SITAJARA</ubigeo>
+  <ubigeo coddpto="23" codprov="04" coddist="06">SUSAPAYA</ubigeo>
+  <ubigeo coddpto="23" codprov="04" coddist="07">TARUCACHI</ubigeo>
+  <ubigeo coddpto="23" codprov="04" coddist="08">TICACO</ubigeo>
+  <ubigeo coddpto="24" codprov="00" coddist="00">TUMBES</ubigeo>
+  <ubigeo coddpto="24" codprov="01" coddist="00">TUMBES</ubigeo>
+  <ubigeo coddpto="24" codprov="01" coddist="01">TUMBES</ubigeo>
+  <ubigeo coddpto="24" codprov="01" coddist="02">CORRALES</ubigeo>
+  <ubigeo coddpto="24" codprov="01" coddist="03">LA CRUZ</ubigeo>
+  <ubigeo coddpto="24" codprov="01" coddist="04">PAMPAS DE HOSPITAL</ubigeo>
+  <ubigeo coddpto="24" codprov="01" coddist="05">SAN JACINTO</ubigeo>
+  <ubigeo coddpto="24" codprov="01" coddist="06">SAN JUAN DE LA VIRGEN</ubigeo>
+  <ubigeo coddpto="24" codprov="02" coddist="00">CONTRALMIRANTE VILLAR</ubigeo>
+  <ubigeo coddpto="24" codprov="02" coddist="01">ZORRITOS</ubigeo>
+  <ubigeo coddpto="24" codprov="02" coddist="02">CASITAS</ubigeo>
+  <ubigeo coddpto="24" codprov="02" coddist="03">CANOAS DE PUNTA SAL</ubigeo>
+  <ubigeo coddpto="24" codprov="03" coddist="00">ZARUMILLA</ubigeo>
+  <ubigeo coddpto="24" codprov="03" coddist="01">ZARUMILLA</ubigeo>
+  <ubigeo coddpto="24" codprov="03" coddist="02">AGUAS VERDES</ubigeo>
+  <ubigeo coddpto="24" codprov="03" coddist="03">MATAPALO</ubigeo>
+  <ubigeo coddpto="24" codprov="03" coddist="04">PAPAYAL</ubigeo>
+  <ubigeo coddpto="25" codprov="00" coddist="00">UCAYALI</ubigeo>
+  <ubigeo coddpto="25" codprov="01" coddist="00">CORONEL PORTILLO</ubigeo>
+  <ubigeo coddpto="25" codprov="01" coddist="01">CALLERIA</ubigeo>
+  <ubigeo coddpto="25" codprov="01" coddist="02">CAMPOVERDE</ubigeo>
+  <ubigeo coddpto="25" codprov="01" coddist="03">IPARIA</ubigeo>
+  <ubigeo coddpto="25" codprov="01" coddist="04">MASISEA</ubigeo>
+  <ubigeo coddpto="25" codprov="01" coddist="05">YARINACOCHA</ubigeo>
+  <ubigeo coddpto="25" codprov="01" coddist="06">NUEVA REQUENA</ubigeo>
+  <ubigeo coddpto="25" codprov="01" coddist="07">MANANTAY</ubigeo>
+  <ubigeo coddpto="25" codprov="02" coddist="00">ATALAYA</ubigeo>
+  <ubigeo coddpto="25" codprov="02" coddist="01">RAYMONDI</ubigeo>
+  <ubigeo coddpto="25" codprov="02" coddist="02">SEPAHUA</ubigeo>
+  <ubigeo coddpto="25" codprov="02" coddist="03">TAHUANIA</ubigeo>
+  <ubigeo coddpto="25" codprov="02" coddist="04">YURUA</ubigeo>
+  <ubigeo coddpto="25" codprov="03" coddist="00">PADRE ABAD</ubigeo>
+  <ubigeo coddpto="25" codprov="03" coddist="01">PADRE ABAD</ubigeo>
+  <ubigeo coddpto="25" codprov="03" coddist="02">IRAZOLA</ubigeo>
+  <ubigeo coddpto="25" codprov="03" coddist="03">CURIMANA</ubigeo>
+  <ubigeo coddpto="25" codprov="04" coddist="00">PURUS</ubigeo>
+  <ubigeo coddpto="25" codprov="04" coddist="01">PURUS</ubigeo>
+</ubigeos>
