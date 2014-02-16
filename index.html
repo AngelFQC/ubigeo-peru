@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Ubigeo Perú</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width">
+		<link rel="stylesheet" href="http://bootswatch.com/lumen/bootstrap.min.css">
+		<style>
+			ul input {display: none;}
+			ul label {display: block;}
+			ul input:checked + label {color: #000; font-size: 16px;}
+		</style>
+	</head>
+	<body>
+		<div class="container">
+			<header>
+				<h1 class="page-header">Ubigeo Perú</h1>
+			</header>
+
+			<div class="row">
+				<div class="col-sm-4">
+					<div class="panel panel-primary">
+						<div class="panel-heading">
+							<h3 class="panel-title">Regiones</h3>
+						</div>
+						<div class="panel-body">
+							<ul class="list-unstyled" id="regions-list"></ul>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-sm-4">
+					<div class="panel panel-primary">
+						<div class="panel-heading">
+							<h3 class="panel-title">Provincias</h3>
+						</div>
+						<div class="panel-body">
+							<ul class="list-unstyled" id="provinces-list"></ul>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-sm-4">
+					<div class="panel panel-primary">
+						<div class="panel-heading">
+							<h3 class="panel-title">Distritos</h3>
+						</div>
+						<div class="panel-body">
+							<ul class="list-unstyled" id="districts-list"></ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
+		<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+		<script src="./search.js"></script>
+	</body>
+</html>
