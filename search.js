@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 function showRegionsList() {
 	ubigeoPeru.ubigeos.forEach(function(ubigeo) {
-		if (ubigeo.codprov === '00' && ubigeo.coddist === '00') {
+		if (ubigeo.codprov === 0 && ubigeo.coddist === 0) {
 			var li = document.createElement('li');
 
 			var input = document.createElement('input');
@@ -50,7 +50,9 @@ function onChange_Region() {
 
 function showProvincesList(coddpto) {
 	ubigeoPeru.ubigeos.forEach(function(ubigeo) {
-		if (ubigeo.coddpto === coddpto && ubigeo.codprov !== '00' && ubigeo.coddist === '00') {
+		coddpto = parseInt(coddpto);
+
+		if (ubigeo.coddpto === coddpto && ubigeo.codprov !== 0 && ubigeo.coddist === 0) {
 			var li = document.createElement('li');
 
 			var input = document.createElement('input');
@@ -82,7 +84,10 @@ function onChange_Province() {
 
 function showDistrictsList(coddpto, codprov) {
 	ubigeoPeru.ubigeos.forEach(function(ubigeo) {
-		if (ubigeo.coddpto === coddpto && ubigeo.codprov === codprov && ubigeo.coddist !== '00') {
+		coddpto = parseInt(coddpto);
+		codprov = parseInt(codprov);
+
+		if (ubigeo.coddpto === coddpto && ubigeo.codprov === codprov && ubigeo.coddist !== 0) {
 			var li = document.createElement('li');
 
 			var input = document.createElement('input');
