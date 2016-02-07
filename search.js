@@ -19,19 +19,19 @@ document.addEventListener('DOMContentLoaded', function() {
 
 function showRegionsList() {
 	ubigeoPeru.ubigeos.forEach(function(ubigeo) {
-		if (ubigeo.codprov === 0 && ubigeo.coddist === 0) {
+		if (ubigeo.provincia === '00' && ubigeo.distrito === '00') {
 			var li = document.createElement('li');
 
 			var input = document.createElement('input');
-			input.id = 'dpto-' + ubigeo.coddpto;
-			input.name = 'coddpto';
+			input.id = 'dpto-' + ubigeo.departamento;
+			input.name = 'departamento';
 			input.type = 'radio';
-			input.value = ubigeo.coddpto;
+			input.value = ubigeo.departamento;
 			input.addEventListener('change', onChange_Region, false);
 
 			var label = document.createElement('label');
-			label.htmlFor = 'dpto-' + ubigeo.coddpto;
-			label.textContent = ubigeo.coddpto + ' ' + ubigeo.codprov + ' ' + ubigeo.coddist + ' - ' + ubigeo.nombre;
+			label.htmlFor = 'dpto-' + ubigeo.departamento;
+			label.textContent = ubigeo.departamento + ' ' + ubigeo.provincia + ' ' + ubigeo.distrito + ' - ' + ubigeo.nombre;
 
 			li.appendChild(input);
 			li.appendChild(label);
@@ -48,23 +48,22 @@ function onChange_Region() {
 	showProvincesList(this.value);
 }
 
-function showProvincesList(coddpto) {
+function showProvincesList(departamento) {
 	ubigeoPeru.ubigeos.forEach(function(ubigeo) {
-		coddpto = parseInt(coddpto);
 
-		if (ubigeo.coddpto === coddpto && ubigeo.codprov !== 0 && ubigeo.coddist === 0) {
+		if (ubigeo.departamento === departamento && ubigeo.provincia !== 0 && ubigeo.distrito === '00') {
 			var li = document.createElement('li');
 
 			var input = document.createElement('input');
-			input.id = 'prov-' + ubigeo.codprov;
-			input.name = 'codprov';
+			input.id = 'prov-' + ubigeo.provincia;
+			input.name = 'provincia';
 			input.type = 'radio';
-			input.value = ubigeo.codprov;
+			input.value = ubigeo.provincia;
 			input.addEventListener('change', onChange_Province, false);
 
 			var label = document.createElement('label');
-			label.htmlFor = 'prov-' + ubigeo.codprov;
-			label.textContent = ubigeo.coddpto + ' ' + ubigeo.codprov + ' ' + ubigeo.coddist + ' - ' + ubigeo.nombre;
+			label.htmlFor = 'prov-' + ubigeo.provincia;
+			label.textContent = ubigeo.departamento + ' ' + ubigeo.provincia + ' ' + ubigeo.distrito + ' - ' + ubigeo.nombre;
 
 			li.appendChild(input);
 			li.appendChild(label);
@@ -77,28 +76,26 @@ function showProvincesList(coddpto) {
 function onChange_Province() {
 	document.querySelector('#districts-list').innerHTML = '';
 
-	var coddpto = document.querySelector('[name=coddpto]:checked').value;
+	var departamento = document.querySelector('[name=departamento]:checked').value;
 
-	showDistrictsList(coddpto, this.value);
+	showDistrictsList(departamento, this.value);
 }
 
-function showDistrictsList(coddpto, codprov) {
+function showDistrictsList(departamento, provincia) {
 	ubigeoPeru.ubigeos.forEach(function(ubigeo) {
-		coddpto = parseInt(coddpto);
-		codprov = parseInt(codprov);
 
-		if (ubigeo.coddpto === coddpto && ubigeo.codprov === codprov && ubigeo.coddist !== 0) {
+		if (ubigeo.departamento === departamento && ubigeo.provincia === provincia && ubigeo.distrito !== 0) {
 			var li = document.createElement('li');
 
 			var input = document.createElement('input');
-			input.id = 'dist-' + ubigeo.coddist;
-			input.name = 'coddist';
+			input.id = 'dist-' + ubigeo.distrito;
+			input.name = 'distrito';
 			input.type = 'radio';
-			input.value = ubigeo.coddist;
+			input.value = ubigeo.distrito;
 
 			var label = document.createElement('label');
-			label.htmlFor = 'dist-' + ubigeo.coddist;
-			label.textContent = ubigeo.coddpto + ' ' + ubigeo.codprov + ' ' + ubigeo.coddist + ' - ' + ubigeo.nombre;
+			label.htmlFor = 'dist-' + ubigeo.distrito;
+			label.textContent = ubigeo.departamento + ' ' + ubigeo.provincia + ' ' + ubigeo.distrito + ' - ' + ubigeo.nombre;
 
 			li.appendChild(input);
 			li.appendChild(label);
@@ -107,3 +104,4 @@ function showDistrictsList(coddpto, codprov) {
 		}
 	});
 }
+
