@@ -10,3 +10,4 @@ Códigos de Ubicación Geográfica del Perú
 > INEI
 
 Para ver un ejemplo de uso, ingresa a http://angelfqc.github.io/ubigeo-peru/
+* Los códigos Ubigeo en esta lista son según el [Sistema de Consulta de Códigos Estandarizados](http://webinei.inei.gob.pe:8080/sisconcode/publico.htm) del INEI
