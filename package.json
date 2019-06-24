@@ -1,0 +1,26 @@
+{
+  "name": "ubigeo-peru",
+  "version": "2.0.0",
+  "description": "Ubigeos para perú según RENIEC y INEI.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelFQC/ubigeo-peru.git"
+  },
+  "keywords": [
+    "ubigeo",
+    "reniec",
+    "inei",
+    "peru",
+    "perú"
+  ],
+  "author": "Angel Fernando Quiroz Campos <angelfqc.18@gmail.com> (http://angelfqc.online)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/AngelFQC/ubigeo-peru/issues"
+  },
+  "homepage": "https://github.com/AngelFQC/ubigeo-peru#readme"
+}
