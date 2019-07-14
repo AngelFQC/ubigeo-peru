@@ -1,60 +1,58 @@
 <!DOCTYPE html>
-<html>
-	<head>
-		<title>Ubigeo Perú</title>
-		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width">
-		<link rel="stylesheet" href="//bootswatch.com/4/lumen/bootstrap.min.css">
-		<style>
-			ul input {display: none;}
-			ul label {display: block;}
-			ul input:checked + label {color: #000; font-size: 16px;}
-		</style>
-	</head>
-	<body>
-		<div class="container">
-			<header>
-				<h1 class="page-header">Ubigeo Perú</h1>
-			</header>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>UBIGEO Perú</title>
+    <link rel="stylesheet" href="dist/style.css">
+</head>
+<body>
+<div class="container">
+    <h1 class="border-bottom my-5">
+        UBIGEO
+        <small class="text-muted">Perú</small>
+    </h1>
 
-			<div class="row">
-				<div class="col-sm-4">
-					<div class="panel panel-primary">
-						<div class="panel-heading">
-							<h3 class="panel-title">Regiones</h3>
-						</div>
-						<div class="panel-body">
-							<ul class="list-unstyled" id="regions-list"></ul>
-						</div>
-					</div>
-				</div>
+    <div class="btn-toolbar mb-3" role="toolbar" aria-label="Fuente">
+        <div class="btn-group btn-group-toggle" data-toggle="buttons" aria-label="">
+            <label class="btn btn-primary">
+                <input type="radio" name="rdb-type" value="reniec" autocomplete="off"> RENIEC
+            </label>
+            <label class="btn btn-primary">
+                <input type="radio" name="rdb-type" value="inei" autocomplete="off"> INEI
+            </label>
+        </div>
+    </div>
 
-				<div class="col-sm-4">
-					<div class="panel panel-primary">
-						<div class="panel-heading">
-							<h3 class="panel-title">Provincias</h3>
-						</div>
-						<div class="panel-body">
-							<ul class="list-unstyled" id="provinces-list"></ul>
-						</div>
-					</div>
-				</div>
+    <div class="btn-toolbar mb-3" role="toolbar" aria-label="Ubicación">
+        <div class="input-group mr-2">
+            <div class="input-group-prepend">
+                <div class="input-group-text">Departamento</div>
+            </div>
+            <select class="custom-select" id="slc-departamentos" aria-label="Departamento"></select>
+        </div>
+        <div class="input-group mr-2">
+            <div class="input-group-prepend">
+                <div class="input-group-text">Provincia</div>
+            </div>
+            <select class="custom-select" id="slc-provincias" aria-label="Provincia"></select>
+        </div>
+        <div class="input-group mr-2">
+            <div class="input-group-prepend">
+                <div class="input-group-text">Distrito</div>
+            </div>
+            <select class="custom-select" id="slc-distritos" aria-label="Distrito"></select>
+        </div>
+    </div>
 
-				<div class="col-sm-4">
-					<div class="panel panel-primary">
-						<div class="panel-heading">
-							<h3 class="panel-title">Distritos</h3>
-						</div>
-						<div class="panel-body">
-							<ul class="list-unstyled" id="districts-list"></ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
+    <hr>
 
-		<script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
-		<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
-		<script src="./search.js"></script>
-	</body>
+    <div class="jumbotron text-center text-primary text-monospace">
+        <p class="display-1" id="ubigeo-code"></p>
+    </div>
+</div>
+
+
+<script src="dist/runtime.js"></script>
+<script src="dist/app.js"></script>
+</body>
 </html>

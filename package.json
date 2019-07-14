@@ -1,0 +1,18 @@
+{
+  "name": "ubigeo-peru-demo",
+  "version": "2.0.0",
+  "repository": "git@github.com:AngelFQC/ubigeo-peru.git",
+  "author": "Angel Fernando Quiroz Campos <angelfqc.18@gmail.com>",
+  "license": "GPL-3.0",
+  "private": true,
+  "devDependencies": {
+    "@symfony/webpack-encore": "^0.27.0",
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "lodash": "^4.17.11",
+    "node-sass": "^4.12.0",
+    "popper.js": "^1.15.0",
+    "sass-loader": "^7.1.0",
+    "ubigeo-peru": "^2.0.1"
+  }
+}
