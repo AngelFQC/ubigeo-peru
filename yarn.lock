@@ -6409,10 +6409,10 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-ubigeo-peru@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/ubigeo-peru/-/ubigeo-peru-2.0.1.tgz#5aaf087383ba11f1f4a09d5325af5e33368d58a3"
-  integrity sha512-40YhqttVDajpRs5D45+J5jD4PFnhkqbLC0nOUfPNXDkKGJc5gU7fLwhrjUiaPV7m1AAOOEi1DmHSskhFrSghjA==
+ubigeo-peru@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/ubigeo-peru/-/ubigeo-peru-2.0.2.tgz#f448f5508251293106455f8688bd72f64c089812"
+  integrity sha512-AFMlOcnB9cj2Y77ruZ2qej1UJISsMR59Nc6GgKJLR+Oz85ivCjJgLDH96IxSISwpku9QzHM4UtdLhWmdnDW96A==
 
 unicode-canonical-property-names-ecmascript@^1.0.4:
   version "1.0.4"
