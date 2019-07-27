@@ -11,7 +11,7 @@ Códigos de Ubicación Geográfica del Perú
 > El Ubigeo es el identificador numérico único que se asigna a cada ámbito político administrativo del país para identificar al departamento, provincia y distrito.
 > - INEI
 
-# Install
+# Instalación
 
 Instalar con [NPM](https://www.npmjs.com/package/ubigeo-peru)
 
@@ -25,3 +25,7 @@ yarn add ubigeo-peru
 
 ```
 
+## Port de Rust
+
+[Crate de Rust](https://crates.io/crates/ubigeo-peru)
+- Repo https://github.com/AngelFQC/ubigeo-peru-rs
