@@ -3,12 +3,13 @@
   "version": "2.0.2",
   "description": "Ubigeos para perú según RENIEC y INEI.",
   "main": "src/index.js",
+  "private": false,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AngelFQC/ubigeo-peru.git"
+    "url": "https://github.com/AngelFQC/ubigeo-peru.git"
   },
   "keywords": [
     "ubigeo",
